@@ -98,6 +98,8 @@
 	<string name="donot_bind">Nemoj povezati</string> 
 	<string name="download_failed">Nije uspjelo preuzimanje APK ažuriranje</string> 
 	<string name="downloading_apk">MiBand aplikacija</string> 
+    <string name="dynamic_detail_modify_sleep_end_time">Uredi vrijeme buđenja</string>
+    <string name="dynamic_detail_modify_sleep_start_time">Uredi vrijeme spavanja</string>
 	<string name="dynamic_detail_sleep_title">%s ukupno spavano</string> 
 	<string name="dynamic_detail_sleep_title_yesterday">Jučerašnje izvješće spavanja</string> 
 	<string name="dynamic_detail_step_share_title">%s aktivnosti</string> 
@@ -111,10 +113,13 @@
 	<string name="dynamic_pull_pull_to_sync">Povucite dolje za sinkr.</string> 
 	<string name="dynamic_pull_release_to_sync">Otpustite za sinkr.</string> 
 	<string name="dynamic_pull_sync_after_connected">Nakon uspješnog povezivanja, automatska sinkr. će započeti</string> 
+	<string name="dynamic_pull_sync_error">Sinkronizacija nije uspjela, pokušajte ponovo</string>
 	<string name="dynamic_pull_syncing">Detalji sinkr….</string> 
 	<string name="dynamic_pull_syncing_progress">Sinkronizirano %s%%</string> 
 	<string name="dynamic_pull_update_report">Ažurirano zapisa %s</string> 
 	<string name="dynamic_sleep_active">Budan</string> 
+    <string name="dynamic_sleep_active_end">Vrijeme je za buđenje</string>
+    <string name="dynamic_sleep_active_start">Vrijeme je za spavanje</string>
 	<string name="dynamic_sleep_deep">Duboki san</string> 
 	<string name="dynamic_sleep_deep_title">Duboki san %s</string> 
 	<string name="dynamic_sleep_shallow">Lagani san</string> 
@@ -124,6 +129,8 @@
 	<string name="dynamic_tip_step_sync_time_hour">%d h prije koraka</string> 
 	<string name="dynamic_tip_step_sync_time_min">%d min prije koraka</string> 
 	<string name="dynamic_tip_step_unsynced">Koraci nisu ažurirani</string> 
+	<string name="dynamic_tip_sync_progress">Sinkr. %d%%</string>
+    <string name="dynamic_tip_sync_time">%s sinkr.</string>
 	<string name="dynamic_tip_unweared">Bez MiBand</string> 
 	<string name="dynamic_title_sleep">Prethodna noć spavanja</string> 
 	<string name="dynamic_title_step">Današnje aktivnosti</string> 
@@ -153,10 +160,13 @@
 	<string name="fw_failed_help_title0">Što je Firmware?</string> 
 	<string name="fw_failed_help_title1">Zašto je potrebno ažurirati Firmware?</string> 
 	<string name="fw_failed_help_title2">Ažuriranje Firmware-a nije uspjelo?</string> 
+	<string name="fw_upgrade">Ažuriranje Firmware-a</string>
 	<string name="fw_upgrade_failed">Ažuriranje Firmware-a nije uspjelo</string> 
-	<string name="fw_upgrade_failed_tips">Žao nam je, MiBand ažuriranje firmvera nije uspjelo te to može uzrokovati da neke značajke neće raditi ispravno.</string> 
+	<string name="fw_upgrade_failed_tips">Žao nam je, MiBand ažuriranje firmware-a nije uspjelo te to može uzrokovati da neke značajke neće raditi ispravno.</string> 
 	<string name="fw_upgrade_now">Firmware se trenutno ažurira</string> 
+	<string name="fw_upgrade_progress">Ažuriranje %s%%</string>
 	<string name="fw_upgrade_succ">Firmware ažuriranje je uspješno, pričekajte da se MiBand ponovno pokrene</string> 
+	<string name="fw_upgrade_tips">升级中请勿让手环远离手机</string>
 	<string name="get_help">Pomoć</string> 
 	<string name="get_image_file_fail">Primanje slike nije uspjelo</string> 
 	<string name="goals_push_five">50% završeno</string> 
@@ -218,7 +228,7 @@
 	<string name="mili_unbind_question">Nakon prekidanja veze, telefon više neće biti u mogućnosti primati informacije od MiBand</string> 
 	<string name="mili_unbind_question_content">Nakon prekidanja veze, možete koristiti neki drugi telefon za spajanje na MiBand ili zamijeniti ga s drugim.</string> 
 	<string name="mili_unbind_question_content_1">Ukoliko ste već podesili MiBand za otključavanje telefona, prekidanje veze će spriječiti tu funkciju.</string> 
-	<string name="mininute">minuta</string> 
+	<string name="minute">minuta</string> 
 	<string name="modify_gender">Spol</string> 
 	<string name="modify_height">Visina</string> 
 	<string name="modify_nickname">Ažuriraj nadimak</string> 
@@ -236,7 +246,9 @@
 	<string name="new_record_format_str">"Pređeno %1$s, potrošeno %2$skcal, novi rekord je samo na korak ovog mog dugog putovanja"</string> 
 	<string name="new_version_available">Dostupna nova verzija</string> 
 	<string name="next_step">Dalje</string> 
-	<string name="no_wear_bracelet">MiBand nije nošen</string> 
+	<string name="no_network_connection">Nema veze</string>
+	<string name="no_wear_bracelet">MiBand nije nošen</string>
+    <string name="no_wear_user_modified">Započnite praćenje sna</string>	
 	<string name="noti_bracelet_low_battery_content">Baterija MiBand je na manje od 5%, priključite punjač</string> 
 	<string name="noti_bracelet_low_battery_content_none">MiBand mora biti priključen na punjač</string> 
 	<string name="noti_bracelet_low_battery_title">Slaba baterija MiBand</string> 
@@ -268,6 +280,7 @@
 	<string name="reset_mili">Resetiraj MiBand</string> 
 	<string name="retry">Pokušaj ponovo</string> 
 	<string name="right_hand">Desna ruka</string> 
+	<string name="runed">Uključite</string>
 	<string name="s_mili">MiBand</string> 
 	<string name="search_bracelet">Traži MiBand</string> 
 	<string name="search_bracelet_again">Novo pretraživanje</string> 
@@ -317,6 +330,10 @@
 	<string name="share_step_goal_succ_title_today">Ukupno postignuća danas</string>
 	<string name="share_step_walk">Ukupno sam prohodao</string>
 	<string name="share_to_content">MiBand kampanja dijeljenja</string> 
+    <string name="share_to_miliao_path">选择分享途径</string>
+    <string name="share_to_miliao_target_feeds">分享到圈子</string>
+    <string name="share_to_miliao_target_friends">分享给好友</string>
+    <string name="share_to_miliao_target_union">分享给公会</string>
 	<string name="share_to_title">Xiaomi MiBand</string> 
 	<string name="share_uninstall_client">Aplikacija nije instalirana, dijeljenje nije moguće</string> 
 	<string name="smart_alarm_clock">Pametan Alarm</string> 

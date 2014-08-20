@@ -371,7 +371,7 @@
   <string name="pref_development_trace">Omogući praćenje</string>
   <string name="pref_development_viewport">Koristite širok pregled</string>
   <string name="pref_development_visual_indicator">Omogućite vizualni pokazatelj</string>
-  <string name="pref_enable_adblock_notification">Blokiranje oglasa</string>
+  <string name="pref_enable_adblock_notification">Upozori o blokiranju reklama</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Izađi zatvaranjem zadnje kartice</string>
   <string name="pref_extras_reset_default">Vrati na zadano</string>
   <string name="pref_extras_reset_default_dlg">Vratiti postavke na zadane vrijednosti?</string>
