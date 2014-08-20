@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">DS</string>
+  <string name="game">Igra</string>
+  <string name="movie">Film</string>
+  <string name="music">Glazba</string>
+  <string name="name_widget_extra_large">DS 6 Profil</string>
+  <string name="name_widget_large">DS 3 Profil</string>
+  <string name="name_widget_small">DS Uklj./Isklj.</string>
+  <string name="preset_1">Prilagođeno 1</string>
+  <string name="preset_2">Prilagođeno 2</string>
+  <string name="remote_service_stopped">Daljinska usluga je zaustavljena</string>
+  <string name="voice">Glas</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Jedna stranica po strani</item>
+        <item>Dvije stranice po strani</item>
+        <item>Četiri stranice po strani</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Portret</item>
+        <item>Pejzaž</item>
+        <item>Okrenuti pejzaž</item>
+        <item>Okrenuti portret</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Jednostrani</item>
+        <item>Obostrani dugi rub</item>
+        <item>Obostrani kratki rub</item>
+    </string-array>
+</resources>

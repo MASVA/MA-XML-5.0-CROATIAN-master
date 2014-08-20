@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ext_media_badremoval_notification_message">Isključite SD karticu na siguran način prije uklanjanja kako biste izbjegli gubitak podataka.</string>
+  <string name="ext_media_badremoval_notification_title">SD kartica je neočekivano uklonjena.</string>
+  <string name="ext_media_checking_notification_title">Pripremanje SD kartice</string>
+  <string name="ext_media_nofs_notification_message">SD kartica je prazna ili ima nepodržani datotečni sustav.</string>
+  <string name="ext_media_nofs_notification_title">Prazna SD kartica</string>
+  <string name="ext_media_nomedia_notification_message">SD kartica je uklonjena. Umetnite novi medij.</string>
+  <string name="ext_media_nomedia_notification_title">SD kartica je uklonjena</string>
+  <string name="ext_media_safe_unmount_notification_message">Možete ukloniti SD karticu na siguran način.</string>
+  <string name="ext_media_safe_unmount_notification_title">SD kartica se može ukloniti na siguran način</string>
+  <string name="ext_media_unmountable_notification_message">SD kartica je oštećena. Možda ćete je morati iznova formatirati.</string>
+  <string name="ext_media_unmountable_notification_title">Oštećena SD kartica</string>
+  <string name="usb_storage_error_message">Došlo je do pogreške s vašom SD karticom.</string>
+  <string name="usb_storage_message">Povezali ste se s računalom putem USB-a. Dodirnite donji gumb ako želite kopirati datoteke između računala i SD kartice svog uređaja Android."</string>
+  <string name="usb_storage_stop_message">Prije isključivanja SD kartice uklonite (\"izbacite\") SD karticu svojeg Android uređaja iz računala.</string>
+</resources>

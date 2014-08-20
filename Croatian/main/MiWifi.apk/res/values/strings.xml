@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi WIFI</string>
+    <string name="main_title">Portable WIFI shared disk</string>
+    <string name="refresh">Refresh</string>
+    <string name="select_all">Select</string>
+    <string name="select_none">Clear All</string>
+    <string name="selected_prompt">Selected files %s</string>
+    <string name="please_select">Please select a file</string>
+    <string name="ok">OK</string>
+    <string name="shared_root_folder">Shared disk</string>
+    <string name="loading_prompt">Connecting shared disk...</string>
+    <string name="please_connect_miwifi">Connect millet portable WIFI</string>
+    <string name="play">Play</string>
+    <string name="download_to_phone">Download to your phone</string>
+    <string name="cancel">Cancel</string>
+    <string name="folder_empty">No file</string>
+    <string name="type_text">text</string>
+    <string name="type_audio">audio</string>
+    <string name="type_video">video</string>
+    <string name="type_image">image</string>
+    <string name="download_history">Downloaded</string>
+    <string name="downloading">Downloading...</string>
+    <string name="remove">Delete</string>
+    <string name="download_list_empty">Currently no download tasks</string>
+    <string name="paused">Paused</string>
+    <string name="download_failed">Download failed</string>
+    <string name="download_loading">Loading</string>
+    <string name="remote_shutdown">Remote computer shuts down</string>
+    <string name="start">Start</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Min</string>
+    <string name="less_one_minute">1 minute</string>
+    <string name="timing_prompt">Shutdown after %s</string>
+    <string name="will_be_shutdown">Will shut down</string>
+    <string name="shutdown_prompt_dialog_title">Permissions Tips</string>
+    <string name="shutdown_prompt_dialog_message">The first time you need to set permissions on PC</string>
+    <string name="shutdown_prompt_dialog_ok">OK</string>
+    <string name="ppt_control">Slide the remote control</string>
+    <string name="play_ppt_prompt">Make sure the computer is turned on slide file</string>
+    <string name="slide_ppt_prompt">Click on the slide or flip around the region</string>
+</resources>

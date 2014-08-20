@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clock version="1" type="awesome" frameRate="20" screenWidth="720">
+	<Button name="clock_button" x="#view_width/2-150" y="50" w="320" h="120"/>
+	<Button x="#view_width/2-100" y="220" w="200" h="120" >
+		<Triggers>
+			<Trigger action="up">
+			<IntentCommand action="android.intent.action.MAIN" package="pro.burgerz.weather" class="pro.burgerz.weather.ActivityWeatherRoot"/>	
+			</Trigger>
+		</Triggers>
+	</Button>
+	<VariableBinders>
+		<ContentProviderBinder
+				name="city_binder"
+				uri="content://pro.burgerz.weather/cities"
+				columns="location,isHome"
+				where="isHome=1 OR isGPS=1"
+				order="isHome DESC, isGPS DESC"
+				countName="hasHomeCity" >
+			<Variable name="cities_location" type="string" column="location" row="0"/>
+			<Variable name="cities_ishome" type="int" column="isHome" row="0"/>
+		</ContentProviderBinder>
+		<ContentProviderBinder
+				name="weather_binder"
+				dependency="city_binder"
+				uri="content://pro.burgerz.weather/weather"
+				columns="station,temp,weatherID"
+				whereFormat="station='%s'"
+				whereParas="@cities_location"
+				countName="hasweather">
+		     <Variable name="weather_temperature" type="int" column="temp" row="0"/>
+		     <Variable name="weather_temperature_str" type="string" column="temp" row="0"/>
+		     <Variable name="weather_id" type="int" column="weatherID" row="0"/>
+			 <Variable name="weather_location" type="string" column="station" row="0"/>
+		</ContentProviderBinder>
+	</VariableBinders>
+	
+      <Var name="has_night_icon" expression="eq(#weather_id,0)+eq(#weather_id,1)"/>
+	  <Var name="icon_suffix" expression="ifelse(#has_night_icon,'_'+not(ge(#hour24,6)*le(#hour24,17)),'')" type="string"/>
+
+		<Time x="#view_width/2" y="120" src="time.png" align="center" alignV="center"/>
+
+		<DateTime x="#view_width/2" y="#view_height/2+15"   color="#ffffff" size="30" align="center" format="d MMMM yyyy" marqueeSpeed="30" w="450"/>
+		<DateTime x="#view_width/2" y="#view_height/2+19"   color="#000000" size="30" align="center" format="d MMMM yyyy" marqueeSpeed="30" w="450" alpha="20"/>
+		
+		<Text textExp="@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="#view_width/2" y="#view_height/2+55" align="center" alignV="top" color="#ffffff" marqueeSpeed="30" size="30"/>
+		<Text textExp="@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="#view_width/2" y="#view_height/2+59" align="center" alignV="top" color="#000000" marqueeSpeed="30" alpha="20" size="30"/>
+		
+</clock>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Pohrana kontakata</string>
+  <string name="call_log_provider_label">Popis poziva</string>
+  <string name="create_contact">Kreiraj novi kontakt</string>
+  <string name="debug_dump_database_message">Spremate se 1) napraviti kopiju svoje baze podataka koja sadrži sve važne informacije svih kontakata i poziva na unutarnjoj pohrani i 2) poslati je e-poštom. Ne zaboravite izbrisati kopiju čim ste je uspješno kopirali s uređaja ili primili e-poštu.</string>
+  <string name="debug_dump_delete_button">Izbrisati sada</string>
+  <string name="debug_dump_email_body">U prilogu je moja baza kontakata sa svim mojim informacijama kontakata.Budi oprezan</string>
+  <string name="debug_dump_email_sender_picker">Izaberite program za slanje datoteke</string>
+  <string name="debug_dump_email_subject">Kontakti DB priloženi</string>
+  <string name="debug_dump_start_button">Započni</string>
+  <string name="debug_dump_title">Kopiraj bazu podataka kontakata</string>
+  <string name="default_directory">Kontakti</string>
+  <string name="edit_contact">Dodaj kontaktu</string>
+  <string name="local_invisible_directory">Ostalo</string>
+  <string name="pound_search_tip">\"#\" pa unesi broj za pretragu</string>
+  <string name="provider_label">Kontakti</string>
+  <string name="read_write_all_voicemail_description">Dozvoliti aplikaciji da sprema/vraća sve govorne pošte kojim ovaj uređaj može pristupiti.</string>
+  <string name="read_write_all_voicemail_label">Pristupiti svim govornim  poštama</string>
+  <string name="send_sms">Pošalji poruku</string>
+  <string name="sharedUserLabel">Temeljne Andriod aplikacije</string>
+  <string name="third_party_delete_contact_info">\"%s\" briše vaše Xiaomi kontakte, umjesto toga koristite vaše sistemske kontakte za poboljšanje sigurnosti. </string>
+  <string name="upgrade_msg">Nadogradnja baze podataka kontakata.</string>
+  <string name="upgrade_out_of_memory_notification_text">Označi da se završi nadogradnja.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Nadogradnja kontakta zahtjeva više memorije</string>
+  <string name="upgrade_out_of_memory_notification_title">Nadogradnja pohrane kontakata</string>
+  <string name="voicemail_from_column">"Govorna pošta od  "</string>
+</resources>

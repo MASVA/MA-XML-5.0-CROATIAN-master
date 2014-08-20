@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi WIFI</string>
+    <string name="cancel">Odustani</string>
+    <string name="download_failed">Preuzimanje nije uspjelo</string>
+    <string name="download_history">Preuzeto</string>
+    <string name="download_list_empty">Trenutno nema zadataka preuzimanja</string>
+    <string name="download_loading">Učitavanje</string>
+    <string name="download_to_phone">Preuzeti na telefon</string>
+    <string name="downloading">Preuzimanje...</string>
+    <string name="folder_empty">Nema datoteka</string>
+    <string name="hour">Sati</string>
+    <string name="less_one_minute">1 minuta</string>
+    <string name="loading_prompt">Povezivanje diska dijeljena...</string>
+    <string name="main_title">Portable WIFI dijeljeni disk</string>
+    <string name="minute">Min</string>
+    <string name="ok">U redu</string>
+    <string name="paused">Pauzirano</string>
+    <string name="play">Prikaži</string>
+    <string name="play_ppt_prompt">Provjerite je li PC uključen u daljinsku datoteku</string>
+    <string name="please_connect_miwifi">Povežite prijenosni Mi WIFI</string>
+    <string name="please_select">Odaberite datoteku</string>
+    <string name="ppt_control">Pomaknite daljinsko upravljanje</string>
+    <string name="refresh">Osvježi</string>
+    <string name="remote_shutdown">Daljinsko gašenje računala</string>
+    <string name="remove">Izbriši</string>
+    <string name="select_all">Sve</string>
+    <string name="select_none">Poništi</string>
+    <string name="selected_prompt">Odabrano %s</string>
+    <string name="shared_root_folder">Dijeljeni disk</string>
+    <string name="shutdown_prompt_dialog_message">Prvi put je potrebno postaviti dozvole na PC-u</string>
+    <string name="shutdown_prompt_dialog_ok">U redu</string>
+    <string name="shutdown_prompt_dialog_title">Savjeti dopuštenja</string>
+    <string name="slide_ppt_prompt">Kliknite na slide ili okolno područje</string>
+    <string name="start">Start</string>
+    <string name="timing_prompt">Isključi nakon %s</string>
+    <string name="type_audio">audio</string>
+    <string name="type_image">slika</string>
+    <string name="type_text">tekst</string>
+    <string name="type_video">video</string>
+    <string name="will_be_shutdown">Isključivanje</string>
+</resources>

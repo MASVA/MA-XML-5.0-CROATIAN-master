@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_language_entries">
+        <item>Engleski</item>
+        <item>Francuski</item>
+        <item>Španjolski</item>
+        <item>Japanski</item>
+        <item>Korejski</item>
+        <item>Kineski</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Početna samo</item>
+        <item>Automatski</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Isključen</item>
+        <item>TTY Pun</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalno</item>
+        <item>Dugo</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Uvijek</item>
+        <item>Samo bešumno</item>
+        <item>Nikad</item>
+    </string-array>
+</resources>

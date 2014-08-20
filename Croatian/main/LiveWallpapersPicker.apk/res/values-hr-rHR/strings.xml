@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="application_name">"Izbornik animiranih slika pozadine"</string>
+  <string name="configure_wallpaper">"Postavke…"</string>
+  <string name="live_wallpaper_empty">"Nema animiranih slika pozadine."</string>
+  <string name="live_wallpaper_loading">"Učitavanje animirane slike pozadine…"</string>
+  <string name="live_wallpaper_picker_label">"Animirane slike pozadine"</string>
+  <string name="live_wallpaper_picker_title">"Odaberite animiranu sliku pozadine"</string>
+  <string name="live_wallpaper_preview_title">"Pregled animirane slike pozadine"</string>
+  <string name="set_live_wallpaper">"Postavljanje pozadine"</string>
+  <string name="wallpaper_cancel">"Odustani"</string>
+  <string name="wallpaper_instructions">"Postavljanje pozadine"</string>
+  <string name="wallpaper_title_and_author">"%1$s od %2$s"</string>
+</resources> 

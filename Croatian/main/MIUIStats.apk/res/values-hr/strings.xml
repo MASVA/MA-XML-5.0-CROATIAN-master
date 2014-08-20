@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Statistika</string>
+  <string name="main_btn_preview">Prikaži</string>
+  <string name="main_btn_save">Znam</string>
+  <string name="main_desc">Opt-ing podnošenje anonimnog korištenja podataka omogućuje programerima Grupe prevoditelja praćenje jedinstvene instalacije na svim uređajima. Podnijete informacije sadrže jedinstveni identifikator koji ne ugrožava vašu privatnost, vrstu uređaja i informacije o verziji. Podaci se podnose na svakom pokretanju uređaja, na primjer, za podatak koji je poslan, molimo  Vas, kliknite na "Pregled" ispod.</string>
+  <string name="main_link">&lt;a href=http://kdeveloper.ru/stats/&gt;Saznajte više&lt;/a&gt;</string>
+  <string name="main_optin">Omogući izvješća</string>
+  <string name="main_show_stats">Statistika</string>
+  <string name="main_title">Anonimno Korištenje podataka</string>
+  <string name="notification_desc">Prikupili smo anonimnu statistiku</string>
+  <string name="notification_ticker">Statistics Opted-In</string>
+  <string name="notification_title">Statistika</string>
+  <string name="preview_build_lbl">Napravljena s</string>
+  <string name="preview_carrier_lbl">Operater</string>
+  <string name="preview_country_lbl">Zemlja</string>
+  <string name="preview_device_lbl">Uređaj</string>
+  <string name="preview_done_btn">Gotovo</string>
+  <string name="preview_id_lbl">Jedinstveni ID</string>
+  <string name="preview_miui_lbl">MIUI verzija</string>
+  <string name="preview_repo_lbl">Repositorij prijevoda</string>
+  <string name="preview_version_lbl">Verzija</string>
+</resources>

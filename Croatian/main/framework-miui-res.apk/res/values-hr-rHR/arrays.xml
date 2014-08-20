@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_future">
+        <item>Alarm za manje od minute</item>
+        <item>Alarm za %1$s</item>
+        <item>Alarm za %2$s</item>
+        <item>Alarm za %1$s %2$s</item>
+        <item>Alarm za %3$s</item>
+        <item>Alarm za %1$s %3$s</item>
+        <item>Alarm za %2$s %3$s</item>
+        <item>Alarm za %1$s %2$s %3$s</item>
+    </string-array>
+	<string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Nadimak</item>
+        <item>Telefon</item>
+        <item>E-pošta</item>
+        <item>Organizacija</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Rođendan</item>
+        <item>Web stranica</item>
+        <item>Adresar</item>
+        <item>Bilješka</item>
+    </string-array>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ništa</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi i 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ništa</item>
+        <item>Logcat</item>
+        <item>Systrace (grafika)</item>
+        <item>Pozivni snop za funkciju glGetError</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Jako</item>
+        <item>Srednje</item>
+        <item>Slabo</item>
+    </string-array>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Prve 4 znamenke</item>
+        <item>Zadnje 4 znamenke</item>
+        <item>Ne prikazuj</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Jednom</item>
+        <item>Uvijek</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto)</item>
+        <item>Samo WCDMA</item>
+        <item>Samo GSM</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automatsko povezivanje</item>
+        <item>Ručno povezivanje</item>
+        <item>Uvijek pitaj</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Samo Doma</item>
+        <item>Doma + Roaming</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Predviđeno vrijeme mreže</item>
+        <item>Predviđeno vrijeme GPS-a</item>
+        <item>Isključeno</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Cijeli zaslon</item>
+        <item>Prilagođeno</item>
+        <item>Origialna veličina</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(neodređeno)</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Auto</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Uvijek</item>
+        <item>Isključi kad je stanje mirovanja za 5 min</item>
+        <item>Isključi kad je stanje mirovanja za 10 min</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="usb_tether_type_entries">
+        <item>Windows(RNDIS)</item>
+        <item>Linux/Mac OS(EEM)</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>WPS gumb</item>
+        <item>PIN od klijenta</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 korisnik</item>
+        <item>2 korisnika</item>
+        <item>3 korisnika</item>
+        <item>4 korisnika</item>
+        <item>5 korisnika</item>
+        <item>6 korisnika</item>
+        <item>7 korisnika</item>
+        <item>8 korisnika</item>
+    </string-array>
+	<string-array name="power_mode_entries">
+        <item>Performanse</item>
+        <item>Balansirano (Zadano)</item>
+        <item>Štednja baterije</item>
+        </string-array>
+	<string-array name="power_dialog_cpu_state_items">
+        <item>Viskoke performanse</item>
+        <item>Balansirano (Zadano)</item>
+        <item>Štednja baterije</item>
+	</string-array>
+</resources>

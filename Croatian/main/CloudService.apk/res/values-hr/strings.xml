@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Mi Cloud Sinkr.</string>
+  <string name="find_device">Pronađi uređaj</string>
+  <string name="find_device_noise_title">Pronađite telefon zvukom</string>
+  <string name="find_device_stop_noise">Klikni\"U redu\" da ugasite zvuk alarma</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkr. slika kontakata samo preko WLAN-a radi izbjegavanja dodatnih troškova"</string>
+  <string name="pref_title_sync_contacts_title">Sinkr. kontakata</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Koristite samo WLAN za sinkronizaciju fotografija</string>
+  <string name="pref_title_sync_my_profile_title">Sinkroniziraj moj profil</string>
+  <string name="sub_sync_item_sms_summary">Sinkro. poruka samo preko WLAN-a radi izbjegavanja dodatnih troškova</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Koristite samo WLAN za sinkronizaciju SMS/MMS-a</string>
+  <string name="sync_item_calllog_summary">Sinkr. popisa dolaznih i odlaznih poziva</string>
+  <string name="sync_item_calllog_title">Sinkr. popisa poziva</string>
+  <string name="sync_item_sms_summary">Poruke će biti automatski sinkronizirane</string>
+  <string name="sync_item_sms_title">Sinkr. poruka</string>
+</resources>

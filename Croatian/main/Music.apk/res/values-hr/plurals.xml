@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d povezanih pjesama</item>
+        <item quantity="one">%d povezana pjesma</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d pjesama</item>
+        <item quantity="one">%d pjesma</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d pjesama</item>
+        <item quantity="one">%d pjesma</item>
+    </plurals>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%d pjesama</item>
+        <item quantity="one">%d pjesma</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%d albuma</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">pjesama</item>
+        <item quantity="one">pjesma</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">albuma</item>
+        <item quantity="one">album</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">izvođača</item>
+        <item quantity="one">izvođač</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">popisi pjesama</item>
+        <item quantity="one">popis pjesama</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" datoteka"</item>
+        <item quantity="one">" datoteka"</item>
+    </plurals>
+    <plurals name="Nitems_batch_selection">
+        <item quantity="other">Odabrano %d stavaka</item>
+        <item quantity="one">Odabrana %d stavka</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">Postoji %d pjesama na SD kartici.</item>
+        <item quantity="one">Postoji %d pjesma na SD kartici.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d pjesama je dodano na popis pjesama.</item>
+        <item quantity="one">1 pjesma je dodana na popis pjesama.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d pjesama uklonjeno s popisa.</item>
+        <item quantity="one">1 pjesma uklonjena s popisa.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%d pjesama dodano na popis.</item>
+        <item quantity="one">1 pjesma dodana na popis.</item>
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d rezultata</item>
+        <item quantity="one">%d rezultat</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" kategorija"</item>
+        <item quantity="one">" kategorija"</item>
+    </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d dana preostalo</item>
+        <item quantity="one">%d dan preostao</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d pjesama</item>
+        <item quantity="one">%1$s, %2$d pjesma</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d pjesmama je izbrisano.</item>
+        <item quantity="one">1 pjesma je izbrisana.</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d pjesma će biti preuzeto.</item>
+        <item quantity="one">1 pjesma će biti preuzeta.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d pjesama uklonjeno iz favorita.</item>
+        <item quantity="one">1 pjesma uklonjena iz favorita.</item>
+    </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d najbolje ocjenjenih pjesama</item>
+        <item quantity="one">%d najbolje ocjenjena pjesma</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Vaš pristup visoko kvalitetnoj glazbi će uskoro isteći (%d dana preostalo)</item>
+    </plurals>
+	<plurals name="Nexpired_remind">
+        <item quantity="other">Preostalo %d dana</item>
+        <item quantity="one">Preostao %d dan</item>
+    </plurals>
+</resources>

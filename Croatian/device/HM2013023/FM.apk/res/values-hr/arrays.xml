@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 sat</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Sve postaje</item>
+        <item>Adult Hits</item>
+        <item>Klasično</item>
+        <item>Klasični Rock</item>
+        <item>Fakultet</item>
+        <item>Zemlja</item>
+        <item>Emergency</item>
+        <item>Emergency Test</item>
+        <item>Strani jezik</item>
+        <item>Informatcije</item>
+        <item>Jazz</item>
+        <item>Vijesti</item>
+        <item>Nostalgija</item>
+        <item>Oldies</item>
+        <item>Osobno</item>
+        <item>Javno</item>
+        <item>Religijska glazba</item>
+        <item>Religijski govori</item>
+        <item>Ritan i bluz</item>
+        <item>Rock</item>
+        <item>Soft</item>
+        <item>Soft Rock</item>
+        <item>Soft Rhythm and Blues</item>
+        <item>Sport</item>
+        <item>Razgovori</item>
+        <item>Top 40</item>
+        <item>Vrijeme</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>All Stations</item>
+        <item>Culture</item>
+        <item>Current Affairs</item>
+        <item>Program za djecu</item>
+        <item>Country Music</item>
+        <item>Documentary</item>
+        <item>Drama</item>
+        <item>Easy Listening Music</item>
+        <item>Education</item>
+        <item>Emergency</item>
+        <item>Emergency Test</item>
+        <item>Finance</item>
+        <item>Folk Music</item>
+        <item>Information</item>
+        <item>Jazz Music</item>
+        <item>Light classical</item>
+        <item>Leisure</item>
+        <item>News</item>
+        <item>National Music</item>
+        <item>Other Music</item>
+        <item>Oldies Music</item>
+        <item>Phone In</item>
+        <item>Pop Music</item>
+        <item>Religion</item>
+        <item>Rock Music</item>
+        <item>Science</item>
+        <item>Serious classical</item>
+        <item>Social Affairs</item>
+        <item>Sport</item>
+        <item>Travel</item>
+        <item>Varied</item>
+        <item>Vrijeme</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Preimenuj</item>
+        <item>Odaberi automatski</item>
+        <item>Ukloni</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+        <item>North America</item>
+        <item>Europe</item>
+        <item>Japan</item>
+        <item>Japan (Wide)</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Belgium</item>
+        <item>Brazil</item>
+        <item>China</item>
+		<item>Croatia</item>
+        <item>Czech</item>
+        <item>Denmark</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Greece</item>
+        <item>Hong Kong</item>
+        <item>India</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Korea</item>
+        <item>Mexico</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Norway</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Russia</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Spain</item>
+        <item>Switzerland</item>
+        <item>Sweden</item>
+        <item>Taiwan</item>
+        <item>Turkey</item>
+        <item>UK</item>
+        <item>USA</item>
+    </string-array>
+    <string-array name="regional_band_summary">
+        <item>Sjeverna Amerika (87.5MHz do 108.0MHz co 200 KHz)</item>
+        <item>Europa (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Japan (76.0MHz do 90.0MHz co 100 KHz)</item>
+        <item>Japan (široko) (90.0MHz do 108.0MHz co 50 KHz)</item>
+        <item>Australija (87.7MHz do 108.0MHz co 100 KHz)</item>
+        <item>Austrija (87.5MHz do 108.0MHz co 50 KHz)</item>
+        <item>Belgija (87.5MHz do 108.0MHz co 100 KHz)</item>
+		<item>Hrvatska (87.5MHz do 108.0MHz co 50 KHz)</item>
+        <item>Brazil (87.8MHz do 108.0MHz co 200 KHz)</item>
+        <item>Kina (87.0MHz do 108.0MHz co 100 KHz)</item>
+        <item>Češka (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Danska (87.5MHz do 108.0MHz co 50 KHz)</item>
+        <item>Finska (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Francuska(87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Njemačka (87.5MHz do 108.0MHz co 50 KHz)</item>
+        <item>Grčka (87.5MHz do 108.0MHz co 50 KHz)</item>
+        <item>Hong Kong (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Indija (91.0MHz do 106.4MHz co 100 KHz)</item>
+        <item>Irska (87.5MHz do 108.0MHz co 50 KHz)</item>
+        <item>Italija (87.5MHz do 108.0MHz co 50 KHz)</item>
+        <item>Koreja (87.5MHz do 108.0MHz co 200 KHz)</item>
+        <item>Meksiko (88.1MHz do 107.9MHz co 200 KHz)</item>
+        <item>Nizozemska (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Novi Zeland (88.0MHz do 107.0MHz co 100 KHz)</item>
+        <item>Noreška (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Poljska (88.0MHz do 108.0MHz co 50 KHz)</item>
+        <item>Portugal (87.5MHz do 108.0MHz co 50 KHz)</item>
+        <item>Rusija (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Singapur (88.0MHz do 108.0MHz co 100 KHz)</item>
+        <item>Slovačka (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Španjolska (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Švicarska (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Švedska (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Tajvan (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>Turska (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>UK (87.5MHz do 108.0MHz co 100 KHz)</item>
+        <item>USA (88.1MHz do 107.9MHz co 200 KHz)</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Dobivanje parametara postaje</item>
+        <item>Dobivanje parametara postaje ponoviti 20 puta</item>
+        <item>Dobivanje parametara postaje</item>
+        <item>Dobivanje parametara FM pojasa</item>
+        <item>Konfiguracija parametara FM traženja</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Podesi FM RSSI Delta</item>
+        <item>Podesi Signal Threshold</item>
+        <item>RF Statistika</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Odaberi opciju</item>
+        <item>Konfiguracija parametara FM traženja</item>
+        <item>RF Statistika</item>
+    </string-array>
+    <string-array name="fm_mhz_number_entries">
+        <item>" "</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="freq_entries">
+        <item>" "</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+</resources>

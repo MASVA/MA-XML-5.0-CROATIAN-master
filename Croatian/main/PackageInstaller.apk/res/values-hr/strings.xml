@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Parse_error_dlg_text">Došlo je do problema pri analiziranju paketa.</string>
+  <string name="Parse_error_dlg_title">Pogreška paketa analize</string>
+  <string name="ad_block_button_title">Blokiraj adware</string>
+  <string name="ad_relative">Adware</string>
+  <string name="adware_count">Sadrži %d modula</string>
+  <string name="adware_hint">Ovi moduli se koriste od strane developera za prikaz reklama na uređaju</string>
+  <string name="adware_title">AdWare</string>
+  <string name="allow_source_dlg_text">"%1$s želi instalirati druge aplikacije. 
+  
+Uvijek dopustiti ovu radnju?"</string>
+  <string name="allow_source_dlg_title">Novi izvor aplikacija</string>
+  <string name="app_name">Alat za instaliranje paketa</string>
+  <string name="app_not_found_dlg_text">"Aplikacija nije pronađena na popisu sustava instaliranih aplikacija."</string>
+  <string name="app_not_found_dlg_title">Aplikacija nije pronađena.</string>
+  <string name="auto_startup_dialog_msg">"MIUI će omogućiti aplikaciji automatsko pokretanje ne pitajući. To može dovesti do potrošnje energije ili podatkovnog prometa. Dopustiti automatsko pokretanje?"</string>
+  <string name="caller_app">Pozivatelj: %1$s</string>
+  <string name="cancel">Odustani</string>
+  <string name="dlg_app_replacement_statement">"Aplikacija koju instalirate zamijenit će drugu aplikaciju. Bit će spremljeni svi vaši prethodni korisnički podaci"</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) će zamijeniti trenutnu verziju (%3$s). Korisnički sadržaj će biti zadržan. 
+Jeste li sigurni da želite instalirati?"</string>
+  <string name="dlg_app_replacement_title">Zamijeniti aplikaciju?</string>
+  <string name="dlg_ok">U redu</string>
+  <string name="dlg_sys_app_replacement_statement">"To je aplikacija sustava. Želite li je i dalje zamijeniti? 
+  
+  Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
+  <string name="done">Gotovo</string>
+  <string name="high_risk_perms">Dopuštenja visokog rizika</string>
+  <string name="install">Instaliraj</string>
+  <string name="install_confirm_question">Instalirati ovu aplikaciju?</string>
+  <string name="install_done">Aplikacija je instalirana.</string>
+  <string name="install_failed">"Ne mogu instalirati."</string>
+  <string name="install_failed_cpu_abi_incompatible">"Ova aplikacija nije kompatibilna s vašim telefonom."</string>
+  <string name="install_failed_file_not_found">Navedeni paket izbrisan je prije nego što se instalacija mogla dovršiti.</string>
+  <string name="install_failed_inconsistent_certificates">Već je instaliran postojeći paket s istim imenom i konfliktnim potpisom.</string>
+  <string name="install_failed_invalid_apk">Čini se da je paket oštećen.</string>
+  <string name="install_failed_msg">"%1$s nije moguće instalirati."</string>
+  <string name="install_failed_older_sdk">Paket funkcionira samo na novijim verzijama Androida.</string>
+  <string name="install_failed_system_incompatible">"Ova aplikacija nije kompatibilna s MIUI"</string>
+  <string name="install_failed_verify_failed">"Ovaj paket nije prošao provjeru i ne može se instalirati."</string>
+  <string name="install_failed_verify_timeout">Isteklo je vrijeme za pokušaj potvrde ovog paketa.</string>
+  <string name="installing">Instaliranje…</string>
+  <string name="launch">Otvori</string>
+  <string name="lift_ban">Makni zabranu</string>
+  <string name="low_risk_perms">Dozvole nisokog rizika</string>
+  <string name="manage_applications">Upravljanje aplikacijama</string>
+  <string name="manage_device_administrators">Upravljanje administratorima uređaja</string>
+  <string name="ok">U redu</string>
+  <string name="other_relative">Ostala dopuštenja</string>
+  <string name="out_of_space_dlg_text">"%1$s nije moguće instalirati: nedovoljno prostora</string>
+  <string name="out_of_space_dlg_title">Nedovoljno prostora</string>
+  <string name="perm_action_accept">Dozvoli</string>
+  <string name="perm_action_prompt">Pitaj</string>
+  <string name="perm_action_reject">Odbij</string>
+  <string name="perm_notice">Upozorenje</string>
+  <string name="perm_privacy_app_finish">Završeno</string>
+  <string name="perm_privacy_app_installed">Instalacija uspješna!</string>
+  <string name="perm_privacy_app_launch">Otvori</string>
+  <string name="perm_privacy_app_trust">Vjerujem ovoj aplikaciji</string>
+  <string name="perm_privacy_app_trust_summary">MIUI će nadzirati ovu aplikaciju</string>
+  <string name="perm_sysopt_boost_auto_start">Dopuštenja automatskog pokretanja</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Aplikacija će se pokrenuti automatski!</string>
+  <string name="privacy_relative">Privatna relativna dopuštenja</string>
+  <string name="safe_guard_support">Tehničku podršku pruža %1$s</string>
+  <string name="safe_relative">Dopuštenja sigurnosti</string>
+  <string name="security_settings_desc">Dopustiti ovoj aplikaciji da:</string>
+  <string name="settings">Postavke</string>
+  <string name="trust_switch_dialog_msg">"MIUI neće zatražiti potvrdu bilo kakve sigurnosti i privatnosti u svezi poslovanja iz aplikacije. Vjerovati ovoj aplikaciji？"</string>
+  <string name="uninstall_activity_text">%1$s je dio ove aplikacije:</string>
+  <string name="uninstall_application_text">Ova aplikacija će biti deinstalirana.</string>
+  <string name="uninstall_application_title">Deinstaliranje aplikacije</string>
+  <string name="uninstall_confirm_question">Želite li deinstalirati aplikaciju?</string>
+  <string name="uninstall_done">Deinstalacija je završena</string>
+  <string name="uninstall_failed">Deinstalacija nije uspjela</string>
+  <string name="uninstall_failed_device_policy_manager">"Ne mogu deinstalirati: ovaj paket je aktivan Administrator uređaja."</string>
+  <string name="uninstall_failed_msg">%1$s nije moguće deinstalirati</string>
+  <string name="uninstall_failed_retained_app_msg">"Ova je aplikacija izmijenjena i ne može se deinstalirati u svom sadašnjem obliku."</string>
+  <string name="uninstall_update_text">"Ova će aplikacija biti zamijenjena s MIUI ugrađenom verzijom"</string>
+  <string name="uninstall_update_title">Deinstalacija ažuriranja</string>
+  <string name="uninstalling">Deinstaliranje…</string>
+  <string name="unknown">Nepoznato</string>
+  <string name="unknown_apps_dlg_text">"Zbog sigurnosnih razloga, vaš telefon ne dopušta instaliranje aplikacija iz drugih izvora prema zadanim postavkama. 
+Ne možemo jamčiti sigurnost ili valjanost bilo koje od aplikacija koje ste preuzeli iz drugih izvora. 
+Vi preuzimate punu odgovornost bilo kakvu štetu ili gubitak do kojeg može doći kao posljedica kasnije uporabe. 
+Možete mijenjati ​​ove postavke u Postavke &gt; Sigurnost &gt; Nepoznati izvori."</string>
+  <string name="unknown_apps_dlg_title">Instaliranje je blokirano</string>
+  <string name="unknown_installer">Nepoznat PC alat</string>
+  <string name="virus_scan_clear">Ukloni</string>
+  <string name="virus_scan_install">"&lt;u&gt;Instaliraj svejedno&lt;/u&gt;"</string>
+  <string name="virus_scan_is_risk">"Ovaj aplikacija predstavlja rizik za sigurnost vašeg uređaja."</string>
+  <string name="virus_scan_is_virus">Ova aplikacija sadrži virus,</string>
+</resources>

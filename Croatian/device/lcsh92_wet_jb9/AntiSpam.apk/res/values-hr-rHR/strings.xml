@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="fw_blocked_count" formatted="false">Blokirano: %d poziva i %d SMS-a</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Samo EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>Samo WCDMA</item>
+        <item>Samo GSM</item>
+        <item>Poželjno GSM/WCDMA</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Kontakti</item>
+        <item>Popis poziva</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Isključen</item>
+        <item>Svi brojevi</item>
+        <item>Popis blokiranih</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (auto)</item>
+        <item>Samo TD-SCDMA</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto)</item>
+        <item>Samo WCDMA</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (auto)</item>
+        <item>Samo TD-SCDMA</item>
+        <item>Samo GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto)</item>
+        <item>Samo WCDMA</item>
+        <item>Samo GSM</item>
+    </string-array>
+</resources>

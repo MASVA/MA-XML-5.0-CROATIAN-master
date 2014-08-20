@@ -1,0 +1,8 @@
+<strings>
+    <string name="sliding_down_hint_miui" value="Povucite prstom prema dolje za odgovor"/> 
+	<string name="sliding_target_hint_miui" value="Prijeđite prstom na odbijanje/slanje poruka"/> 
+	<string name="sliding_up_hint_miui" value="Povucite prstom prema gore za preusmjeravanje poziva"/> 
+	<string name="hangup_sms_miui" value="Odbij putem SMS-a"/> 
+	<string name="answer_and_hangup_miui" value="Odgovori"/> 
+	<string name="ignore_miui" value="Ignoriraj"/> 
+ </strings>

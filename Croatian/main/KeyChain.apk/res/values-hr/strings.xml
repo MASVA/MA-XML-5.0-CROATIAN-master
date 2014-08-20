@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="allow_button">Dopusti</string>
+  <string name="app_name">Key Chain</string>
+  <string name="deny_button">Odbij</string>
+  <string name="install_new_cert_button_label">Instaliraj</string>
+  <string name="install_new_cert_message">Možete instalirati certifikate iz datoteke PKCS#12 sa %1$s ili %2$s nastavkom koje se nalazi u vanjskoj pohrani.</string>
+  <string name="requesting_application">Aplikacija %s je zatražila certifikat. Odabir certifikata će dopustiti aplikacija koristiti ovaj identitet sa poslužiteljima sada i ubuduće.</string>
+  <string name="requesting_server">Aplikacija je prepoznala zahtjev poslužitelja kao %s, ali bi joj trebali dati pristup certifikatu samo ako vjerujete aplikaciji.</string>
+  <string name="title_no_certs">Nema pronađenih certifikata</string>
+  <string name="title_select_cert">Odabir certifikata</string>
+</resources>

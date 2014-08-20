@@ -1,0 +1,4 @@
+<resources>
+    <string name="slider_text">>> Isključiti >>></string>
+    <string name="snooze_message">Odgoditi za %d min."</string>
+</resources>

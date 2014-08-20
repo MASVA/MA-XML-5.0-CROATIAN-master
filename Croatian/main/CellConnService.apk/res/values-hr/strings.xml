@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">CellConnectionService</string>
+  <string name="button_cancel">Odustani</string>
+  <string name="button_ok">U redu</string>
+  <string name="confirm_fdn_msg">Fiksni brojevi za biranje su omogućeni.</string>
+  <string name="confirm_fdn_title">FDN omogućen</string>
+  <string name="confirm_permit_roaming_fail">Otkazali ste radnju na roaming SIM-u</string>
+  <string name="confirm_pin_msg">Odabrana SIM kartica je sada zaključana.Prvo je otključajte.</string>
+  <string name="confirm_pin_title">SIM zaključan</string>
+  <string name="confirm_radio_flight_mode_on_and_msg">Način rada u zrakoplovu je uključen i</string>
+  <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s je sada isključen. Želite li isključiti Način rada u zrakoplovu i uključiti ovu SIM karticu?</string>
+  <string name="confirm_radio_flight_mode_on_sim_on_msg">Način rada u zrakoplovu je uključen. Želite li isključiti Način rada u zrakoplovu?</string>
+  <string name="confirm_radio_lbutton">Uključi</string>
+  <string name="confirm_radio_msg">%1$s je sada isključen. Želite li uključiti ovu SIM karticu?</string>
+  <string name="confirm_radio_msg_single">Način rada u zrakoplovu je sada uključen, želite li ga isključiti?</string>
+  <string name="confirm_radio_title">SIM kartica isključena</string>
+  <string name="confirm_roamingWithPrefer_lbutton">Lokalni SIM</string>
+  <string name="confirm_roamingWithPrefer_rbutton">Roaming SIM</string>
+  <string name="confirm_roaming_lbutton">Nastavi</string>
+  <string name="confirm_roaming_msg">SIM kartica koju će te sada koristiti je u roamingu. Nema dostupnog lakalnog SIM-a. Želite li nastaviti?</string>
+  <string name="confirm_roaming_rbutton">Odustani</string>
+  <string name="confirm_roaming_title">Roaming upozorenje</string>
+  <string name="confirm_roaming_withPrefer_msg">SIM kartica koju će te sada koristiti je u roamingu. Želite li nastaviti kroz lokalni SIM?</string>
+  <string name="confirm_sim_locked_message">SIM kartica trajno je zaključana</string>
+  <string name="confirm_simmelock_msg">Odabrani SIM utor je sada zaključan.Prvo ga otključajte.</string>
+  <string name="confirm_simmelock_title">SIM ME zaključan</string>
+  <string name="confirm_slot_locked_message">Utor je trajno zaključan</string>
+  <string name="confirm_turnon_radio_fail">Radnja otkazana</string>
+  <string name="confirm_unlock_fail">Radnja otkazana</string>
+  <string name="confirm_unlock_lbutton">Otključaj</string>
+</resources>
