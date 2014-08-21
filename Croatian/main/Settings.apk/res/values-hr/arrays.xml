@@ -220,6 +220,14 @@
         <item>Ništa</item>
         <item>Ručno</item>
     </string-array>
+    <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+	</string-array>
     <string-array name="emergency_tone_entries">
         <item>Isključeno</item>
         <item>Upozorenje</item>
@@ -282,16 +290,6 @@
         <item>Animacija razmjera 2 x</item>
         <item>Animacija razmjera 5 x</item>
         <item>Animacija razmjera 10 x</item>
-    </string-array>
-	<string-array name="overlay_display_devices_entries">
-        <item>Ništa</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (osigurano)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (osigurano)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (osigurano)</item>
-        <item>1280x720 tvdpi i 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ništa</item>

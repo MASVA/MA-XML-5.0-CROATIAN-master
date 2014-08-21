@@ -268,8 +268,8 @@
   <string name="playlist_renamed_message">Popis pjesama preimenovan.</string>
   <string name="playlists_title">Popis pjesama</string>
   <string name="powered_by">Powered by</string>
-  <string name="priority_storage">Premjestiti na vanjsku SD karticu</string>
-  <string name="priority_storage_summary">Uvjerite se da je SD kartica umetnuta</string>
+  <string name="priority_storage">Koristi vanjsku SD karticu</string>
+  <string name="priority_storage_summary">Automatski preuzmi na vanjsku SD karticu ako je dostupna</string>
   <string name="project_device">Xiaomi Box</string>
   <string name="project_device_mobile">Mobilni uređaj</string>
   <string name="queue">Trenutan popis pjesama</string>

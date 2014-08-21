@@ -56,6 +56,7 @@
   <string name="confirm">U redu</string>
   <string name="confirm_know">U redu</string>
   <string name="copy_failed">Kopiranje neuspješno</string>
+  <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
   <string name="count_down_time">Počni nakon %d sekundi</string>
   <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>
   <string name="create_new_folder_desctiption">Stvaranje nove mape…</string>
@@ -85,10 +86,11 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazna mapa</string>
   <string name="dlg_error_unmount_text">Nemoguće isključiti USB pohranu.</string>
-  <string name="download_current_progress">%1$d/100</string>
+  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Preuzimanje neuspješno!</string>
   <string name="download_link_completed">Podijelio sam %1$s preko KuaiPan. Kliknite na link ispod za pregled:</string>
   <string name="downloading">Preuzimanje…</string>
+  <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="empty_dir_cleanup_indication">%s ostalih datoteka</string>
   <string name="empty_dir_title">Prazni direktorij</string>
   <string name="enable_sd_card">Ubacite SD karticu ili ugasite USB pohranu.</string>
@@ -100,7 +102,8 @@
   <string name="fail_to_rename">Datoteka ili mapa s istim nazivom već postoji.</string>
   <string name="favorite_photo">Fotografija</string>
   <string name="favorite_ringtone">Zvukovi zvona</string>
-  <string name="favorite_screen_cap">MIUI snimak zaslona</string>
+  <string name="favorite_screen_cap">Snimak zaslona</string>
+  <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>
   <string name="file_cleanup">Čišćenje datoteka</string>
   <string name="file_info_canread">Čitljivo:</string>
   <string name="file_info_canwrite">Pisljivo:</string>
@@ -130,6 +133,8 @@
 "</string>
   <string name="gbk_summary">Pojednostavljeni kineski Windows zadano kodiranje</string>
   <string name="gbk_title">GBK</string>
+  <string name="image_download">Preuzmi</string>
+  <string name="image_share">Podijeli</string>
   <string name="give_up_cleaning">Otkaži</string>
   <string name="header_text_cleaned">Gotovo</string>
   <string name="header_text_cleaning">Čišćenje…</string>
@@ -217,7 +222,8 @@ potrebno mrežno povezivanje."</string>
 1. Preuzeti (ažurirati lokalnu datoteku na zadnju verziju)
 2. Učitati je na vaš Cloud račun."</string>
   <string name="open_changed_file_title">Datoteka izmijenjena</string>
-  <string name="open_file_failed">Otvaranje nije uspjelo</string>
+  <string name="open_file_failed">"Ne mogu otvoriti"</string>
+  <string name="operate_confirm_in_3g">Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove velike datoteke?</string>
   <string name="operating">Pokrenuto…</string>
   <string name="operation_agree">Slažem se</string>
   <string name="operation_cancel">Otkaži</string>
@@ -250,6 +256,7 @@ potrebno mrežno povezivanje."</string>
   <string name="operation_rename_message">Naziv mape</string>
   <string name="operation_resume">Start</string>
   <string name="operation_resume_all">Nastavi sve</string>
+  <string name="operation_save">Spremi</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Nefavoriti</string>
@@ -335,6 +342,7 @@ oslobodili prostor.</string>
   <string name="user_guide_download_other_version">Možete preuzeti MiDrive na računalo</string>
   <string name="user_guide_kuaipan_copy">Kopiranje datoteka na MiDrive</string>
   <string name="user_guide_other_version">Dostupno i za ostale platforme.</string>
+  <string name="user_guide_summary">Kratak pregled</string>
   <string name="user_guide_summary">Kako koristiti MiDrive</string>
   <string name="user_guide_upload_to_kuaipan"/>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>

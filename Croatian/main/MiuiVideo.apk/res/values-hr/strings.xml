@@ -250,8 +250,8 @@
   <string name="no_tv">Nema kanala</string>
   <string name="no_video">Nema videozapisa</string>
   <string name="nologin_no_waitfornewset">Morate biti prijavljeni da možete gledati serije.</string>
-  <string name="setting_network_alert">启动时联网提示</string>
-  <string name="setting_network_alert_summery">视频启动时会有联网提示</string>
+  <string name="setting_network_alert">Obavijesti povezivanja</string>
+  <string name="setting_network_alert_summery">Pokaži skočnu obavijest prije nego što se Video spaji na internet</string>
   <string name="notshow_hidemedia">"Ne prikazuj skrivene stavke"</string>
   <string name="nowifi_alert_dialog_continue">Nastavi</string>
   <string name="nowifi_alert_dialog_exit">Izađi</string>

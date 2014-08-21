@@ -69,11 +69,11 @@
   <string name="editmode_menu_delete">Obriši</string>
   <string name="editmode_menu_share">Dijeli</string>
   <string name="experience_xunlei_account_speed">Xunlei Članovi imaju prednost preuzimanja velike brzine</string>
-  <string name="free_high_speed_channel">Podaci besplatnog kanala velike brzine</string>
+  <string name="free_high_speed_channel">Besplatna velika brzina podataka</string>
   <string name="get_account_dialog_msg">Dobivanje detalja računa</string>
   <string name="get_order_dialog_msg">Dobivanje detalja narudžbe</string>
   <string name="get_order_fail_msg">Dobivanje detalja narudžbe nije uspjelo</string>
-  <string name="high_speed_channel">Podaci kanala velike brzine</string>
+  <string name="high_speed_channel">Velika brzina podataka</string>
   <string name="immediately_a_renewal">Obnovi odmah</string>
   <string name="keep_queued_download">Čuvaj</string>
   <string name="member_cost">Račun godišnje naknade</string>

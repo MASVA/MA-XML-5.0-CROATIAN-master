@@ -241,6 +241,7 @@ Omogućiti plutajuće prozore?"</string>
   <string name="applications_settings_summary">Upravljanje aplikacijama, postavljanje prečaca za brzo pokretanje</string>
   <string name="applications_sort_type_item_size">Veličina</string>
   <string name="applications_sort_type_item_time">Učestalost korištenja</string>
+  <string name="applications_sort_type_title">Poredaj</string>
   <string name="apps_with_restrictions_header">Aplikacije s ograničenjima</string>
   <string name="apps_with_restrictions_settings_button">Proširite postavke za aplikaciju</string>
   <string name="ask_compatibility">Pitaj pri pokretanju</string>
