@@ -40,22 +40,17 @@ end
 
 localization_table = {
     en = localization_English_table,
-    zh_CN = localization_Chinese_table,
-    zh_TW = localization_zh_rTW_table,
-    hr_HR = localization_Slovak_table,
-}
+    zh_CN = localization_Chinese_table
+	hr_HR = localization_Croatian_table
+}   
 
 function getString(string_locale)
-    curTable = localization_table[zh_CN]
+    curTable = localization_table[hr_HR]
 
-    if (getCurLocale() == zh_CN) then
-        curTable = localization_table[zh_CN];
+    if (getCurLocale() == hr_HR) then
+        curTable = localization_table[hr_HR];
     elseif (getCurLocale() == en_US or getCurLocale() == en_GB) then
         curTable = localization_table[en];
-    elseif (getCurLocale() == zh_TW) then
-        curTable = localization_table[zh_TW];
-    elseif (getCurLocale() == hr_HR) then
-        curTable = localization_table[hr_HR];
     end
 
     return curTable[string_locale];
