@@ -65,13 +65,13 @@
   <string name="confirm">U redu</string>
   <string name="copy">Kopirati</string>
   <string name="copy_succeed">Kopiranje uspješno</string>
+  <string name="dialog_title_disable_mikey_sprite">Onemogućiti MiKey Čarobnjak?</string>
+  <string name="disable_mikey_sprite">MiKey Čarobnjak onemogućen</string>
   <string name="default_action_title">Zadana radnja</string>
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Izbrisati ovu radnju?</string>
   <string name="delete_gesture">Izbrisati geste za Mikey?</string>
   <string name="device_not_recognized">Uređaj nije prepoznat. Pokušajte ponovo</string>
-  <string name="dialog_title_disable_mikey_sprite">Onemogućiti MiKey čarobnjak?</string>
-  <string name="disable_mikey_sprite">Onemogući MiKey čarobnjak</string>
   <string name="earphone">Slušalice</string>
   <string name="enable_mikey_sprite">Omogući MiKey čarobnjak</string>
   <string name="email">E-pošta:</string>
@@ -117,7 +117,7 @@
   <string name="notification_recorder_file_location">Spremljeno u:</string>
   <string name="notification_recorder_start">Snimanje…</string>
   <string name="notify_content_sprite">点击右侧叉号可以关闭</string>
-  <string name="notify_ticker_sprite">MiKey wizard je pokrenut</string>
+  <string name="notify_ticker_sprite">MiKey Čarobnjak je pokrenut</string>
   <string name="notify_title_sprite">MiKey Čarobnjak</string>
   <string name="open_flash_error">Uključivanje bljeskalice nije uspjelo</string>
   <string name="phone">Telefon:</string>

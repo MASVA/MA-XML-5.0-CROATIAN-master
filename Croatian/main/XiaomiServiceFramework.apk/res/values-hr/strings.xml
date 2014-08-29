@@ -133,6 +133,7 @@ Sinkronizacija SMS-a, kontakata, fotografija, aplikacija, itd."</string>
   <string name="error_phone_error">Neispravan broj telefona</string>
   <string name="error_server">Pogreška poslužitelja</string>
   <string name="error_sim_not_ready">SIM nije spreman</string>
+  <string name="error_ssl_hand_shake">"Ne mogu se spojiti na poslužitelj. Provjerite postavke datuma i vremena vašeg sustava."</string>
   <string name="error_unknown">Nepoznata greška</string>
   <string name="error_user_name">Korisničko ime nije ispravno!</string>
   <string name="failed_to_send_activate_email">Neuspjelo slanje aktivacijske e-pošte</string>
