@@ -41,18 +41,18 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
   <string name="accessibility_long_press_timeout_title">Dodirni &amp; drži odgodu</string>
   <string name="accessibility_menu_item_settings">Postavke</string>
   <string name="accessibility_no_services_installed">Nema instaliranih usluga</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Tlač. zapínania ukončí hovor</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Tipka za uključivanje prekida poziv</string>
   <string name="accessibility_power_button_ends_call_title">Tipka uključivanja završava poziv</string>
   <string name="accessibility_screen_magnification_enable">Geste uvećanja</string>
   <string name="accessibility_screen_magnification_summary">"Kada je ova značajka uključena, možete povećavati/smanjivanti trostrukim dodirom po zaslonu.
 
-Dok zumirate, možete:
-"&lt;li&gt;&lt;ul&gt;"Pan: Povucite dva ili više prstiju po zaslonu.
-"&lt;li&gt;Prilagoditi razinu zumiranja: Stisnite dva ili više prsta ili ih razmaknite.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
-
-Takđer možete privremeno uvećati ono što je pod prstom sa trostrukim takni i drži. U ovom uvećanom stanju, možete povući prst i istražiti različite dijelove zaslona. Podignite prst za povratak na prijašnje stanje.
-
-Napomena: Trostruki dodir za uvećanje radi svugdje osim trake tipkovnice i navigacije."</string>
+   Dok je prikaz uvećan, možete: 
+  “Pomicati pogled: Povucite dva ili više prstiju preko zaslona. 
+  „Podesiti razinu uvećavanja: Privucite dva ili više prstiju ili ih raširite."
+  
+  "Možete također privremeno uvećati područje ispod prsta tako da triput dodirnete i zadržite dodir. U ovom uvećanom stanju, možete povlačiti prstom kako bi istražili druge dijelove zaslona. Podignite prst za povratak na prethodno stanje. 
+  
+  Napomena: Trostruki dodir za uvećavanje vrijedi svugdje osim na tipkovnici i navigacijskoj traci"</string>
   <string name="accessibility_screen_magnification_title">Geste uvećanja</string>
   <string name="accessibility_script_injection_allowed">Dopušteno</string>
   <string name="accessibility_script_injection_button_allow">Dopusti</string>

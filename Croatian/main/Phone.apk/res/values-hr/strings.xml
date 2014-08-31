@@ -374,6 +374,7 @@
   <string name="dial_pad_autocomplete">Automatsko popunjavanje biranja</string>
   <string name="dial_related_setting_catory_miui">Biranje</string>
   <string name="dialerKeyboardHintText">Koristite tipkovnicu za unos broja</string>
+  <string name="dialog_network_priority_title">Priorittet</string>
   <string name="disable">Onemogući</string>
   <string name="disable_all_cf_miui">Onemogućiti sva preusmjeravanja poziva</string>
   <string name="disable_cfb_forbidden">Vaš operater ne dopušta isključivanje prosljeđivanja poziva kada je telefon zauzet.</string>
@@ -497,6 +498,8 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="goPrivate">idi privatno</string>
   <string name="go_private_miui">idi privatno</string>
   <string name="gsm_umts_options">GSM/UMTS Opcije</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Način mreže</string>
+  <string name="gsm_umts_network_preferences_title">Način mreže</string>
   <string name="hac_mode_summary">Uključite kompatibilnost Slušne pomoći</string>
   <string name="hac_mode_summary_miui">Uključite kompatibilnost Slušne pomoći</string>
   <string name="hac_mode_title">Slušne pomoći</string>
@@ -665,6 +668,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="national_disable">Nacionalne vijesti onemogućene</string>
   <string name="national_enable">Nacionalne vijesti omogućene</string>
   <string name="network_forbidden_miui">%s (zabranjen)</string>
+  <string name="network_id">ID Mreže</string>
   <string name="network_manage_settings">Postavke mreže</string>
   <string name="network_message">Mrežne poruke</string>
   <string name="network_query_error">Greška prilikom pretrage mreža.</string>
@@ -1160,6 +1164,8 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="upgrade_vt_prompt">Želite li nadograditi poziv na video poziv?</string>
   <string name="upgrade_vt_rx_prompt">Želite li nadograditi poziv na video primanje samo poziv?</string>
   <string name="upgrade_vt_tx_prompt">Želite li nadograditi poziv na video prijenos samo poziv?</string>
+  <string name="uplmn_list_setting_add_plmn">Novi PLMN</string>
+  <string name="uplmn_list_setting_title">Željena mreža</string>
   <string name="use_ims_default">UseImsDefault</string>
   <string name="use_ims_default_summary">Koristite IMS za sve glasovne pozive</string>
   <string name="use_ims_default_title">Koristiti IMS uvijek</string>

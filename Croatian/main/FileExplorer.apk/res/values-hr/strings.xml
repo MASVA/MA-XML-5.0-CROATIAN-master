@@ -56,7 +56,7 @@
   <string name="confirm">U redu</string>
   <string name="confirm_know">U redu</string>
   <string name="copy_failed">Kopiranje neuspješno</string>
-  <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
+  <string name="copy_file_to_kuaipan">Kopiraj datoteku na MiDrive</string>
   <string name="count_down_time">Počni nakon %d sekundi</string>
   <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>
   <string name="create_new_folder_desctiption">Stvaranje nove mape…</string>
@@ -86,7 +86,6 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazna mapa</string>
   <string name="dlg_error_unmount_text">Nemoguće isključiti USB pohranu.</string>
-  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Preuzimanje neuspješno!</string>
   <string name="download_link_completed">Podijelio sam %1$s preko KuaiPan. Kliknite na link ispod za pregled:</string>
   <string name="downloading">Preuzimanje…</string>
