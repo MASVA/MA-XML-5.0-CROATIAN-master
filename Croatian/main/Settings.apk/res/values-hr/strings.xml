@@ -702,6 +702,7 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
   <string name="complete_settings">Opće postavke</string>
   <string name="computing_size">Izračunavanje…</string>
   <string name="configure_input_method">Postavljanje načina unosa</string>
+  <string name="config_list_label">Postavke mreže</string>
   <string name="confirm">U redu</string>
   <string name="confirm_clear_blacklist">Izbrisati listu blokiranih?</string>
   <string name="confirm_clear_whitelist">Izbrisati iznimke?</string>
@@ -1406,11 +1407,13 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvojni programeri."<
   <string name="international_roaming_summary_title">Postavke Roaminga</string>
   <string name="invalid_location">"Lokacija instalacije nije važeća."</string>
   <string name="invalid_size_value">"Nije moguće izračunati veličinu paketa."</string>
+  <string name="ime_privacy_policy">Način unosa pravila o privatnosti</string>
+  <string name="ime_privacy_policy_no_network">Nema mrežne veze. Možete vidjeti ova pravila na %s</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
-  <string name="item_garbage_size_1000m">1G</string>
-  <string name="item_garbage_size_100m">100M</string>
-  <string name="item_garbage_size_300m">300M</string>
-  <string name="item_garbage_size_500m">500M</string>
+  <string name="item_garbage_size_1000m">1GB</string>
+  <string name="item_garbage_size_100m">100MB</string>
+  <string name="item_garbage_size_300m">300MB</string>
+  <string name="item_garbage_size_500m">500MB</string>
   <string name="item_garbage_time_3d">Svaka 3 dana</string>
   <string name="item_garbage_time_7d">Svakih 7 dana</string>
   <string name="item_garbage_time_daily">Dnevno</string>
@@ -2367,10 +2370,6 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="preferred_sms_title">Zadana aplikacije SMS-a</string>
   <string name="preferred_sms_warning_message">Korištenje \"%1$s\" kao zadane aplikacije poruka može povećati korištenje podataka ili ugroziti sigurnost vaših podataka.</string>
   <string name="preferred_sms_warning_use_system">"Nemoj koristiti"</string>
-  <string name="priority_storage_app_settings">Korisnički podaci će biti pohranjeni na %1$s</string>
-  <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, korisnički podaci će biti automatski spremljeni na internu pohranu</string>
-  <string name="priority_storage_summary">Odaberite zadanu memoriju za pohranu podataka</string>
-  <string name="priority_storage_title">Podešavanje pohrane</string>
   <string name="print_blocked_state_title_template">Pisač je blokirao %1$s</string>
   <string name="print_cancel">Odustani</string>
   <string name="print_cancelling_state_title_template">Otkazivanje %1$s</string>
@@ -2398,6 +2397,10 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="print_service_security_warning_title">Upotrijebiti %1$s?</string>
   <string name="print_settings">Printanje</string>
   <string name="print_settings_title">Usluge ispisa</string>
+  <string name="priority_storage_app_settings">Korisnički podaci će biti pohranjeni na %1$s</string>
+  <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, korisnički podaci će biti automatski spremljeni na internu pohranu</string>
+  <string name="priority_storage_summary">Odaberite zadanu memoriju za pohranu podataka</string>
+  <string name="priority_storage_title">Podešavanje pohrane</string>
   <string name="priority_sub_summary">Dodatna ažuriranja sustava</string>
   <string name="priority_sub_title">Prioritetne pretplate</string>
   <string name="privacy_mode_enable_sum">Sakrij poruke, bilješke, slike i dolazne pozive od korisnika</string>
@@ -2437,6 +2440,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="protection_perm">Postavke dopuštenja</string>
   <string name="protection_sms">SMS filter</string>
   <string name="provider_label">Pretplate Push usluga</string>
+  <string name="provision_inputmethod_policy_description">Pregled pravila o privatnosti povezanih s vašim trenutnim načinom unosa</string>
   <string name="proxy_action_text">Gotovo</string>
   <string name="proxy_clear_text">Izbriši</string>
   <string name="proxy_defaultView_text">Obnovi zadano</string>
@@ -2559,10 +2563,10 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="reset_app_preferences_button">Poništi aplikacije</string>
   <string name="reset_app_preferences_desc">"Ovo će poništiti sve željene postavke za:
 
- "&lt;li&gt;Onemogućne aplikacije&lt;/li&gt;"
- "&lt;li&gt;Obavijesti onemogućenih aplikacija&lt;/li&gt;"
- "&lt;li&gt;Zadane aplikacije za radnje&lt;/li&gt;"
- "&lt;li&gt;Ograničenja pozadinskih podataka za aplikacije&lt;/li&gt;"
+ "Onemogućne aplikacije"
+ "Obavijesti onemogućenih aplikacija"
+ "Zadane aplikacije za radnje"
+ "Ograničenja pozadinskih podataka za aplikacije"
 
  Nećete izgubiti podatke aplikacija."</string>
   <string name="reset_app_preferences_title">Poništiti željene postavke aplikacija?</string>

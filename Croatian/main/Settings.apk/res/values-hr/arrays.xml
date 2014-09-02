@@ -275,7 +275,7 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animacija isključena</item>
-        <item>Animacija razmjera .5 x</item>
+        <item>Animacija razmjera 0.5 x</item>
         <item>Animacija razmjera 1x</item>
         <item>Animacija razmjera 1.5 x</item>
         <item>Animacija razmjera 2x</item>

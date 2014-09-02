@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Dashboard_App">Apps</string>
+  <string name="Dashboard_App">Aplikacije</string>
   <string name="Dashboard_HIPS_Disable_Content">MIUI će zaustaviti nadgledati zahtjeve aplikacija i više neće štititi sigurnost i privatnost. Jeste li sigurni da želite to onemogućiti?</string>
   <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
   <string name="Dashboard_Log">Zapisi</string>

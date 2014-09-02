@@ -7,7 +7,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Verzija koda</string>
   <string name="actor_colon">Uloge:</string>
-  <string name="ad_moredetail">više detalja</string>
+  <string name="ad_moredetail">Više detalja</string>
   <string name="add_more_addons">Dodaj još</string>
   <string name="add_review">Komentar</string>
   <string name="addon"/>
@@ -116,8 +116,7 @@
   <string name="download_is_in_tasklist">Preuzimanje je na popisu</string>
   <string name="download_is_success">Preuzimanje uspješno</string>
   <string name="end_live_status">Objavljivanje završeno</string>
-  <string name="episode_prefix">" Epizoda "</string>
-  <string name="episode_suffix"/>
+  <string name="episode_suffix">"Ep. %d "</string>
   <string name="failed_text">"Ne mogu dobiti Xunlei certifikat"</string>
   <string name="failed_text_11">"Ne mogu provjeriti korisnika.""</string>
   <string name="failed_text_21">"Film koji pokušavate reproducirati nije dostupan online."</string>
@@ -181,6 +180,7 @@
   <string name="live_tabs_all">Sve</string>
   <string name="live_tabs_choice">Odabrano</string>
   <string name="live_tabs_hot">Popularno</string>
+  <string name="live_tabs_my">Moje omiljeno</string>
   <string name="live_title">Uživo</string>
   <string name="livetv">Uživo</string>
   <string name="load_data_failed">"Nije moguće povezivanje s mrežom"</string>
@@ -321,8 +321,8 @@
   <string name="select_media_source">Odaberite izvor videozapisa</string>
   <string name="series_colon">"Epizoda: "</string>
   <string name="setting">Postavke</string>
-  <string name="setting_use_network">Dopustiti korištenje interneta</string>
-  <string name="setting_use_network_summery">Video Aplikacija će koristiti pristup internetu</string>
+  <string name="setting_network_alert">Obavijesti povezivanja</string>
+  <string name="setting_network_alert_summery">Prikaži skočni obavijest prije povezivanja Video apli. na internet</string>
   <string name="show_hidemedia">Prikaži skrivene datoteke</string>
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
@@ -336,7 +336,7 @@
   <string name="success_cancel_myfavorite">Odznačeno</string>
   <string name="success_cancel_waitfornewset">Zaustavi praćenje</string>
   <string name="success_to_cancel_myfavorite">Otkazano</string>
-  <string name="suffix_countdown">sekundi</string>
+  <string name="suffix_countdown">sek.</string>
   <string name="sure">Slažem se</string>
   <string name="tags_colon">"Žanr: "</string>
   <string name="temp_play_history_button_label">Prikaz povijesti</string>

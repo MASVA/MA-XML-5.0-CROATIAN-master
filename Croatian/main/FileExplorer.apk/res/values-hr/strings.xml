@@ -1,29 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">Premještam korisničke podatke, 
-  može trajati nekoliko minuta,
-  pričekajte…</string>
+  <string name="account_bind_prompt">Premještam korisničke podatke… Može potrajati par minuta.</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
   <string name="already_signin_description">Već ste prijavljeni.</string>
-  <string name="app_cache_cleanup_indication">%s memorije</string>
-  <string name="app_cache_title">Predmemorija aplikacija</string>
-  <string name="app_garbage_cleanup_indication">%s smeća</string>
-  <string name="app_garbage_path">Lokacija:</string>
-  <string name="app_garbage_title">Smeće</string>
   <string name="app_name">Datoteke</string>
-  <string name="application_size_label">Aplikacija</string>
-  <string name="background">Preuzimanje u pozadini</string>
+  <string name="background">U pozadini</string>
   <string name="big5_summary">Zadani format za Windowse s tradicionalnim kineskim</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Povezivanje na MiDrive račun</string>
   <string name="bind_account_summary">Ako već imate MiDrive račun, možete ga sinkronizirati s vašim osobnim podacima</string>
   <string name="binded_accout_description">Računi su povezani, možete se prijaviti bilo s Xiaomi ili MiDrive računom</string>
-  <string name="binded_accout_title">MiDrive račun</string>
-  <string name="cache_size_label">Memorija</string>
-  <string name="cancel">Otkaži</string>
-  <string name="cancel_app_garbage_cleanup">Otkaži čišćenje aplikacija</string>
-  <string name="cancel_with_count_down">Otkaži (%d)</string>
+  <string name="binded_accout_title">Računi sinkronizirani</string>
+  <string name="cancel">Odustani</string>
   <string name="category_all">Sve</string>
   <string name="category_apk">Aplikacije</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -40,31 +29,26 @@
   <string name="category_zip">Arhive</string>
   <string name="choose_send_type">Odaberite metodu</string>
   <string name="choose_upload_location">Učitaj u KuaiPan mapu</string>
-  <string name="clean_app_garbage">Brisanje %d stavke</string>
   <string name="clean_message">%1$s prostora oslobođeno.</string>
   <string name="clean_title">Brisanje datoteka starijih od 30 dana</string>
-  <string name="clean_trash_box">Prazan koš za smeće</string>
-  <string name="cleaned">Gotovo</string>
+  <string name="clean_trash_box">Isprazni koš za smeće</string>
   <string name="cleaning">Čišćenje…</string>
-  <string name="cleanup_complete">Gotovo</string>
-  <string name="cleanup_stopped">Čišćenje zaustavljeno</string>
   <string name="close">Zatvori</string>
+  <string name="colon">": "</string>
   <string name="compress_fail">Sažimanje nespješno: datoteka istog naziva već postoji.</string>
   <string name="compress_message">Sažeti u…</string>
   <string name="compress_title">Sažeti</string>
-  <string name="connect_network_setting_des">Podsjeti prilikom pristupa internetu</string>
   <string name="confirm">U redu</string>
   <string name="confirm_know">U redu</string>
+  <string name="connect_network_setting_des">Podsjeti prilikom pristupa internetu</string>
   <string name="copy_failed">Kopiranje neuspješno</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteku na MiDrive</string>
-  <string name="count_down_time">Počni nakon %d sekundi</string>
   <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>
   <string name="create_new_folder_desctiption">Stvaranje nove mape…</string>
   <string name="create_new_folder_failed">Neuspješno stvaranje mape</string>
   <string name="create_share_link_description">Stvori link za dijeljenje…</string>
   <string name="cution">Savjeti</string>
   <string name="data_capacity">Podaci %1$s</string>
-  <string name="data_size_label">Podaci</string>
   <string name="decompress_cancel">Otkaži</string>
   <string name="decompress_confirm">Raspakiraj</string>
   <string name="decompress_fail">Raspakiranje nespješno: arhiva oštećena ili datoteka istog naziva već postoji.</string>
@@ -74,24 +58,22 @@
   <string name="delete_failed">Brisanje neuspješno</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_files">Izbrisati %1$d datoteka?</string>
-  <string name="delete_files_and_folders">Izbrisati %1$d datoteku(e) i %2$d mape (e) ?</string>
   <string name="delete_folder">Izbrisati ovu mapu?</string>
   <string name="delete_folders">Izbrisati %1$d?</string>
   <string name="des_running_trans">Postoje %1$d datoteke koje trebaju biti premještene</string>
   <string name="dialog_select_type">Odaberite tip</string>
   <string name="dialog_type_audio">Audio</string>
-  <string name="dialog_type_image">Slika</string>
+  <string name="dialog_type_image">Slike</string>
   <string name="dialog_type_text">Tekst</string>
-  <string name="dialog_type_video">Video zapis</string>
+  <string name="dialog_type_video">Video zapisi</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazna mapa</string>
   <string name="dlg_error_unmount_text">Nemoguće isključiti USB pohranu.</string>
+  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Preuzimanje neuspješno!</string>
   <string name="download_link_completed">Podijelio sam %1$s preko KuaiPan. Kliknite na link ispod za pregled:</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
-  <string name="empty_dir_cleanup_indication">%s ostalih datoteka</string>
-  <string name="empty_dir_title">Prazni direktorij</string>
   <string name="enable_sd_card">Ubacite SD karticu ili ugasite USB pohranu.</string>
   <string name="error_filename_too_long">Nazov je predugačak.</string>
   <string name="error_info_cant_send_folder">Ovaj tip datoteke nije podržan.</string>
@@ -103,7 +85,6 @@
   <string name="favorite_ringtone">Zvukovi zvona</string>
   <string name="favorite_screen_cap">Snimak zaslona</string>
   <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>
-  <string name="file_cleanup">Čišćenje datoteka</string>
   <string name="file_info_canread">Čitljivo:</string>
   <string name="file_info_canwrite">Pisljivo:</string>
   <string name="file_info_ishidden">Skriveno:</string>
@@ -126,35 +107,29 @@
   <string name="ftp_transfer_secure">Sigurnost</string>
   <string name="ftp_username_and_passworld">Prijavi se</string>
   <string name="ftp_username_hint">Korisničko ime</string>
-  <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
-  <string name="garbage_item_path_format" formatted="false">%s %s</string>
-  <string name="garbage_size_metric">"Smeće %s
-"</string>
   <string name="gbk_summary">Pojednostavljeni kineski Windows zadano kodiranje</string>
   <string name="gbk_title">GBK</string>
   <string name="google_play">Trg. Play</string>
-  <string name="image_download">Preuzmi</string>
+  <string name="ignore">Ignoriraj</string>
+  <string name="image_download">Preuzimanje</string>
   <string name="image_share">Podijeli</string>
-  <string name="give_up_cleaning">Otkaži</string>
-  <string name="header_text_cleaned">Gotovo</string>
-  <string name="header_text_cleaning">Čišćenje…</string>
-  <string name="header_text_scanned">Skeniranje završeno</string>
-  <string name="header_text_scanning">Skeniranje…</string>
-  <string name="instruction">Unesite adresu u FTP klijent:</string>
-  <string name="instruction_pre">Dodirnite za start FTP servera</string>
-  <string name="item_name">Bez imena</string>
-  <string name="kuaipan_label">MiDrive</string>
+  <string name="instruction">Upišite sljedeću adresu u FTP klijent:</string>
+  <string name="instruction_pre">Dodirnite za pokretanje FTP servera</string>
+  <string name="kuaipan_alert_message">Preuzmite KuaiPan aplikaciju iz Trg. Play, zatim se prijavite sa svojim Mi računom</string>
+  <string name="kuaipan_alert_title">Pažnja</string>
+  <string name="kuaipan_app">KuaiPan App</string>
+  <string name="kuaipan_can_not_find_play">"Ne mogu pronaći Trg. Play"</string>
+  <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Nedovoljno prostora</string>
   <string name="kuaipan_prompt">MiDrive Obavijest</string>
   <string name="kuaipan_prompt_message">" Nažalost, naš poslužitelj je pao i ne znamo kako to popraviti.
-Molimo da pokušate kasnije i neka se odmori…"</string>
+Molimo da pokušate kasnije i neka se odmori…"
+"</string>
   <string name="kuaipan_tech_support">Pruža Kingsoft Kuaipan</string>
   <string name="load_err">Neuspješno učitavanje</string>
   <string name="loading">Učitavam…</string>
-  <string name="local_cache_size">Veličina lokalne memorije: %s</string>
-  <string name="login_reg_content">"Pohranite datoteke i sinkronizirajte ih na više uređaja,
-potrebno mrežno povezivanje."</string>
-  <string name="login_reg_content0">MiDrive je Vaš Cloud</string>
+  <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
+  <string name="login_reg_content0">Sav sadržaj. Gdje god da .idete</string>
   <string name="menu_item_cleanup">Očistiti datoteke</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Traži</string>
@@ -203,20 +178,14 @@ potrebno mrežno povezivanje."</string>
   <string name="never_notify_network_connect">"Ne prikazuj ponovo"</string>
   <string name="new_folder_name">Bez imena</string>
   <string name="no">Ne</string>
-  <string name="no_app_cache_indication">Nema predmemorije aplikacija</string>
-  <string name="no_app_garbage_indication">Nema smeća aplikacija</string>
-  <string name="no_empty_dir_indication">Nema praznih direktorija</string>
-  <string name="no_enough_space">Nedovoljno prostora</string>
   <string name="no_enough_storage_indication">Memorija uređaja puna.</string>
   <string name="no_enough_storage_title">Nedovoljno prostora</string>
   <string name="no_file">Prazno</string>
   <string name="no_more_space">Nedovoljno prostora</string>
   <string name="no_tasks">Nema zadataka</string>
-  <string name="no_temp_file_indication">Nema privremenih datoteka</string>
-  <string name="no_thumbnail_indication">Nema ikona datoteka</string>
-  <string name="no_wifi">Nema dostupnih WLAN veza.</string>
-  <string name="no_wifi_hint">Provjerite postavke povezivanja.</string>
-  <string name="notif_server_starting">Pokretanje FTP server…</string>
+  <string name="no_wifi">Nema dostupnih WLAN veza</string>
+  <string name="no_wifi_hint">Nema dostupnih veza</string>
+  <string name="notif_server_starting">Pokretanje FTP servera…</string>
   <string name="notif_title">FTP server pokrenut.</string>
   <string name="open_changed_file_message">"Datoteka koju okušavate otvoriti je izmijenjena, mogli bi:
 1. Preuzeti (ažurirati lokalnu datoteku na zadnju verziju)
@@ -267,14 +236,9 @@ potrebno mrežno povezivanje."</string>
   <string name="release_to_signin">Pusti za prijavu</string>
   <string name="rename_description">Preimenujem…</string>
   <string name="rename_failed">Neuspješno preimenovanje %1$s</string>
-  <string name="restart_cleaning">Ponovno pokretanje</string>
-  <string name="scanned">Skeniranje završeno</string>
-  <string name="scanning" formatted="false">Skeniranje %d aplikacije … (ukupno %d aplikacija)</string>
-  <string name="scanning_on_going">Skeniranje…</string>
   <string name="sd_card_available">Dostupno: %1$s</string>
   <string name="sd_card_size">SD kartica: %1$s</string>
   <string name="sd_full">SD kartica je puna</string>
-  <string name="sd_size_label">USB Pohrana</string>
   <string name="search_hint">Tražim</string>
   <string name="search_title">Tražim</string>
   <string name="send_to_midrive">MiDrive</string>
@@ -293,7 +257,6 @@ potrebno mrežno povezivanje."</string>
 Uzmite slobodan prostor %1$s"</string>
   <string name="space_info">Kapacitet: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
-  <string name="start_cleanup">Pokreni čišćenje</string>
   <string name="start_server">Pokreni FTP</string>
   <string name="start_use_xiaomi_account">Prijava</string>
   <string name="stay_awake_summary">Držati zaslon budnim tijekom FTP prijenosa</string>
@@ -304,18 +267,11 @@ Uzmite slobodan prostor %1$s"</string>
   <string name="storage_usb">USB pohrana</string>
   <string name="storage_warning">SD kartica nedostupna.</string>
   <string name="system_alert">Upozorenje</string>
-  <string name="sys_size">Dostupan prostor %1$s</string>
-  <string name="sys_size_title">Dostupan prostor</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefon</string>
-  <string name="temp_file_cleanup_indication">%s privremene datoteke</string>
-  <string name="temp_file_title">Privremene datoteke</string>
-  <string name="thumbnail_cleanup_indication">%s ikona</string>
-  <string name="thumbnail_title">Sličica datoteke</string>
   <string name="toast_file_not_can_read">Nema aplikacije podržane za ovu akciju</string>
   <string name="trans_task">Mrežni prijenos</string>
-  <string name="trans_task_delete_confirm_message">Obrisati odabrane %1$d zadatke?</string>
   <string name="transing">Slanje…</string>
   <string name="trash_box_capacity">Koš za smeće %1$s</string>
   <string name="trash_box_link">Za pražnjenje koša za smeće, posjetite i.mi.com</string>
@@ -323,8 +279,6 @@ Uzmite slobodan prostor %1$s"</string>
 oslobodite prostor.</string>
   <string name="trash_box_message2">Ispraznite koš za smeće kako bi
 oslobodili prostor.</string>
-  <string name="ui_bar_txt_download_progress">%1$d datoteka(e) ostalo za preuzeti</string>
-  <string name="ui_bar_txt_upload_progress">%1$d datoteka(e) ostalo za učitati</string>
   <string name="ui_filechange_btn_download">Preuzimanje datoteka</string>
   <string name="ui_filechange_btn_upload">Učitane datoteke</string>
   <string name="ui_main_menu_option_sign_in">Prijavi se</string>
@@ -332,7 +286,6 @@ oslobodili prostor.</string>
   <string name="ui_main_progress_txt_open_file">Preuzimam…</string>
   <string name="ui_main_toast_favorite_removed">Neoznačeno</string>
   <string name="ui_main_toast_operation_failed">Odznačivanje neuspješno %1$s</string>
-  <string name="uninstall_app_data">Obrisati aplikaciju i podatke aplikacije</string>
   <string name="unmount_inform_text">Isključiti USB pohranu?</string>
   <string name="upload_failed">Učitavanje neuspješno!</string>
   <string name="upload_file_toolarge_message">Datoteke veće od 300M ne mogu biti poslane. Molimo provjerite Upravitelj razmjene podataka za više informacija.</string>
@@ -345,13 +298,11 @@ oslobodili prostor.</string>
   <string name="user_guide_summary">Kako koristiti MiDrive</string>
   <string name="user_guide_upload_to_kuaipan"/>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
-  <string name="version_text">Verzija %1$s</string>
+  <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Čekanje mreže…</string>
   <string name="wait_sdcard">Čekam SD karticu…</string>
   <string name="wait_wifi">Čekam na WLAN…</string>
   <string name="waiting">Čekanje…</string>
-  <string name="waiting_for_cleaning">Čekam čišćenje…</string>
-  <string name="waiting_for_scanning">Čekam skeniranje …</string>
   <string name="wangpan_root_path">Moj Drive</string>
   <string name="wifi_state">WLAN status</string>
   <string name="xiaomi_account">Xiaomi račun</string>

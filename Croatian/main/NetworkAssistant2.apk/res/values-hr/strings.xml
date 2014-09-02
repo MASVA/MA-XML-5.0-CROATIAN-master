@@ -32,6 +32,7 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Dodirnite za postavljanje ograničenja uporabe podataka za %s?</string>
   <string name="data_usage_no_total_package_title">Uporaba podataka</string>
+  <string name="datausage_ignore_app_list_count">"Ignoriraj %d uporabu podataka"</string>
   <string name="datausage_purchase_view_detail">Prikaži detalje</string>
   <string name="data_usage_restricted_body">Dodirnite za omogućavanje pozadinskih podataka</string>
   <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
@@ -121,6 +122,8 @@ Iskorišteno"</string>
   <string name="pref_daily_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_daily_traffic">Ograničenje uporabe podataka</string>
   <string name="pref_data_usage_not_set">Postavi ograničenje uporabe podataka</string>
+  <string name="pref_data_usage_ignore_settings_summary">"Nemoj pratiti uporabu podataka odabrane skupine aplikacija"</string>
+  <string name="pref_data_usage_not_set">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_free_traffic_limit_warn">Upozorenje uporabe podataka</string>
@@ -176,6 +179,18 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg davatelja mobilnih
   <string name="text_day">". dan"</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje?"</string>
   <string name="tips_message">"Ako su vam nejasni detalji Vašeg bežičnog plana, možete ih pogledati pozivom na %2$s (%1$s) (Samo Kina)"</string>
+  <string name="traffic_config_alert_body">"Prema vašem operateru iskoristili ste %s podataka.
+Ažurirati detalje uporabe podataka?"</string>
+  <string name="traffic_config_alert_body_leisure">"Prema vašem operateru iskoristili ste %1$s od vašeg maks. podataka ovog mjeseca, a to se razlikuje od %2$s što ste podesili ručno."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+Prema vašem operateru još imate %s preostalih podataka do maksimuma. Niste postavili ograničenje maks. podataka."</string>
+  <string name="traffic_config_alert_body_normal">"
+Prema vašem operateru iskoristili ste %1$s od vašeg maks. podataka ovog mjeseca,, to se razlikuje od %2$s što ste podesili ručno."</string>
+  <string name="traffic_config_alert_cancel">Odustani</string>
+  <string name="traffic_config_alert_nomore">"Ne prikazuj ponovo"</string>
+  <string name="traffic_config_alert_ok">U redu</string>
+  <string name="traffic_config_alert_setted">Postavke primjenjene</string>
+  <string name="traffic_config_alert_title">%s ispravak</string>
   <string name="traffic_correction_failed">"Nije moguće doznati detalje uporabe podataka"</string>
   <string name="traffic_correction_start_correction">"Razgovor s poslužiteljem davatelja mobilnih usluga…"</string>
   <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke davatelja mobilnih usluga</string>

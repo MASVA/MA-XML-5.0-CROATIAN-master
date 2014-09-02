@@ -72,7 +72,6 @@
     <string name="camera_key_action_shortcut_title">Prečac</string>	
     <string name="camera_key_action_shortcut_wake">Zaključaj/Otključaj uređaj</string>	
     <string name="camera_key_action_toggle_title">Prekidač prečaca</string>	
-    <string name="center_clock_title">Sat u sredini</string>	
     <string name="chooseUsbActivity">Odaberite aplikaciju za USB uređaj</string>	
     <string name="compat_mode_help_body">Kada je aplikacija dizajniran za manji ekran, kontrola zumiranja će se pojaviti na satu.</string>	
     <string name="compat_mode_help_header">Kompatibilno zumiranje</string>	
@@ -153,6 +152,7 @@ Upotrijebite samo priloženi punjač."</string>
     <string name="notification_otg_unknow_out">OTG uređaj isključen</string>	
     <string name="notifications_off_text">Dodirnite ovdje za uključivanje obavijesti.</string>	
     <string name="notifications_off_title">Obavijesti isključene</string>	
+    <string name="oldman_airplane_mode_text">Način rada u zrakoplovu</string>
     <string name="recent_apps_key">Nedavne aplikacije gumb</string>	
     <string name="recent_apps_key_show">Pokaži gumb nedavnih aplikacija</string>	
     <string name="reject_call">Odbijanje poziva</string>
@@ -281,7 +281,8 @@ d.MMMM yyyy"</string>
     <string name="usb_accessory_permission_prompt">Dozvoliti aplikaciji %1$s da pristupi ovom USB dodatku?</string>	
     <string name="usb_accessory_uri_prompt">Nijedna instalirana aplikacija ne radi s ovim USB dodatkom. Saznajte više na %1$s</string>	
     <string name="usb_debugging_always">Uvijek dozvoli s ovog računala</string>	
-    <string name="usb_debugging_message">"Otisak prsta RSA ključa računala je:%1$s"</string>	
+    <string name="usb_debugging_message">"Otisak prsta RSA ključa računala je:
+%1$s"</string>	
     <string name="usb_debugging_title">Omogućiti USB ispravljanje grešaka?</string>	
     <string name="usb_device_confirm_prompt">Otvoriti %1$s kad se spoji ovaj USB uređaj?</string>	
     <string name="usb_device_permission_prompt">Dozvoliti aplikaciji %1$s da pristupi ovom USB uređaju?</string>	
