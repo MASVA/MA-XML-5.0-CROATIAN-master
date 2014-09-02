@@ -250,8 +250,6 @@
   <string name="no_tv">Nema kanala</string>
   <string name="no_video">Nema videozapisa</string>
   <string name="nologin_no_waitfornewset">Morate biti prijavljeni da možete gledati serije.</string>
-  <string name="setting_network_alert">Obavijesti povezivanja</string>
-  <string name="setting_network_alert_summery">Pokaži skočnu obavijest prije nego što se Video spaji na internet</string>
   <string name="notshow_hidemedia">"Ne prikazuj skrivene stavke"</string>
   <string name="nowifi_alert_dialog_continue">Nastavi</string>
   <string name="nowifi_alert_dialog_exit">Izađi</string>
@@ -322,7 +320,7 @@
   <string name="series_colon">"Epizoda: "</string>
   <string name="setting">Postavke</string>
   <string name="setting_network_alert">Obavijesti povezivanja</string>
-  <string name="setting_network_alert_summery">Prikaži skočni obavijest prije povezivanja Video apli. na internet</string>
+  <string name="setting_network_alert_summery">Prikaži skočnu obavijest prije povezivanja Video apl. na internet</string>
   <string name="show_hidemedia">Prikaži skrivene datoteke</string>
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>

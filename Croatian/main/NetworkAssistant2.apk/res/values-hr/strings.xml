@@ -123,7 +123,6 @@ Iskorišteno"</string>
   <string name="pref_daily_traffic">Ograničenje uporabe podataka</string>
   <string name="pref_data_usage_not_set">Postavi ograničenje uporabe podataka</string>
   <string name="pref_data_usage_ignore_settings_summary">"Nemoj pratiti uporabu podataka odabrane skupine aplikacija"</string>
-  <string name="pref_data_usage_not_set">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_free_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_free_traffic_limit_warn">Upozorenje uporabe podataka</string>
