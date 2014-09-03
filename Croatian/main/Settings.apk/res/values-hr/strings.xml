@@ -122,7 +122,6 @@ Ako uređaj ima više korisnika, koristeći ovaj prečac na zaključanom zaslonu
   <string name="adb_warning_message">Rješavanje programske pogreške USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
   <string name="adb_warning_title">Omogućiti rješavanje programske pogreške na USB-u?</string>
   <string name="add_account_label">Dodaj račun</string>
-  <string name="add_auto_startup_application">Dodaj aplikaciju</string>
   <string name="add_blacklist">Dodaj na listu blokiranih</string>
   <string name="add_button">Dodaj</string>
   <string name="add_device_admin">Aktiviraj</string>
@@ -1401,7 +1400,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvojni programeri."<
   <string name="internal_memory_item_other">Razno.: %s</string>
   <string name="internal_memory_item_other_hint">Razno.: Izračunavanje…</string>
   <string name="internal_memory_low_waring_hint">"Žao nam je, nema dovoljno prostora za instalaciju ove aplikacije"</string>
-  <string name="internal_storage">Interna pohrana</string>
+  <string name="internal_storage">Unutarnja pohrana</string>
   <string name="internal_used_memory">Iskorišteno: %s</string>
   <string name="internal_used_memory_hint">Iskorišteno: Izračunavanje…</string>
   <string name="international_roaming_summary_title">Postavke Roaminga</string>
@@ -1602,9 +1601,8 @@ Spremni započeti? Dodirnite Dalje."</string>
   <string name="manageapplications_settings_title">Upravljanje aplikacijama</string>
   <string name="manually_add_network">Dodaj mrežu</string>
   <string name="mark_number_dialog_maintitle">Blokiraj i prijavi broj</string>
-  <string name="mark_number_dialog_subtitle">Razvijeno u suradnji s Sogou</string>
-  <string name="master_clear_accounts">"
-
+  <string name="mark_number_dialog_subtitle"/>
+  <string name="master_clear_accounts">
 Trenutno ste prijavljeni na slijedeće račune:
 "</string>
   <string name="master_clear_all">"Izbrisati sve podatke s interne pohrane uređaja? Radnja se ne može poništiti!"</string>
@@ -1647,7 +1645,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="medium_font">Srednje</string>
   <string name="mem_lock">Zaključaj</string>
   <string name="mem_unlock">Otključaj</string>
-  <string name="member_firewall_log" formatted="false">Blokirano: Broj%d, detalji%d</string>
+  <string name="member_firewall_log" formatted="false">Blokirano: Broj %d, detalji %d</string>
   <string name="memory">RAM</string>
   <string name="memory_apps_usage">Aplikacije</string>
   <string name="memory_available">Dostupno</string>
@@ -1673,7 +1671,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="menu_duration_3h">3 sata</string>
   <string name="menu_duration_6h">6 sati</string>
   <string name="menu_edit">Uredi</string>
-  <string name="menu_item_about_content">Verzija: %s</string>
+  <string name="menu_item_about_content">Sigurnost: %s</string>
   <string name="menu_item_about_summary">Verzija: %s</string>
   <string name="menu_item_about_title">O aplikaciji</string>
   <string name="menu_item_app_details">Detalji</string>
@@ -1683,7 +1681,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Greška</string>
   <string name="menu_item_notification_power_text">Energija</string>
-  <string name="menu_item_notification_title">Prikaži u sjeni obavijesti</string>
+  <string name="menu_item_notification_title">Prikaži u panelu obavijesti</string>
   <string name="menu_item_settings_title">Postavke</string>
   <string name="menu_item_shortcut">Napravi prečac</string>
   <string name="menu_item_shortcut_summary">Postavite često korištene značajke na vaš početni zaslon</string>
@@ -1763,7 +1761,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="move_app_failed_dlg_text">"Premještanje aplikacije %1$s nije uspjelo."</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Premjesti na uređaj</string>
-  <string name="move_app_to_sdcard">Premjesti na USB pohranu</string>
+  <string name="move_app_to_sdcard">Premjesti na SD karticu</string>
   <string name="moving">Premještanje</string>
   <string name="msd_driver_download">Preuzmi upravljački program</string>
   <string name="msd_driver_mac_download">"OSX: preuzmite upravljački program i kliknite AndroidFileTransfer.dmg za instalaciju
@@ -1916,7 +1914,7 @@ Izborniku se ne može pristupiti"</string>
   <string name="opt_virus_suggest">Otkriveno %d sumnjivih datoteka. Provjerite sustav skeniranjem.</string>
   <string name="opt_waiting">Čekam</string>
   <string name="optimize_ad_header_left">Reklama: %d</string>
-  <string name="optimize_ad_list_empty_content">Nema datoteka oglašavanja</string>
+  <string name="optimize_ad_list_empty_content">Nema reklama</string>
   <string name="optimize_apk_header_left">Instaliranih paketa: %d</string>
   <string name="optimize_apk_list_empty_content">Nema instaliranih paketa</string>
   <string name="optimize_cache_header_left">Stavaka predmemorije: %d</string>
@@ -1934,13 +1932,13 @@ Izborniku se ne može pristupiti"</string>
   <string name="optimize_tips_ad_title">Reklama:</string>
   <string name="optimize_tips_apk">"icon Koristi se za instalaciju aplikacije na uređaj, ali ne rade ništa nakon što ste instalirali aplikaciju."</string>
   <string name="optimize_tips_apk_content">"Koristi se za instalaciju aplikacije na uređaj, ali ne rade ništa nakon što ste instalirali aplikaciju."</string>
-  <string name="optimize_tips_apk_title">Paketi:</string>
+  <string name="optimize_tips_apk_title">Aplikacije</string>
   <string name="optimize_tips_cache">Ikone datoteka predmemorije stvorene od procesa koji ih zahtijevaju samo privremeno (npr. sličice).</string>
   <string name="optimize_tips_cache_content">Stvoreno od aplikacija i procesa koji ih zahtijevaju samo privremeno (npr. sličice).</string>
-  <string name="optimize_tips_cache_title">Memorija:</string>
+  <string name="optimize_tips_cache_title">Memorija</string>
   <string name="optimize_tips_residual">"icon Datoteke (npr. videozapisi, slike pozadine, glazba, itd.) koje su preuzete na SD karticu vašeg uređaja od strane aplikacije koja je deinstalirana."</string>
   <string name="optimize_tips_residual_content">"Datoteke (npr. videozapisi, slike pozadine, glazba, itd.) koje su preuzete na SD karticu vašeg uređaja od strane aplikacije koja je deinstalirana. Kako vam neke od tih datoteka još uvijek mogu biti od koristi, preporučujemo vam da koristite napredne značajke kod čišćenja zaostalih datoteka."</string>
-  <string name="optimize_tips_residual_title">Ostaci:</string>
+  <string name="optimize_tips_residual_title">Ostaci</string>
   <string name="optimize_tips_title">Pomoć</string>
   <string name="optimize_title_ad">Reklama</string>
   <string name="optimize_title_apk">Paketa</string>
@@ -2000,7 +1998,7 @@ Izborniku se ne može pristupiti"</string>
   <string name="perm_hips_group_location">Određivanje</string>
   <string name="perm_hips_group_phoneid">Identifikacija uređaja</string>
   <string name="perm_hips_group_pim">Osobne informacije</string>
-  <string name="perm_hips_group_root">Root</string>
+  <string name="perm_hips_group_root">ROOT</string>
   <string name="perm_hips_listen_call_state">Nadziraj status poziva</string>
   <string name="perm_hips_location_access">Dobivanje trenutne lokacije</string>
   <string name="perm_hips_location_cell_location">Dobivanje lokacije uređaja</string>
@@ -2029,10 +2027,10 @@ Izborniku se ne može pristupiti"</string>
   <string name="perm_hips_reject_all">Odbij sve</string>
   <string name="perm_hips_risky">Rizična dopuštenja (%1$d)</string>
   <string name="perm_hips_root">Root</string>
-  <string name="perm_hips_root_desc">Zahtjeva root dopuštenje</string>
+  <string name="perm_hips_root_desc">Zahtjeva ROOT dopuštenje</string>
   <string name="perm_hips_root_desc_stable">"Usluga nije dostupna u ovoj MIUI verziji"</string>
-  <string name="perm_hips_root_hint">%1$s aplikacija ima ovlasti root dopuštenja</string>
-  <string name="perm_hips_root_title">Dobivanje root dopuštenja</string>
+  <string name="perm_hips_root_hint">%1$s aplikacija ima ovlasti ROOT dopuštenja</string>
+  <string name="perm_hips_root_title">Dobivanje ROOT dopuštenja</string>
   <string name="perm_hips_safe">Normalna dopuštenja (%1$d)</string>
   <string name="perm_hips_security_prompt_accept">Dopusti (%d)</string>
   <string name="perm_hips_security_prompt_accept_root">Dopusti</string>
@@ -2041,12 +2039,12 @@ Izborniku se ne može pristupiti"</string>
   <string name="perm_hips_security_prompt_reject">Odbij (%d)</string>
   <string name="perm_hips_security_prompt_remember">Zapamti moj odabir</string>
   <string name="perm_hips_security_prompt_root_caption">Upozorenje</string>
-  <string name="perm_hips_security_prompt_root_step1">Odobriti %1$s root dopuštenje?</string>
-  <string name="perm_hips_security_prompt_root_step2">Odobravanje root dopuštenja može destabilizirati uređaj.</string>
+  <string name="perm_hips_security_prompt_root_step1">Odobriti %1$s ROOT dopuštenje?</string>
+  <string name="perm_hips_security_prompt_root_step2">Odobravanje ROOT dopuštenja može destabilizirati uređaj.</string>
   <string name="perm_hips_security_prompt_root_step3">Sigurnost vaših podataka može biti ugrožena.</string>
-  <string name="perm_hips_security_prompt_root_step4">"Neke aplikacije s root dopuštenjem mogu oštetiti hardver vašeg uređaja."</string>
-  <string name="perm_hips_security_prompt_root_step5">Budite oprezni: Odobrite root dopuštenje samo onim aplikacijama iz izvora kojem vjerujete.</string>
-  <string name="perm_hips_security_prompt_root_step6">Odobriti %1$s root dopuštenje?</string>
+  <string name="perm_hips_security_prompt_root_step4">"Neke aplikacije s ROOT dopuštenjem mogu oštetiti hardver vašeg uređaja."</string>
+  <string name="perm_hips_security_prompt_root_step5">Budite oprezni: Odobrite ROOT dopuštenje samo onim aplikacijama iz izvora kojem vjerujete.</string>
+  <string name="perm_hips_security_prompt_root_step6">Odobriti %1$s ROOT dopuštenje?</string>
   <string name="perm_hips_security_prompt_title">%1$s pokušava na %2$s</string>
   <string name="perm_hips_send_sms_content">Sadržaj:</string>
   <string name="perm_hips_send_sms_data">Pošalji SMS na %1$s:%2$d</string>
@@ -2087,29 +2085,29 @@ Izborniku se ne može pristupiti"</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI će vjerovati ovoj aplikaciji</string>
   <string name="perm_privacy_app_uninstall">Deinstaliraj</string>
   <string name="perm_privacy_count">Dopušteno: %1$d | Odbijeno: %2$d</string>
-  <string name="perm_root_manage_empty">Nijedna od vaših aplikacija ima root dopuštenje</string>
+  <string name="perm_root_manage_empty">Nijedna od vaših aplikacija ima ROOT dopuštenje</string>
   <string name="perm_service_disabled">Usluga onemogućena</string>
   <string name="perm_service_enabled">Usluga omogućena</string>
   <string name="perm_shortcut">Kontekstni izbornik</string>
   <string name="perm_show_system_app">Pokaži Aplikacije sustava</string>
-  <string name="perm_su">Upravljanje root dopuštenja</string>
-  <string name="perm_su_desc">Nadziranje %1$d aplikacija s root dopuštenjima</string>
-  <string name="perm_su_desc1">Upravljaj root dopuštenjima</string>
-  <string name="perm_su_disabled">Root dopuštenja onemogućena</string>
-  <string name="perm_su_disabled_desc">"Odobravanje root dopuštenja za neke druge aplikacije mogu destabilizirati uređaj, ugroziti sigurnost vaših podataka, i/ili oštetiti hardver vašeg uređaja.
-Preuzmite developer MIUI verziju za omogućavanje root dopuštenja."</string>
-  <string name="perm_su_disabled_in_stable">"Root dopuštenje nije dostupno u ovoj MIUI verziji"</string>
-  <string name="perm_su_disabled_in_stable_desc">"Odobravanje root dopuštenja za neke druge aplikacije mogu destabilizirati uređaj, ugroziti sigurnost vaših podataka, i/ili oštetiti hardver vašeg uređaja.
+  <string name="perm_su">Upravljanje ROOT dopuštenja</string>
+  <string name="perm_su_desc">Nadziranje %1$d aplikacija s ROOT dopuštenjima</string>
+  <string name="perm_su_desc1">Upravljaj ROOT dopuštenjima</string>
+  <string name="perm_su_disabled">ROOT dopuštenja onemogućena</string>
+  <string name="perm_su_disabled_desc">"Odobravanje ROOT dopuštenja za neke druge aplikacije mogu destabilizirati uređaj, ugroziti sigurnost vaših podataka, i/ili oštetiti hardver vašeg uređaja.
+Preuzmite developer MIUI verziju za omogućavanje ROOT dopuštenja."</string>
+  <string name="perm_su_disabled_in_stable">"ROOT dopuštenje nije dostupno u ovoj MIUI verziji"</string>
+  <string name="perm_su_disabled_in_stable_desc">"Odobravanje ROOT dopuštenja za neke druge aplikacije mogu destabilizirati uređaj, ugroziti sigurnost vaših podataka, i/ili oštetiti hardver vašeg uređaja.
         
-Preuzmite developer MIUI verziju za omogućavanje root dopuštenja."</string>
+Preuzmite developer MIUI verziju za omogućavanje ROOT dopuštenja."</string>
   <string name="perm_su_disabled_in_stable_download">Preuzmi MIUI</string>
-  <string name="perm_su_enable_content">"Dopustiti aplikacijama traženje root dopuštenja.
+  <string name="perm_su_enable_content">"Dopustiti aplikacijama traženje ROOT dopuštenja.
 
-Budite oprezni: Odobravanje root dopuštenja za neke druge aplikacije mogu destabilizirati uređaj, ugroziti sigurnost vaših podataka, i/ili oštetiti hardver vašeg uređaja."</string>
-  <string name="perm_su_enable_dialog">"%1$s traži root ovlasti koje je onemogućeno prema zadanim postavkama sigurnosti vašeg sustava. Da biste promijenili postavke root dopuštenja, idite na Centar za sigurnost &gt; Dopuštenja &gt; Root dopuštenja"</string>
-  <string name="perm_su_enable_summary">Dopustiti aplikaciji  dobivanje root dopuštenja</string>
-  <string name="perm_su_enable_title">Root dopuštenje</string>
-  <string name="perm_su_switch">Root dopuštenja</string>
+Budite oprezni: Odobravanje ROOT dopuštenja za neke druge aplikacije mogu destabilizirati uređaj, ugroziti sigurnost vaših podataka, i/ili oštetiti hardver vašeg uređaja."</string>
+  <string name="perm_su_enable_dialog">"%1$s traži ROOT ovlasti koje je onemogućeno prema zadanim postavkama sigurnosti vašeg sustava. Da biste promijenili postavke ROOT dopuštenja, idite na Centar za sigurnost &gt; Dopuštenja &gt; ROOT dopuštenja"</string>
+  <string name="perm_su_enable_summary">Dopustiti aplikaciji  dobivanje ROOT dopuštenja</string>
+  <string name="perm_su_enable_title">ROOT dopuštenje</string>
+  <string name="perm_su_switch">ROOT dopuštenja</string>
   <string name="perm_summary_disabled">Isključeno</string>
   <string name="perm_summary_enabled">Uključeno</string>
   <string name="perm_support_hints">Powered by LBE</string>
@@ -2398,7 +2396,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="print_settings">Printanje</string>
   <string name="print_settings_title">Usluge ispisa</string>
   <string name="priority_storage_app_settings">Korisnički podaci će biti pohranjeni na %1$s</string>
-  <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, korisnički podaci će biti automatski spremljeni na internu pohranu</string>
+  <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, korisnički podaci će biti pohranjeni na unutarnju pohranu automatski</string>
   <string name="priority_storage_summary">Odaberite zadanu memoriju za pohranu podataka</string>
   <string name="priority_storage_title">Podešavanje pohrane</string>
   <string name="priority_sub_summary">Dodatna ažuriranja sustava</string>

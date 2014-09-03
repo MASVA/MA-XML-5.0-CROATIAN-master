@@ -395,7 +395,7 @@ Možete pregledati i urediti svoj
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Priprema za brisanje slikovnih podataka.</string>
   <string name="priority_storage">Spremi na SD karticu</string>
-  <string name="priority_storage_summary">Automatski spremi datoteke na SD karticu.</string>
+  <string name="priority_storage_summary">Kada je SD kartica umetnuta, preuzmi datoteke na SD karticu automatski.</string>
   <string name="projection">Projekcija</string>
   <string name="public_url_descript">Svatko može pristupiti albumu koristeći ovaj URL</string>
   <string name="publish_failed">Neuspješno objavljivanje.</string>
