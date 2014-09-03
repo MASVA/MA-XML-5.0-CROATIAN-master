@@ -544,6 +544,7 @@ Molimo kontaktirajte svog davatelja usluga ako se taj problem ne riješi.</strin
   <string name="information">Informacije</string>
   <string name="international_disable">Međunarodne vijesti onemogućene</string>
   <string name="international_enable">Međunarodne vijesti omogućene</string>
+  <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="internet_phone">Internetski poziv</string>
   <string name="invalidPin">Upišite PIN koji ima od 4 do 8 znamenaka.</string>
   <string name="invalidPin2">Upišite PIN2 koji ima od 4 do 8 znamenaka.</string>

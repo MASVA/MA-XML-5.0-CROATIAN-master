@@ -326,7 +326,7 @@
   <string name="pref_autologin_progress_in_background">Prijava na Google putem %s u pozadini</string>
   <string name="pref_autologin_title">Automatska prijava na Google</string>
   <string name="pref_category_title_version">Verzija</string>
-  <string name="pref_check_security_url_summary">Pošalji trenutni URL prilikom otvaranja web-stranice na poslužitelj da otkrije svoju sigurnost</string>
+  <string name="pref_check_security_url_summary">Pošalji URL Web stranica na Xiaomi poslužitelj za provjeru</string>
   <string name="pref_check_security_url_title">Provjera sigurnosti URL-a</string>
   <string name="pref_clear_adblock_statistics">Izbriši broj blokiranih reklama</string>
   <string name="pref_clear_adblock_statistics_dlg">Izbrisati broj blokiranih reklama?</string>
@@ -373,7 +373,7 @@
   <string name="pref_development_trace">Omogući praćenje</string>
   <string name="pref_development_viewport">Koristite širok pregled</string>
   <string name="pref_development_visual_indicator">Omogućite vizualni pokazatelj</string>
-  <string name="pref_enable_adblock_notification">Upozori o blokiranju reklama</string>
+  <string name="pref_enable_adblock_notification">Obavijesti o blokiranju reklama</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Izađi zatvaranjem zadnje kartice</string>
   <string name="pref_extras_reset_default">Vrati na zadano</string>
   <string name="pref_extras_reset_default_dlg">Vratiti postavke na zadane vrijednosti?</string>
@@ -540,8 +540,8 @@
   <string name="set_as_homepage">Postavi kao početnu stranicu</string>
   <string name="share_link">Dijeli vezu</string>
   <string name="share_page">Dijeli stranicu</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Kako bi se zaštitili sigurnost svog internetskog preglednika za pristup stranici, trenutni URL će se dostaviti na poslužitelj da otkrije svoju sigurnost, ako ne trebate tu značajku, isključite Provjera Sigurnosti URL-a u postavkama</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Savjet Provjere Sigurnosti URL-a</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Ovaj URL web starnice će biti poslan na Xiaomi poslužitelj kako bi potvrdili njezinu sigurnost. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Sigurnosti URL-a</string>
   <string name="sign_in_to" formatted="false">Prijavite se na %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Spremanje za izvanmrežno čitanje nije uspjelo."</string>
   <string name="snapshot_go_live">Idi uživo</string>

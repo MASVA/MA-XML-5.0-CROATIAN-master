@@ -904,7 +904,7 @@ Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="deepclean_cache_header_left">Datoteke: %d</string>
   <string name="deepclean_sort_type_title">Poredaj</string>
   <string name="default_date_format">MM/dd/yyyy</string>
-  <string name="default_input_method">Odaberi zadanu metodu unosa</string>
+  <string name="default_input_method">Odaberi zadanu tipkovnicu</string>
   <string name="default_sdcard_select_msg">"Ako odaberete %1$s,  aplikacije instalirane na %2$s ne mogu se koristiti dok se uređaj ponovno ne pokrene, promijeniti na %3$s?"</string>
   <string name="default_usb_mode">USB veza</string>
   <string name="delete">Izbriši</string>
@@ -1357,7 +1357,7 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvojni programeri."<
   <string name="incoming_call_breathing_light_freq_title">Frekvencija treperenja LED-a kod poziva</string>
   <string name="incoming_call_vibrate_abbreviation">"Pozivi "</string>
   <string name="incoming_call_volume_title">Zvuk zvona</string>
-  <string name="input_method">Način unosa</string>
+  <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Izbornik načina unosa</string>
   <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -2440,7 +2440,7 @@ Uređaj je postavljen da se prebaci na ovu konfiguraciju kad se baterija oporavi
   <string name="protection_perm">Postavke dopuštenja</string>
   <string name="protection_sms">SMS filter</string>
   <string name="provider_label">Pretplate Push usluga</string>
-  <string name="provision_inputmethod_policy_description">Pregled pravila o privatnosti povezanih s vašim trenutnim načinom unosa</string>
+  <string name="provision_inputmethod_policy_description">Pravila o privatnosti za odabranu tipkovnicu</string>
   <string name="proxy_action_text">Gotovo</string>
   <string name="proxy_clear_text">Izbriši</string>
   <string name="proxy_defaultView_text">Obnovi zadano</string>
@@ -3421,7 +3421,7 @@ Svaki korisnik može prihvatiti dopuštenja ažuriranih aplikacija na ime svih o
   <string name="volume_notification_description">Obavijesti</string>
   <string name="volume_notification_mute">Isključivanje zvuka obavijesti</string>
   <string name="volume_restore">Poništiti razine</string>
-  <string name="volume_restore_alert">"Kada poništite glasnoću na zadane razine, vaše trenutne postavke razine će se izbrisati."</string>
+  <string name="volume_restore_alert">Sve razine glasnoće će se resetirati.</string>
   <string name="volume_ring_description">Melodija zvona &amp; obavijesti</string>
   <string name="volume_ring_mute">Isključi zvuk melodije zvona i obavijesti</string>
   <string name="volume_system_description">Okidač fotoaparata, zaključavanje zaslona, i ostale obavijesti sustava</string>

@@ -32,7 +32,7 @@
   <string name="authenticated_failed">"Prijava nije uspjela"</string>
   <string name="authenticating">&lt;CDATA&gt;Provjera &lt;/CDATA&gt;</string>
   <string name="authenticating_manually">Provjera nije uspjela</string>
-  <string name="auto_play">Automatska reprodukcija kad je spremno</string>
+  <string name="auto_play">Automatska reprodukcija preko cijelog zaslona</string>
   <string name="auto_play_summary">Reproduciraj videozapis kad završi preuzimanje</string>
   <string name="backkey_remark">Pritisnite tipku Natrag za izlaz</string>
   <string name="be_living_status">Uživo</string>
@@ -84,7 +84,7 @@
   <string name="comment_publish">Pošalji</string>
   <string name="comment_submiting">Slanje…</string>
   <string name="connecting">Povezivanje…</string>
-  <string name="continue_to_play_nextset">Automatski reproduciraj sljedeću epizodu</string>
+  <string name="continue_to_play_nextset">Nakon učitavanja stranice s detaljima, reproduciraj videozapis preko punog zaslona</string>
   <string name="continue_to_play_nextset_summary">"Po završetku trenutne epizode, automatski će se reproducirati sljedeća"</string>
   <string name="count_bu">Prt. %d</string>
   <string name="count_ge">"%d stavaka "</string>

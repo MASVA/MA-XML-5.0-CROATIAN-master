@@ -4,16 +4,16 @@
   <string name="next">Dalje</string>
   <string name="other_service_google_location">Google Usluga lociranja</string>
   <string name="other_service_google_location_use">Lokacija &amp; Google pretraživanje</string>
-  <string name="other_service_google_location_use_help">"Dopustiti Google Usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Prikupljanje će se obaviti čak i kada nema pokrenutih aplikacija."</string>
+  <string name="other_service_google_location_use_help">Dopustiti Usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Neki podaci mogu biti pohranjeni na uređaju. Prikupljanje se može dogoditi čak i kada nije pokrenuta nijedna aplikacija.</string>
   <string name="other_service_google_location_use_summary">Neka Google koristi vaš položaj kako bi poboljšao rezultate pretraživanja i ostale usluge</string>
   <string name="other_service_label">Ostale usluge</string>
   <string name="other_service_location">Lokacija pristupa</string>
-  <string name="other_service_location_summary">Neka karte i ostale aplikacije točno odrede vašu lokaciju</string>
+  <string name="other_service_location_summary">Dopustiti Usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Neki podaci mogu biti pohranjeni na uređaju. Prikupljanje se može dogoditi čak i kada nije pokrenuta nijedna aplikacija.</string>
   <string name="other_service_permission_manager">Upravljanje dopuštenjima aplikacija</string>
   <string name="other_service_permission_manager_summary">Nadziranje aplikacija za sigurnost i privatnost</string>
   <string name="other_service_user_experience">Program Korisničkog iskustva</string>
   <string name="other_service_user_experience_summary0">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju."</string>
-  <string name="other_service_user_experience_summary1">(Pogledajte pravila o privatnosti)</string>
+  <string name="other_service_user_experience_summary1">" (Pogledajte pravila o privatnosti)"</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="setup_complete_info"/>
   <string name="setup_complete_label">Postavljanje završeno!</string>
@@ -25,7 +25,10 @@
   <string name="sim_card_detection_label">SIM kartica</string>
   <string name="sim_card_detection_status_absent">SIM kartica nije otkrivena</string>
   <string name="terms_agree">Slažem se</string>
-  <string name="terms_description">Morate prihvatiti Uvjete pružanja usluge i Pravila o privatnosti da biste nastavili koristiti MIUI.</string>
+  <string name="terms_confirm_info">Vaše korištenje ovog telefona podliježe %1$s i %2$s</string>
+  <string name="terms_description">"Vaša privatnost je vrlo važno za nas. Pročitajte sljedeće uvjete da razumijete koje podatke prikupljamo, kako ćemo ih koristiti i koji izbori su vam dostupni.
+
+Vaše korištenje MIUI i povezanih usluga podliježe ovim uvjetima i odredbama."</string>
   <string name="terms_disagree">Odustani</string>
   <string name="terms_label">Uvjeti i odredbe</string>
   <string name="terms_of_service">Uvjeti pružanja usluge</string>

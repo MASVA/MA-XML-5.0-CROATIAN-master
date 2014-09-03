@@ -244,6 +244,8 @@
   <string name="change_account_type">Promijenite vrstu računa</string>
   <string name="change_folders_selection_dialog_title">Promjena mapa</string>
   <string name="change_sync_settings">Promjena postavki sinkronizacije</string>
+  <string name="chat_type_name">chat</string>
+  <string name="check_setup_data">Provjeravanje postavki poslužitelja…</string>
   <string name="checking_for_mail">Provjeravanje pošte</string>
   <string name="checking_message">Provjera ažuriranja…</string>
   <string name="choosertitle_sharevia">Dijeli putem</string>
@@ -288,7 +290,6 @@
   <string name="conversation_folder_moved">Premješteno u mapu %1$s</string>
   <string name="conversation_item_mark_read">Pročitano</string>
   <string name="conversation_item_mark_unread">Nepročitano</string>
-  <string name="conversation_list_net_check">Nije moguće povezivanje s mrežom, provjerite konfiguraciju mreže ili pokušajte kasnije</string>
   <string name="conversation_photo_welcome_text">Dodirnite sliku pošiljatelja da biste odabrali taj razgovor.</string>
   <string name="copy_email">Kopiranje e-adrese</string>
   <string name="copy_number">Kopiranje telefonskog broja</string>
@@ -301,6 +302,7 @@
   <string name="default_setup">ZADANE POSTAVKE</string>
   <string name="default_signature">Poslano s MIUI telefona</string>
   <string name="delete">Obrisati</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s je izbrisan</string>
   <string name="deleted">Obrisano</string>
   <string name="device_activity_btn_str">Natrag na aktivaciju</string>
   <string name="device_activity_lint_str">Omogućite kompletno ažuriranje usluge E-pošte i aktivirajte sigurnosnu opremu</string>
@@ -333,11 +335,14 @@
   <string name="download_confirm_message">Da biste otvorili ovu datoteku, morate preuzeti veličinu privitka od 180K %1$s</string>
   <string name="download_confirm_title">Potvrda preuzimanja</string>
   <string name="download_failed">"Neuspjelo preuzimanje. Dodirnite za ponovni pokušaj."</string>
+  <string name="downloading_message_body">Preuzimanje e-pošte, pričekajte…</string>
   <string name="download_now">Preuzeti sada</string>
   <string name="downloading">Preuzimanje</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
   <string name="drawer_open">Otvaranje pretinca za navigaciju</string>
+  <string name="eas_hotmail_email">hotmail.com</string>
+  <string name="eas_outlook_email">outlook.com</string>
   <string name="eas_template">domena\\naziv</string>
   <string name="edit_quick_response_dialog">Uredi Brzi odgovor</string>
   <string name="empty_account_tip">Ne mogu naći račun</string>
@@ -356,6 +361,7 @@
   <string name="failed">"Nije moguće učitati sliku"</string>
   <string name="feedback">Pošaljite povratne informacije</string>
   <string name="feedback_body">Detalji povratne informacije</string>
+  <string name="feedback_sent">"Zahvaljujemo na povratnim informacijama. Nastaviti ćemo se usavršavati za vas"</string>
   <string name="fetching_attachment">Dohvaćanje privitka</string>
   <string name="file_deleted_success">Datoteka je uspješno obrisana!</string>
   <string name="file_not_found">Datoteka ne postoji na poslužitelju e-pošte!</string>
@@ -478,6 +484,9 @@
   <string name="menu_search">Pretraživanje</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_show_original">Vrati izvornu verziju</string>
+  <string name="message_body_auto_download_complete">Automatski preuzeta e-pošta pomoću WLAN-a</string>
+  <string name="message_body_auto_download_tip">"Trenutno koristite WLAN. E-pošta će se automatski preuzeti."</string>
+  <string name="message_body_download_failed">Istek vremena prilikom preuzimanja e-pošte</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Izvorna poruka --------
@@ -499,6 +508,7 @@ Kopija: %4$s
   <string name="message_invite_tentative">Možda</string>
   <string name="message_invite_title">Kalendarska pozivnica</string>
   <string name="message_saved">Poruka je spremljena kao skica.</string>
+  <string name="message_type_name">Poruka</string>
   <string name="message_view_attachment_background_load">Jedan ili više privitaka u proslijeđenoj poruci preuzet će se prije slanja.</string>
   <string name="more_atts_total">%1$d privitaka ukupno</string>
   <string name="more_info_attachment">Informacije</string>
@@ -508,8 +518,8 @@ Kopija: %4$s
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;" %2$s"</string>
   <string name="mute">Isključi zvuk</string>
   <string name="name_or_number_is_error">Pogreška Korisničkog imena ili zaporke</string>
-  <string name="net_check_title">Anomalija mreže, provjerite mrežu.</string>
   <string name="network_error">Nema veze</string>
+  <string name="network_not_available">Mreža isključena ili abnormalna, molimo provjerite</string>
   <string name="new_down_desc1">Savjeti:</string>
   <string name="new_down_desc2">Promjene:</string>
   <string name="new_down_desc3">Preporuka je korištenje WLAN-a</string>
@@ -570,8 +580,8 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="phone">telefon</string>
   <string name="photo_load_failed">"Nije moguće učitati sliku"</string>
   <string name="photo_view_count" formatted="false">%d od %d</string>
-  <string name="please_fill_in_your_mailbox_information">Ispunite vaše % vezane informacije poštanskog pretinca:</string>
-  <string name="please_fill_in_your_mailbox_information2">Ispunite vaše vezane informacije poštanskog pretinca:</string>
+  <string name="please_fill_in_your_mailbox_information">Unesite vaše %s podatke vezane za račun e-pošte:</string>
+  <string name="please_fill_in_your_mailbox_information2">Unesite vaše podatke vezane za račun e-pošte:</string>
   <string name="please_wait">Pričekajte…</string>
   <string name="policy_app_blacklist">Odbaci određene aplikacije</string>
   <string name="policy_app_whitelist">Dopusti samo određene aplikacije</string>
@@ -685,10 +695,8 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="sent_folder_selection_title">Odaberite mapu za poslane stavke poslužitelja za %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Nije uspjelo potvrditi certifikat poslužitelja
 \u0009 (Provjerite je li podešeno 'Auto sink. vremena')"</string>
-  <string name="ser_resp_err_map_connect_err">Pogreška mrežne veze. Pokušajte drugu mrežu</string>
   <string name="ser_resp_err_map_nouser">Nema takvog korisnika</string>
   <string name="ser_resp_err_map_or">Ili</string>
-  <string name="ser_resp_err_map_pserr">Pogrešno korisničko ime ili zaporka</string>
   <string name="ser_resp_err_map_serclosed">Usluga zatvorena</string>
   <string name="ser_resp_err_map_ssl">"Pokušajte odabrati 'SSL/TLS (Prihvati sve certifikate)' u 'Vrsta sigurnosti'"</string>
   <string name="settings_action">Postavke</string>
@@ -735,6 +743,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo. Ograničenje je %1$s.</string>
   <string name="too_large_to_attach_single">"Nije moguće priložiti datoteku veću od %1$s."</string>
   <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
+  <string name="tryrefreshing">Pokušajte osvježiti…</string>
   <string name="turn_auto_sync_on_dialog_body">Promjene koje unesete na svim aplikacijama i računima, a ne samo na Gmailu, sinkronizirat će se na webu, vašim ostalim uređajima i vašem uređaju %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>
   <string name="turn_auto_sync_on_dialog_title">Želite li uključiti automatsku sinkronizaciju?</string>
