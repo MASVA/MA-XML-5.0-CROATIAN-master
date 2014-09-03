@@ -106,7 +106,6 @@
   <string name="cloud_messaging">Cloud Poruke vam omogućuju slanje SMS poruka s drugim MIUI korisnicima bez dodatnih SMS troškova.
 
 Možete tu značajku uključiti/isključiti bilo kada u Postavkama.</string>
-  <string name="cloud_messaging">Cloud Poruke</string>
   <string name="cloud_messaging_dspt">Omogući Cloud Poruke</string>
   <string name="cmcc_data_sync_notice">Sinkronizacija poruka i kontakata između raznih uređaja.</string>
   <string name="cmcc_micloud_dspt">Koristite MiCloud za sinkronizaciju podataka, pronalazak svog telefona, i dijeljenje stvari s prijateljima.</string>
