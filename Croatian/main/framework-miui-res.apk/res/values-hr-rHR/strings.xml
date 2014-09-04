@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate">Aktiviraj</string>
-  <string name="activate_fail_notification_title">Ponovno aktivirajte Xiaomi Servis sinkronizacije</string>
-  <string name="activating">Aktiviram…</string>
+  <string name="activate_fail_notification_title">Ponovno aktivirajte sinkronizaciju</string>
+  <string name="activating">Aktiviranje…</string>
   <string name="alwaysUsePrompt">"Ne prikazuj ponovo"</string>
-  <string name="android_lockscreen_glogin_instructions">Za otključati, prijavite se vašim Mi računom </string>
+  <string name="android_lockscreen_glogin_instructions">Za otključati, prijavite se vašim Mi računom</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
-  <string name="app_no_notification">Nema obavijesti</string>
-  <string name="app_notificaiton_on_notificationBar">Traka obavijesti</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Traka obavijesti i statusa</string>
+  <string name="app_no_notification">Sakrij obavijesti</string>
+  <string name="app_notificaiton_on_notificationBar">Panel obavijesti</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Traka obavijesti, Panel obavijesti</string>
   <string name="arbor_day">Dan drveća</string>
   <string name="armed_forces_day"/>
   <string name="autumn_begins">Jesen počinje</string>
@@ -29,14 +29,14 @@
   <string name="day_following_good_friday"/>
   <string name="day_of_month">" %d"</string>
   <string name="days">"%d dana"</string>
-  <string name="delete">Obrisati</string>
+  <string name="delete">Izbrisati</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_hongmi">Redmi</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="double_seventh_day"/>
   <string name="easter">Uskrs</string>
   <string name="emergency_call_string">Hitan poziv</string>
-  <string name="err_resource_leak">Na žalost, %1$s je prekinut zbog gubljenja reursa.</string>
+  <string name="err_resource_leak">Na žalost, %1$s je zaustavljen</string>
   <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi računom.</string>
   <string name="error_not_acceptable">Sinkronizacija je onemogućena.</string>
   <string name="error_title">"Ne mogu sinkronizirati"</string>
@@ -58,16 +58,16 @@ Unesite SIM karticu"</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Vaš uređaj je zaključan.
 Isključite način rada u zrakoplovu"</string>
   <string name="firewall_setting">Vatrozid</string>
-  <string name="first_back_long_press_message">"Dugim pritiskom tipke "Natrag"  možete ugasiti pokrenute procese/pozadinske servise!
+  <string name="first_back_long_press_message">"Dugim pritiskom tipke "Natrag" možete ugasiti trenutne procese i njegove pozadinske servise!
   
 Omogućite to Postavke &gt; Sustav &gt; Gumbi &amp; tipke"</string>
-  <string name="fm_record_smaple_prefix_miui">Snimanje radia</string>
+  <string name="fm_record_smaple_prefix_miui">Snimanje FM radia</string>
   <string name="fools_day">1. April</string>
-  <string name="force_exit_message">Uspješno zatvoreno \"%1$s\"</string>
+  <string name="force_exit_message">Zatvoreno \"%1$s\"</string>
   <string name="forget_password_string">Zaboravljena zaporka</string>
   <string name="format_time_in_12_hours">hh:mma</string>
-  <string name="global_action_privacy_mode_dialog_message">U Čuvar načinu, pozivi, bilješke, galerija i SMS poruke će biti skrivene i Pokretač neće moći ući u način uređivanja. Možete postaviti lozinku za zaštitu Guard moda kroz Postavke kontrole upravljanja</string>
-  <string name="global_action_toggle_privacy_mode">Čuvar</string>
+  <string name="global_action_privacy_mode_dialog_message">Pozivi, bilješke, slike i postavke Pokretača će biti sakrivene od korisnika.</string>
+  <string name="global_action_toggle_privacy_mode">Gost način</string>
   <string name="good_friday">MIUI Petak!</string>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
@@ -144,7 +144,8 @@ Pokušajte ponovno za %d s."</string>
   <string name="miui_copyright_title">Autorsko pravo</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Kredit Korisnički sporazum</string>
-  <string name="miui_privacy_policy_title">Izjava o privatnosti</string>
+  <string name="miui_micloud_license_title">Xiaomi Cloud Ugovor o pružanju usluge</string>
+  <string name="miui_privacy_policy_title">Pravila o privatnosti</string>
   <string name="miui_unlockscreen_password_wrong">Netočna zaporka! Pokušajte ponovno</string>
   <string name="miui_user_agreement_title">Korisnički sporazum</string>
   <string name="miui_user_manual_title">Korisnički priručnik</string>
@@ -170,18 +171,18 @@ Pokušajte ponovno za %d s."</string>
   <string name="partys_day"/>
   <string name="payphone">Govornica</string>
   <string name="peace_day">Dan mira</string>
-  <string name="perm_auto_backup">Automatska sigurnosna pohrana</string>
-  <string name="perm_data_update_dspt">Dopušteno osvježavanje podataka vodenog žiga</string>
+  <string name="perm_auto_backup">Automatska pohrana</string>
+  <string name="perm_data_update_dspt">Dopustiti slanje ažuriranih podataka vodene oznake</string>
   <string name="perm_data_update_lab">Ažuriranje podataka</string>
   <string name="perm_payment_dspt">Dopustiti aplikaciji plaćanje pomoću Mi Pay-a</string>
   <string name="perm_payment_lab">Mi Pay</string>
   <string name="perm_send_push_dspt">Dopustiti push poruke iz Xiaomi-a</string>
   <string name="perm_send_push_lab">Pošalji push poruku</string>
-  <string name="perm_tigger_toggle_dspt">Dopustiti aplikaciji da uključi stavke u statusnoj traci</string>
-  <string name="perm_tigger_toggle_lab">Uključi stavke u statusnoj traci</string>
-  <string name="perm_use_find_device">Lociraj uređaj</string>
-  <string name="permdesc_accessNote">Omogućuje aplikaciji čitanje i promjenu vaše bilješke spremljene na telefonu. Zlonamjerne aplikacije mogu koristiti to za slanje bilješke drugim ljudima ili izbrisati sve bilješke.</string>
-  <string name="permlab_accessNote">Zabilješke pristupa</string>
+  <string name="perm_tigger_toggle_dspt">Dopustiti aplikaciji da uključi prečace u statusnoj traci</string>
+  <string name="perm_tigger_toggle_lab">Uključi prečace u statusnoj traci</string>
+  <string name="perm_use_find_device">Pronađi uređaj</string>
+  <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima.</string>
+  <string name="permlab_accessNote">Pristup vašim bilješkana</string>
   <string name="pin_operation_failed">PIN operacija neuspješna.</string>
   <string name="pincode_set_to_default_msg">PIN kod je 1234, unesite novi PIN.</string>
   <string name="private_num">Privatan broj</string>
@@ -190,13 +191,13 @@ Pokušajte ponovno za %d s."</string>
   <string name="reboot_confirm_title">Sigurno želite ponovno pokretanje?</string>
   <string name="reboot_progress">Ponovno pokretanje…</string>
   <string name="retrocession_day"/>
-  <string name="return_to_me_message">Vratite telefon vlasniku.</string>
+  <string name="return_to_me_message">Ako je izgubljen vratite ga</string>
   <string name="reverse_all">Obriši sve</string>
-  <string name="safetylegal_activity_unreachable">"Ne mogu se spojiti na mrežu. Možete vidjeti ovu informaciju online  %s."</string>
-  <string name="screen_button_notification_text">"Držite tipke 'Home'+'Power' da omogućite"</string>
+  <string name="safetylegal_activity_unreachable">"Ne mogu se spojiti na mrežu. Možete vidjeti ovu informaciju online na %s."</string>
+  <string name="screen_button_notification_text">"Držite tipke 'Home'+'Power' istovremeno da omogućite"</string>
   <string name="screen_button_notification_title">Tipke zaslona su onemogućene</string>
   <string name="screen_on_proximity_sensor_hint">"Prisilno zatvaranje: 
-  Drži 'Natrag'+'Volume Up' tipku"</string>
+  Drži 'Natrag'+'Volume +' tipku"</string>
   <string name="screen_on_proximity_sensor_summary">"Zlouporabni način omogućen. 
   Funkcije telefona trenutno onemogućene!"</string>
   <string name="screen_on_proximity_sensor_title">Spriječite zloupotrebu telefona</string>
@@ -212,13 +213,13 @@ Pokušajte ponovno za %d s."</string>
   <string name="share">Dijeli</string>
   <string name="short_pincode_error_msg">Unesite PIN koji ima od 4 do 8 brojeva</string>
   <string name="short_pukcode_error_msg">PUK kôd treba imati 8 brojeva ili više</string>
-  <string name="shutdown_confirm_title">Želite li isključiti svoj uređaj?</string>
+  <string name="shutdown_confirm_title">Vaš telefon će se isključiti</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">"SIM kartica koju koristite je deaktivirana. Međunarodni SMS će biti poslan da je ponovo aktivirate. Snositi ćete međunarodne troškove svog operatera."</string>
   <string name="sim_changed_reactivate_notice">"SIM kartica koju koristite je deaktivirana. SMS će biti poslan da je ponovno aktivirate. Snositi ćete redovite troškove svog operatera."</string>
   <string name="sim_in_airplane_mode">Onemogući način rada u zrakoplovu.</string>
   <string name="sim_locked">SIM kartica zaključana</string>
-  <string name="sim_not_ready">SIM kartica u upotrebi, pokušajte ponovno.</string>
+  <string name="sim_not_ready">SIM kartica u upotrebi.</string>
   <string name="sim_unavailable">SIM kartica nedostupna</string>
   <string name="slight_cold"/>
   <string name="slight_heat"/>
@@ -240,15 +241,15 @@ Pokušajte ponovno za %d s."</string>
   <string name="sync_data_merge_warning_title">Upozorenje spajanja podataka!</string>
   <string name="sync_data_mms">SMS vijesti</string>
   <string name="sync_data_msg_seperate">, </string>
-  <string name="sync_data_notes">Bilješke</string>
+  <string name="sync_data_notes">bilješke</string>
   <string name="sync_data_recover_warning_cancel">Odustani</string>
-  <string name="sync_data_recover_warning_desc">Korisnički podaci koje ćete obnoviti s Mi Clouda(npr. %s) će biti sinkronizirani s ovim uređajem."</string>
+  <string name="sync_data_recover_warning_desc">Korisnički podaci koje ćete obnoviti s Mi Clouda (npr. %s) će biti sinkronizirani s ovim uređajem."</string>
   <string name="sync_data_recover_warning_ok">U redu</string>
   <string name="sync_data_recover_warning_title">Upozorenje obnove podataka</string>
   <string name="sync_one_time_sync">Dodirni za sinkronizaciju (%1$s)</string>
   <string name="teachers_day"/>
-  <string name="text_copied">Tekst kopiran u međuspremnik.</string>
-  <string name="text_cut">Obreži tekst</string>
+  <string name="text_copied">Tekst kopiran</string>
+  <string name="text_cut">Tekst obrezan</string>
   <string name="text_pastelist">Međuspremnik</string>
   <string name="the_armys_day"/>
   <string name="the_double_ninth_festival"/>
@@ -271,11 +272,11 @@ Pokušajte ponovno za %d s."</string>
   <string name="unlockscreen_low_battery">Spojite punjač</string>
   <string name="unlockscreen_recharge_completed">Napunjeno</string>
   <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
-  <string name="user_agreement1">Koristiti ćete sustav i mrežne usluge koje pruža Xiaomi, molimo pročitajte</string>
+  <string name="user_agreement1">"Dodirivanjem U redu, suglasni s uvjetima iznesenim u Xiaomi"</string>
   <string name="user_agreement2">" Korisnički priručnik"</string>
   <string name="user_agreement3">" i "</string>
-  <string name="user_agreement4">Izjava o privatnosti</string>
-  <string name="user_agreement5">Klik na "U redu" pokazuje da se slažete te da ste spremni pristati na navedeni sadržaj, pritisnite "Odustani" za izlaz.</string>
+  <string name="user_agreement4">Pravila o privatnosti.</string>
+  <string name="user_agreement5"/>
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>
@@ -294,8 +295,8 @@ Pokušajte ponovno za %d s."</string>
   <string name="volume_icon_description_media">Medija</string>
   <string name="volume_icon_description_notification">Obavijesti</string>
   <string name="volume_icon_description_ringer">Melodija zvona</string>
-  <string name="volume_ring_description">Glasnoća zvona i obavijesti</string>
-  <string name="wake_alarm_message">Pauziraj alarm. Podsjeti za %s </string>
+  <string name="volume_ring_description">Melodija zvona &amp; obavijesti</string>
+  <string name="wake_alarm_message">Isključivanje obavijesti će se oglasiti u %s</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>

@@ -2435,13 +2435,13 @@ Budite oprezni: Odobravanje ROOT dopuštenja za neke druge aplikacije mogu desta
   <string name="protection_perm">Postavke dopuštenja</string>
   <string name="protection_sms">SMS filter</string>
   <string name="provider_label">Pretplate Push usluga</string>
-  <string name="provision_inputmethod_policy_description">Pravila o privatnosti za odabranu tipkovnicu</string>
+  <string name="provision_inputmethod_policy_description">Pregled pravila o privatnosti povezanih s vašim trenutnim načinom unosa</string>
   <string name="proxy_action_text">Gotovo</string>
   <string name="proxy_clear_text">Izbriši</string>
   <string name="proxy_defaultView_text">Obnovi zadano</string>
   <string name="proxy_error">Pažnja</string>
   <string name="proxy_error_dismiss">U redu</string>
-  <string name="proxy_error_empty_host_set_port">Polje priključka mora biti prazno ako je i polje domaćina prazno.Polje priključka mora biti prazno ako je i polje domaćina prazno.</string>
+  <string name="proxy_error_empty_host_set_port">Polje priključka mora biti prazno ako je i polje domaćina prazno.</string>
   <string name="proxy_error_empty_port">Morate ispuniti polje priključka.</string>
   <string name="proxy_error_invalid_exclusion_list">"Popis za isključivanje koji ste napisali nije pravilno formatiran. Unesite popis isključenih domena odvojenih zarezima."</string>
   <string name="proxy_error_invalid_host">"Naziv domaćina koji ste upisali nije valjan."</string>
