@@ -122,7 +122,7 @@ Današnje vrijeme u %1$s je %2$s, %3$s°C, %4$s. %5$s."</string>
   <string name="tip_weather">MIUI obavijest o vremenu</string>
   <string name="tip_weather_info_content_1">Uzmite nešto viška odjeće!</string>
   <string name="tip_weather_info_title_1">%1$s razlika temperature od %2$d °C</string>
-  <string name="tip_weather_info_title_2">Danas je %1$s u %2$s</string>
+  <string name="tip_weather_info_title_2">Danas u %1$s je %2$s</string>
   <string name="trend_weather_today">Danas</string>
   <string name="trend_weather_tomorrow">Sutra</string>
   <string name="weather_data_unreachable">"Ne mogu dobiti detalje o vremenu. Pričekajte 1-2 minute i pokušajte ponovno."</string>
