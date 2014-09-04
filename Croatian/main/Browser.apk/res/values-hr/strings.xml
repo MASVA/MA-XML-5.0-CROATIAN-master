@@ -355,9 +355,6 @@
   <string name="pref_data_preload_dialogtitle">Predučitaj rezultate pretraživanja</string>
   <string name="pref_data_preload_summary">Dopustite pregledniku predučitavanje visoko povjerenih rezultata pretraživanja u pozadini</string>
   <string name="pref_data_preload_title">Predučitavanje rezultata pretraživanja</string>
-  <string name="pref_data_preload_value_always">UVIJEK</string>
-  <string name="pref_data_preload_value_never">NIKAD</string>
-  <string name="pref_data_preload_value_wifi_only">SAMO</string>
   <string name="pref_data_title">Upravljanje propusnosti</string>
   <string name="pref_default_text_encoding">Kodiranje teksta</string>
   <string name="pref_default_text_encoding_default">UTF-8</string>
@@ -414,10 +411,7 @@
   <string name="pref_link_prefetch_dialogtitle">Predučitavanje web-stranice</string>
   <string name="pref_link_prefetch_summary">Dopustite pregledniku predučitavanje povezanih web-stranica u pozadini</string>
   <string name="pref_link_prefetch_title">Predučitavanje web-stranice</string>
-  <string name="pref_link_prefetch_value_always">UVIJEK</string>
-  <string name="pref_link_prefetch_value_never">NIKAD</string>
   <string name="pref_link_prefetch_value_never_summary">Nikada ne dopustiti pregledniku da predučita povezane web stranice u pozadini</string>
-  <string name="pref_link_prefetch_value_wifi_only">WLAN_SAMO</string>
   <string name="pref_min_font_size">Najmanja veličina fonta</string>
   <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_privacy_clear_cache">Brisanje predmemorije</string>
@@ -462,16 +456,12 @@
   <string name="pref_setting_title">Postavke stranice</string>
   <string name="pref_text_zoom">Skaliranje teksta</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">Niz korisničkog agenta</string>
   <string name="pref_ua_title">Upravljanje korisničkim agentom</string>
   <string name="pref_version_summary">Verzija: %s</string>
   <string name="pref_video_preload_dialogtitle">Predučitavanje video zapisa…</string>
   <string name="pref_video_preload_summary">"Dopusti pregledniku predučitavanje video zapisa kad poslužitelj to podržava"</string>
   <string name="pref_video_preload_title">Predučitavanje video zapisa</string>
-  <string name="pref_video_preload_value_always">UVIJEK</string>
-  <string name="pref_video_preload_value_never">NIKAD</string>
-  <string name="pref_video_preload_value_wifi_only">WIFI_SAMO</string>
   <string name="pref_volume_key_enabled">Tipke za glasnoću</string>
   <string name="pref_volume_key_operation">Funkcija tipaka za glasnoću</string>
   <string name="pref_webapp_settings_fontsize">Veličina fonta</string>

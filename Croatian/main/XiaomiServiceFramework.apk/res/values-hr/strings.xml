@@ -91,7 +91,7 @@ Možete ih uključiti/isključiti u bilo koje vrijeme u Postavkama."</string>
   <string name="captcha">Captcha kôd</string>
   <string name="checking_account">Provjera računa…</string>
   <string name="checking_input">Provjera unosa…</string>
-  <string name="cloud_messaging">Cloud Poruke vam omogućuju slanje SMS poruka s drugim MIUI korisnicima bez dodatnih SMS troškova.
+  <string name="cloud_message_notice">Cloud Poruke vam omogućuju slanje SMS poruka s drugim MIUI korisnicima bez dodatnih SMS troškova.
 
 Možete tu značajku uključiti/isključiti bilo kada u Postavkama.</string>
   <string name="cloud_messaging">Cloud Poruke</string>
