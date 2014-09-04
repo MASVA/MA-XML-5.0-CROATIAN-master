@@ -25,8 +25,6 @@
   <string name="acessibility_selected_marker_description">Odabrani događaj</string>
   <string name="acessibility_snooze_notification">Odgodi obavijest</string>
   <string name="action_bar_today">D</string>
-  <string name="activity_summary"/>
-  <string name="activity_title"/>
   <string name="add_account">Dodaj račun</string>
   <string name="add_calendar">Dodaj kalendar</string>
   <string name="add_topic_success">Dodano \"%s\"</string>

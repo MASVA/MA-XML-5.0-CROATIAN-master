@@ -2,15 +2,15 @@
 <resources>
   <string name="continues">Nastavi</string>
   <string name="next">Dalje</string>
-  <string name="other_service_google_location">Google Usluga lociranja</string>
+  <string name="other_service_google_location">GPS satelliti</string>
   <string name="other_service_google_location_use">Lokacija &amp; Google pretraživanje</string>
   <string name="other_service_google_location_use_help">Dopustiti Usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Neki podaci mogu biti pohranjeni na uređaju. Prikupljanje se može dogoditi čak i kada nije pokrenuta nijedna aplikacija.</string>
-  <string name="other_service_google_location_use_summary">Neka Google koristi vaš položaj kako bi poboljšao rezultate pretraživanja i ostale usluge</string>
+  <string name="other_service_google_location_use_summary">Dopustiti Google da koristi vaš položaj kako bi poboljšao rezultate pretraživanja i ostale usluge</string>
   <string name="other_service_label">Ostale usluge</string>
   <string name="other_service_location">Lokacija pristupa</string>
-  <string name="other_service_location_summary">Dopustiti Usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Neki podaci mogu biti pohranjeni na uređaju. Prikupljanje se može dogoditi čak i kada nije pokrenuta nijedna aplikacija.</string>
-  <string name="other_service_permission_manager">Upravljanje dopuštenjima aplikacija</string>
-  <string name="other_service_permission_manager_summary">Nadziranje aplikacija za sigurnost i privatnost</string>
+  <string name="other_service_location_summary">Dopustiti aplikacijama korištenje GPS-a da odrede vašu lokaciju.</string>
+  <string name="other_service_permission_manager">Pitaj za dopuštenje</string>
+  <string name="other_service_permission_manager_summary">"Pitaj za dopuštenje prije nego što se dopusti aplikaciji slanje SMS-a, upućivanje poziva, pregled kontakata, ili pravljenju promjena postavki vašeg uređaja."</string>
   <string name="other_service_user_experience">Program Korisničkog iskustva</string>
   <string name="other_service_user_experience_summary0">"Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju."</string>
   <string name="other_service_user_experience_summary1">" (Pogledajte pravila o privatnosti)"</string>
@@ -21,14 +21,13 @@
   <string name="setup_complete_summary">Uživajte u MIUI!</string>
   <string name="shutdown">Isključi telefon</string>
   <string name="sim_card_detection_dialog_message">Provjera SIM kartice…</string>
-  <string name="sim_card_detection_info"/>
+  <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem.</string>
   <string name="sim_card_detection_label">SIM kartica</string>
-  <string name="sim_card_detection_status_absent">SIM kartica nije otkrivena</string>
+  <string name="sim_card_detection_status_absent">Umetnite SIM karticu</string>
   <string name="terms_agree">Slažem se</string>
-  <string name="terms_confirm_info">Vaše korištenje ovog telefona podliježe %1$s i %2$s</string>
-  <string name="terms_description">"Vaša privatnost je vrlo važno za nas. Pročitajte sljedeće uvjete da razumijete koje podatke prikupljamo, kako ćemo ih koristiti i koji izbori su vam dostupni.
+  <string name="terms_description">"Vaša privatnost je vrlo važno za nas. Pročitajte %1$s i %2$s da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji izbori su vam dostupni.
 
-Vaše korištenje MIUI i povezanih usluga podliježe ovim uvjetima i odredbama."</string>
+Vaše korištenje MIUI i povezanih usluga je u skladu s iznad navedenim uvjetima."</string>
   <string name="terms_disagree">Odustani</string>
   <string name="terms_label">Uvjeti i odredbe</string>
   <string name="terms_of_service">Uvjeti pružanja usluge</string>

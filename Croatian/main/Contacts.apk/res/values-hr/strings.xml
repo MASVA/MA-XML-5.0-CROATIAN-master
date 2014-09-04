@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Detalji popisa poziva</string>
-  <string name="account_abnormal_state">Pogreška u podacima o računu korisnika, pokušajte se ponovno prijaviti.</string>
   <string name="account_container_title">Uvezen iz</string>
   <string name="account_default">Telefon</string>
   <string name="account_msim">SIM %d</string>
@@ -110,6 +109,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="callrecordview_menu_delete_missed">Obrisati popis propuštenih poziva</string>
   <string name="callrecordview_menu_delete_new">Obrisati popis poziva novih kontakata</string>
   <string name="callrecordview_menu_delete_one">Ukloniti iz popisa poziva</string>
+  <string name="callrecordview_menu_delete_sim">Obrisati %s popis poziva</string>
   <string name="callrecordview_menu_delete_stranger">Brisanje nepoznatih brojeva</string>
   <string name="callrecordview_menu_edit_call_note">Uredi bilješku poziva</string>
   <string name="callrecordview_menu_paste">Zalijepi</string>
@@ -138,8 +138,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="chat_qq">QQ</string>
   <string name="chat_skype">Skype</string>
   <string name="chat_yahoo">Yahoo</string>
-  <string name="check_unsynchronized_accounts">Provjerite frekvenciju nesinkronizacije</string>
-  <string name="checkhint">provjeri drugi telefon</string>
+  <string name="checkhint">Provjeri drugi telefon</string>
   <string name="clearCallLogConfirmation">Svi vaši snimljeni razgovori biti će izbrisani.</string>
   <string name="clearCallLogConfirmation_title">Obrisati sve popise poziva?</string>
   <string name="clearCallLogProgress_title">Brišem popois poziva…</string>
@@ -314,9 +313,6 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="dialog_voicemail_airplane_mode_message">Za pozivanje govorne pošte, prvo isključite način rada u zrakoplovu.</string>
   <string name="dialog_voicemail_not_ready_message">Za podešavanje govorne pošte idite u Izbornik &gt; Postavke.</string>
   <string name="directory_search_label">Direktorij</string>
-  <string name="dirty_contacts_notification_description">%d promjene nisu sinkronizirane s vašim Xiaomi računom</string>
-  <string name="dirty_contacts_notification_message">( Možete onemogućiti ovaj podsjetnik u Postavkama kontakata)</string>
-  <string name="dirty_contacts_notification_title">Sinkronizirati kontakte?</string>
   <string name="display_all_contacts">Svi kontakti</string>
   <string name="display_more_groups">Više grupa…</string>
   <string name="display_only_phones">Sakrij nekompletne brojeve</string>
@@ -592,39 +588,53 @@ Razlog: \"%s\""</string>
   <string name="noContacts">Nema kontakata.</string>
   <string name="noContactsHelpText">"Nemate kontakata za prikaz.
 Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
+
 "Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+
 "Novi kontakt za izradu novog kontakta iz nule" 
+
 "Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"</string>
   <string name="noContactsHelpTextForCreateShortcut">"Nemate kontakata za prikaz."</string>
   <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
 Za dodavanje kontakata, dodirnite ""Izbornik", onda dodirnite:
+
 "Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+
 "Opcije prikaza za promjenu koji će kontakti biti vidljivi" 
+
 "Novi kontakt za izradu novog kontakta iz nule" 
+
 "Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)"</string>
   <string name="noContactsNoSimHelpText">"Nemate kontakata za prikaz.
 Za dodavanje kontakata, dodirnite ">Izbornik", onda dodirnite:
+
 "Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+
 "Novi kontakt za izradu novog kontakta iz nule" 
+
 "Uvoz/izvoz kontakata sa SD kartice"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
-
 Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
+
 "Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom"
+
 "Opcije prikaza za promjenu koji će kontakti biti vidljivi" 
+
 "Novi kontakt za izradu novog kontakta iz nule"
+
 "Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
 </string>
   <string name="noContactsWithPhoneNumbers">Nema kontakata s telefonskim brojem.</string>
   <string name="noFavoritesHelpText">"Nemate nijedan favorit.
-
 Za dodavanje kontakta na listu favorita :
 
 "Dodirnite Kontakti karticu" 
+
 "Dodirnite kontakt koji želite dodati u Favorite" 
+
 "Klik na zvijezdu uz ime kontakta"
 </string>
   <string name="noGroups">Nema skupina.</string>
@@ -1019,6 +1029,7 @@ Molimo otvoriti ovaj program radi obnove resursa."</string>
   <string name="sim_export_loading">Čitam SIM karticu…</string>
   <string name="sim_indexed_contact_not_exist">Mjesto %1$d na SIM kartici nevažeče: mora biti između %2$d i %3$d.</string>
   <string name="sim_no_contact">Nema kontakata na SIM kartici</string>
+  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Nema članova skupine</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">Po tvrtci</string>

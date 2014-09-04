@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Mi Cloud Sinkr.</string>
-  <string name="find_device">Pronađi uređaj</string>
+  <string name="app_name">Sinkr. s Mi Cloud</string>
   <string name="find_device_noise_title">Pronađite telefon zvukom</string>
   <string name="find_device_stop_noise">Klikni\"U redu\" da ugasite zvuk alarma</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkr. slika kontakata samo preko WLAN-a radi izbjegavanja dodatnih troškova"</string>

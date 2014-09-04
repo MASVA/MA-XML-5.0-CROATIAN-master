@@ -34,6 +34,7 @@
   <string name="dialog_title_not_available">Preuzimanje nije uspjelo.</string>
   <string name="dialog_title_queued_body">Datoteka nedostupna</string>
   <string name="disable">Onemogući</string>
+  <string name="display_expire_netiv1">Vlasnik mjeseca</string>
   <string name="download_complete">Završeno</string>
   <string name="doc_filter">DOKUMENAT</string>
   <string name="download_error">Neuspješno</string>

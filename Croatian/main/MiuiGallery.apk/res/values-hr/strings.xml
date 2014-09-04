@@ -64,6 +64,7 @@
   <string name="bigscreen_slide_exit">Napusti dijaprojekciju</string>
   <string name="bigscreen_slide_fail_cause_loading">Učitajte dijaprojekciju nakon učitavanja slika.</string>
   <string name="bigscreen_slide_playing">Dijaprojekcija se reproducira na: %s</string>
+  <string name="bigscreen_video_quit">Dodirni za izlaz</string>
   <string name="browse_category">Pretraži fotografije</string>
   <string name="by_email">E-pošta</string>
   <string name="by_others">Od ostalih</string>
@@ -73,10 +74,9 @@
   <string name="camera_folder_display_name">Slike Fotoaparata</string>
   <string name="camera_setas_wallpaper">Slika pozadine</string>
   <string name="camera_view_none_message">Snimljene fotografije će ovdje biti prikazane.</string>
-  <string name="can_modified">Omogućiti korisnicima dodavanje fotografija</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_hint">Radnja otkazana</string>
-  <string name="cannot_delete_sharer_photo">Ne mogu izbrisati %s stavku(e) učitane od strane drugih korisnika.</string>
+  <string name="cannot_delete_sharer_photo">Ne mogu izbrisati %s stavku učitanu od strane drugih korisnika.</string>
   <string name="cannot_remove_creator">Ne mogu ukloniti vlasnika</string>
   <string name="cannot_send_message">"Neuspjelo slanje poruke"</string>
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
@@ -87,7 +87,6 @@
   <string name="clear_thumbnail_cache_confirm">Memorija minijatura će biti izbrisana. Galerija će ponovo skenirati medijske datoteka i ponovno stvoriti minijature.</string>
   <string name="clear_thumbnail_cache_summary">Pregledavanje galerije će generirati minijature. Brisanjem memorije će se povećati prostor.</string>
   <string name="click_to_add_picture">Dodaj sliku</string>
-  <string name="click_to_enter_camera">Otvori fotoaparat</string>
   <string name="click_top_right">Dodirni ikonu u desno gore</string>
   <string name="close">Zatvori</string>
   <string name="cloud_album_more_settings">Postavke albuma u cloudu</string>
@@ -117,6 +116,7 @@ Možete pregledati i urediti svoj
   <string name="cloudfolder_name_cannot_empty">Unesi naziv mape.</string>
   <string name="cloudfolder_name_reserved">Naziv mape je rezerviran.</string>
   <string name="comfirm_delete_current_album">Izbrisati trenutačan album?</string>
+  <string name="comma">, </string>
   <string name="confirm">U redu</string>
   <string name="confirm_delete">Sigurno želite izbrisati %s odabrane stavke?</string>
   <string name="confirm_delete_album" formatted="false">Sigurno želite izbrisati %s albume (uključujući %s stavke)?</string>
@@ -129,10 +129,9 @@ Možete pregledati i urediti svoj
   <string name="confirm_delete_has_local_image">Izbrisati slike (%s)?</string>
   <string name="confirm_delete_has_local_image_video">Izbrisati %s stavku(e)?</string>
   <string name="confirm_delete_has_local_video">Izbrisati %s videozapis(e)?</string>
+  <string name="confirm_delete_home_merge_item">Izbrisati %s sliku(e) lokalno i u cloudu?</string>
   <string name="confirm_delete_init_message">Slike će biti izbrisane iz MiClouda i iz vašeg uređaja. Da biste ih izbrisali samo s uređaja, idite na mapu Lokalno.</string>
   <string name="confirm_delete_init_title">Bilješka</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s slika(e) u %s albumu(ima), sigurno želite izbrisati?</string>
-  <string name="confirm_delete_home_merge_item">Izbrisati %s sliku(e) lokalno i u cloudu?</string>
   <string name="confirm_delete_pictures">Izbrisati %s slike</string>
   <string name="confirm_delete_system_album">%s je album sustava, sigurno ga želite izbrisati?</string>
   <string name="confirm_delete_this_picture">Izbrisati odabranu sliku?</string>
@@ -148,9 +147,9 @@ Možete pregledati i urediti svoj
   <string name="context_menu_new_contact">Novi kontakt</string>
   <string name="context_menu_view_contact">Prikaži kontakt</string>
   <string name="contrast">Kontrast</string>
-  <string name="create_new_cloud_folder">Kreiraj novu mapu u cloudu</string>
+  <string name="create_new_cloud_folder">Kreiraj novu mapu</string>
   <string name="crop">Obreži</string>
-  <string name="crop_fail_to_load_image">Ne mogu učitati sliku za obrezivanje.</string>
+  <string name="crop_fail_to_load_image">"Ne mogu učitati sliku."</string>
   <string name="crop_label">Obrezivanje slike</string>
   <string name="crop_recognize_text">Prepoznaj</string>
   <string name="crop_save_text">Spremi</string>
@@ -164,7 +163,7 @@ Možete pregledati i urediti svoj
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Mobilno</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_fail_too_many_items">Brisaje nije moguće, odabrano previše stavaka</string>
+  <string name="delete_fail_too_many_items">Brisanje nije moguće, odabrano previše stavaka</string>
   <string name="delete_file">Izbrisati %1$d datoteke?</string>
   <string name="delete_files_and_folders">Jeste li sigurni da želite izbrisati  %1$d odabranu datoteku (e) i %2$d  odabranu mapu (e)?</string>
   <string name="delete_folder">Izbrisati %1$d odabranu datoteku (e)?</string>
@@ -185,7 +184,7 @@ Možete pregledati i urediti svoj
   <string name="doodle_tooltip">Crtanje na fotografiju za doodle logotip</string>
   <string name="download">Preuzimanje</string>
   <string name="download_fail">Preuzimanje neuspjelo!</string>
-  <string name="download_fail_confirm_continue">Preuzimanje %s neuspjelo. Nastaviti?</string>
+  <string name="download_fail_confirm_continue">Preuzimanje %s neuspjelo.</string>
   <string name="download_refocus_data">Preusmjeriti preuzimanje podataka</string>
   <string name="duotone">Dvobojno</string>
   <string name="duration">Trajanje</string>
@@ -244,10 +243,10 @@ Možete pregledati i urediti svoj
   <string name="frame_white">Bijeli</string>
   <string name="gallery_cloud_provider_name">MiCloud album</string>
   <string name="gallery_setting">Postavke</string>
-  <string name="get_album_info_in_process">"Zahtjev informacije zajedničkog albuma, molimo pričekajte…"</string>
+  <string name="get_album_info_in_process">"Dobivanje detalja zajedničkog albuma…"</string>
   <string name="global_setting">Postavke</string>
   <string name="grain">Zrnatost filma</string>
-  <string name="grayscale">Crno-bijelo</string>
+  <string name="grayscale">C&amp;B</string>
   <string name="group_by">Grupiraj po</string>
   <string name="group_by_album">Po albumu</string>
   <string name="group_by_faces">Po osobama</string>
@@ -403,6 +402,7 @@ Možete pregledati i urediti svoj
   <string name="publishing">Objavljivanje, molimo pričekajte…</string>
   <string name="qqbrowser_img">QQ Preglednik</string>
   <string name="qsbk_save">QSBK</string>
+  <string name="quotation">\"%s\"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Prepoznavanje slike…</string>
   <string name="redeye">Crvene oči</string>
@@ -413,7 +413,7 @@ Možete pregledati i urediti svoj
   <string name="rename_failed">Preimenovanje nije uspjelo</string>
   <string name="rename_failed_duplicated_name">To ime već postoji, preimenovanje nije uspjelo</string>
   <string name="renren_image">RenRen</string>
-  <string name="request_qr_code">Zahtjevanje QR koda…</string>
+  <string name="request_qr_code">"Ne mogu dobiti QR kod…"</string>
   <string name="request_qr_code_failed">Zahtjev za QR kod nije uspio, kliknite za ponovni pokušaj</string>
   <string name="request_sms_url_failed">Neuspješno traženje veze za dijeljenje putem SMS-a</string>
   <string name="request_sms_url_msg">Zahtjev veze za dijeljenje SMS, molimo pričekajte…</string>
@@ -496,6 +496,7 @@ Možete pregledati i urediti svoj
   <string name="size_above">%1$s ili niže</string>
   <string name="size_below">%1$s ili više</string>
   <string name="size_between">Od %1$s do %2$s</string>
+  <string name="skip_hide_special_album">"Ne mogu sakriti albume sustava (eg. Fotoaparat, Snimke zaslona)"</string>
   <string name="slideshow">Dijaprojekcija</string>
   <string name="slideshow_category">Dijaprojekcija</string>
   <string name="slideshow_dream_name">Dijaprojekcija</string>
@@ -505,7 +506,6 @@ Možete pregledati i urediti svoj
   <string name="slideshow_repeat_mode">Ponoviti</string>
   <string name="slideshow_time_select_title">Odaberi trajanje dijaprojekcije</string>
   <string name="slideshow_time_title">Trajanje dijaprojekcije</string>
-  <string name="skip_hide_special_album">Albumi sustava (Fotoaparat, Snimke zaslona) nije moguče sakriti.</string>
   <string name="start_slide_show">Pokreni dijaprojekciju</string>
   <string name="storage_all_volumes">Svi uređaji za pohranu</string>
   <string name="storage_no_space">"Nema dovoljno prostora za pohranu."</string>
