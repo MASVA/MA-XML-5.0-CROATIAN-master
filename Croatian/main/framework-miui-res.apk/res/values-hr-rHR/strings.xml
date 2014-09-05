@@ -236,7 +236,7 @@ Pokušajte ponovno za %d s."</string>
   <string name="sync_data_contact">kontakti</string>
   <string name="sync_data_loading">Učitavanje podataka s poslužitelja</string>
   <string name="sync_data_merge_warning_cancel">Odustani</string>
-  <string name="sync_data_merge_warning_desc">Lokalni podaci vašeg telefona (npr. %s) će se stojiti s podacima koje namjeravate sinkronizirati s vašim Mi Cloudom."</string>
+  <string name="sync_data_merge_warning_desc">Lokalni podaci vašeg telefona (npr. %s) će se spojiti s podacima koje namjeravate sinkronizirati s vašim Mi Cloudom."</string>
   <string name="sync_data_merge_warning_ok">Spoji</string>
   <string name="sync_data_merge_warning_title">Upozorenje spajanja podataka!</string>
   <string name="sync_data_mms">SMS vijesti</string>
