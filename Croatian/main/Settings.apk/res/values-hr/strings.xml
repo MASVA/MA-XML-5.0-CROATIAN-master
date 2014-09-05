@@ -2176,7 +2176,7 @@ Budite oprezni: Odobravanje ROOT dopuštenja za neke druge aplikacije mogu desta
   <string name="power_center_state_off">Isključeno</string>
   <string name="power_center_state_on">Uključeno</string>
   <string name="power_center_title">Energija</string>
-  <string name="power_chooser_check_box_summary">Primijeni profil za poboljšanje vijek trajanja baterije</string>
+  <string name="power_chooser_check_box_summary">Primijeni profil radi poboljšanje vijeka trajanja baterije</string>
   <string name="power_chooser_check_box_title">Primijeni profil</string>
   <string name="power_chooser_mine_summary">Dodaj profil</string>
   <string name="power_chooser_mine_title">Prilagođeno</string>
@@ -2219,7 +2219,7 @@ Budite oprezni: Odobravanje ROOT dopuštenja za neke druge aplikacije mogu desta
   <string name="power_dialog_cpu_state_title">Upotreba CPU-a</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Trenutno koristite ovaj profil."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Vaš je uređaj postavljen za prebacivanje na ovaj profil kada je baterija slaba. Morate promijeniti vaše postavke baterije prije nego što možete obrisati ovaj profil."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Vaš je uređaj postavljen za prebacivanje na ovaj profil kada se baterija oporavi. Morate promijeniti vaše postavke prije nego što možete obrisati ovaj profil.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Vaš je uređaj postavljen za prebacivanje na ovaj profil kada se baterija oporavi. Morate promijeniti vaše postavke prije nego što možete obrisati ovaj profil."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Vaš je uređaj na rasporedu za prebacivanje na ovaj profil kasnije. Morate promijeniti vaše postavke baterije prije nego što možete obrisati ovaj profil.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_time">Vaš je uređaj na rasporedu za prebacivanje na ovaj profil kasnije. Morate promijeniti vaše postavke baterije prije nego što možete obrisati ovaj profil.</string>
   <string name="power_dialog_delete_dialog_delete">Izbrisati ovaj profil baterije?</string>
@@ -2310,8 +2310,8 @@ Budite oprezni: Odobravanje ROOT dopuštenja za neke druge aplikacije mogu desta
   <string name="power_settings_shape">Grafika</string>
   <string name="power_settings_title">Performanse sustava</string>
   <string name="power_settings_top">Linija na vrhu</string>
-  <string name="power_subtitle_lowbattery">Prebacio profil baterije radi uštede energije</string>
-  <string name="power_subtitle_ontime">Baterija prebacila profil prema rasporedu</string>
+  <string name="power_subtitle_lowbattery">Prebačen profil baterije radi uštede energije</string>
+  <string name="power_subtitle_ontime">Prebačen profil baterije prema rasporedu</string>
   <string name="power_usage_history">Potrošnja baterije</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">"Podaci o iskorištenosti baterije nisu dostupni."</string>
