@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Uvoz</string>
   <string name="access_sd_fail">"Nemoguće pristupiti SD kartici."</string>
@@ -27,6 +27,7 @@
   <string name="auto">Automatski</string>
   <string name="bg_replacement_message">"Odložite uređaj i
 iskoračite iz prikaza na trenutak"</string>
+  <string name="burst_shoot_exit_button_text">Zatvori način brzog snimanja</string>
   <string name="camera_disabled">Fotoaparat je onemogućen zbog sigurnosne politike.</string>
   <string name="camera_error_title">Greška fotoaparata</string>
   <string name="camera_label">Fotoaparat</string>
@@ -183,6 +184,7 @@ snimanje panoramske fotografije.</string>
   <string name="people">Osobe</string>
   <string name="pref_advanced_functions">Napredne funkcije</string>
   <string name="pref_advanced_settings">Napredno</string>
+  <string name="pref_burst_shoot_title">Brzo snimanje</string>
   <string name="pref_camcorder_settings_category">Postavke fotoaparata</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Isključeno</string>
@@ -252,7 +254,7 @@ snimanje panoramske fotografije.</string>
   <string name="pref_camera_focusmode_entry_manual">Ručno</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
-  <string name="pref_camera_hand_night_title">Noćni način</string>
+  <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Uživo</string>
   <string name="pref_camera_hdr_type_entry_normal">Normalan</string>
@@ -323,17 +325,22 @@ snimanje panoramske fotografije.</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
   <string name="pref_camera_picturesize_title">Veličina fotografije</string>
   <string name="pref_camera_picturesize_title_simple_mode">Veličina fotografije</string>
+  <string name="pref_camera_powermode_default">Normal_Power</string>
   <string name="pref_camera_raw_data_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_on">Uključeno</string>
   <string name="pref_camera_recordlocation_title">Pohraniti detalje lokacije fotografija</string>
+  <string name="pref_camera_redeyereduction_default">disable</string>
   <string name="pref_camera_redeyereduction_entry_auto">Automatski</string>
   <string name="pref_camera_redeyereduction_entry_disable">Onemogući</string>
   <string name="pref_camera_redeyereduction_entry_enable">Omogući</string>
   <string name="pref_camera_redeyereduction_title">Smanjenje efekta crvenih očiju</string>
+  <string name="pref_camera_referenceline_entryvalue_default">false</string>
   <string name="pref_camera_referenceline_title">Referenčná čiara</string>
   <string name="pref_camera_saturation_title">Saturacija</string>
+  <string name="pref_camera_scenedetect_default">off</string>
   <string name="pref_camera_scenedetect_title">Automatsko otkrivanje scena</string>
+  <string name="pref_camera_scenemode_default">auto</string>
   <string name="pref_camera_scenemode_entry_auto">Automatski</string>
   <string name="pref_camera_scenemode_entry_backlight">Pozadinsko osvjetljenje</string>
   <string name="pref_camera_scenemode_entry_beach">Plaža</string>
@@ -393,7 +400,9 @@ snimanje panoramske fotografije.</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>
   <string name="pref_grp_picture_settings">Postavke slike</string>
   <string name="pref_grp_restore_settings">Vraćanje zadanih postavki</string>
+  <string name="pref_long_press_shutter_button_focus_title">Dugo pritisnite tipku okidača za fokus</string>
   <string name="pref_manual_exposure_title">Ručna ekspozicija</string>
+  <string name="pref_priority_storage_title">Prioritet spremanje na vanjsku SD karticu</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
   <string name="pref_setting_title">Postavke</string>
   <string name="pref_settings_mode">Način rada Fotoaparata</string>
