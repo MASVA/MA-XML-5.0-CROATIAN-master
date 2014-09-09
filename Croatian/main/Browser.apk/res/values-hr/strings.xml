@@ -166,7 +166,7 @@
   <string name="download">Preuzimanje</string>
   <string name="download_complete">Preuzimanje dovršeno</string>
   <string name="download_default_path_txt">Zapamti ovaj odabir</string>
-  <string name="download_dialog_default_path_invalid">Nevaljana putanja preuzimanja, koristiti će se zadanja putanja</string>
+  <string name="download_dialog_default_path_invalid">Nevaljana putanja preuzimanja, pokušajte koristiti zadanu putanju za preuzimanje</string>
   <string name="download_dialog_file_length_hint_txt">"Veličina datoteke: "</string>
   <string name="download_dialog_file_length_lessthan1kb">Manje od 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Neuspjelo računanje veličine</string>
@@ -384,8 +384,8 @@
   <string name="pref_extras_website_settings_summary">Napredne postavke za pojedinačne web-lokacije</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Vraćanje postavki zadane mape za preuzimanje </string>
   <string name="pref_file_downlaod_save_reset_default_settings">Vrati na zadane postavke</string>
-  <string name="pref_file_download_save_modify_default_path">Promijeni putanju mape preuzimanja</string>
-  <string name="pref_file_download_save_title">Preuzmi i spremi datoteku</string>
+  <string name="pref_file_download_save_modify_default_path">Spremi datoteke u</string>
+  <string name="pref_file_download_save_title">Preuzmimanja</string>
   <string name="pref_fling_on_border_enabled">Kliznite od ruba</string>
   <string name="pref_fling_on_border_enabled_title_summary">Kliznite s lijevog/desnog ruba zaslona za prebacivanje između kartica</string>
   <string name="pref_font_size_category">Veličina teksta</string>

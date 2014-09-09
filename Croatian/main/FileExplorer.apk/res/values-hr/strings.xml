@@ -40,10 +40,10 @@
   <string name="compress_title">Sažeti</string>
   <string name="confirm">U redu</string>
   <string name="confirm_know">U redu</string>
-  <string name="connect_network_setting_des">Podsjeti prilikom pristupa internetu</string>
+  <string name="connect_network_setting_des">Podsjeti me prilikom pristupa internetu</string>
   <string name="copy_failed">Kopiranje neuspješno</string>
-  <string name="copy_file_to_kuaipan">Kopiraj datoteku na MiDrive</string>
-  <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>
+  <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
+  <string name="create_kuaipan_shortcut_pref">Dodaj prečac na početni zaslon</string>
   <string name="create_new_folder_desctiption">Stvaranje nove mape…</string>
   <string name="create_new_folder_failed">Neuspješno stvaranje mape</string>
   <string name="create_share_link_description">Stvori link za dijeljenje…</string>
@@ -117,7 +117,7 @@
   <string name="instruction_pre">Dodirnite za pokretanje FTP servera</string>
   <string name="kuaipan_alert_message">Preuzmite KuaiPan aplikaciju iz Trg. Play, zatim se prijavite sa svojim Mi računom</string>
   <string name="kuaipan_alert_title">Pažnja</string>
-  <string name="kuaipan_app">KuaiPan App</string>
+  <string name="kuaipan_app">KuaiPan aplik.</string>
   <string name="kuaipan_can_not_find_play">"Ne mogu pronaći Trg. Play"</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Nedovoljno prostora</string>
