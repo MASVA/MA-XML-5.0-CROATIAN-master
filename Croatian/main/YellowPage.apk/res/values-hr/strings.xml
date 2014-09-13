@@ -6,7 +6,7 @@
   <string name="all_numbers">Svi brojevi</string>
   <string name="app_label">Imenik</string>
   <string name="balance_inquiry_default_sp_name">Operator</string>
-  <string name="balance_inquiry_send_sms_hint">Besplatna SMS poruka će biti poslana za upit stanja</string>
+  <string name="balance_inquiry_send_sms_hint">SMS će biti poslan vašem davatelju usluga kako bi provjerili stanje računa bez naknade</string>
   <string name="balance_inquiry_title">Upit računa</string>
   <string name="call">Poziv</string>
   <string name="callrecordview_item_newcontact">Novi kontakt</string>
