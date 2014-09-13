@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ct_mobile_data_hints">Nije moguće uključiti podatkovne usluge za SIM u utoru 2, dok su omogućeni podaci za SIM u utoru 1</string>
+  <string name="enable_sim">Omogući</string>
+  <string name="gemini_data_connection">Veza podatkovne usluge</string>
+  <string name="gemini_data_roaming_summary">Spajanje na podatkovne usluge u roamingu</string>
+  <string name="gemini_data_roaming_title">Podatkovne usluge u roamingu</string>
+  <string name="gemini_default_sim_title">ZADANE POSTAVKE</string>
+  <string name="gemini_general_settings_title">OPĆE POSTAVKE</string>
+  <string name="gemini_no_sim_indicator">Nema SIM kartice</string>
+  <string name="gemini_roaming_settings_title">Roaming</string>
+  <string name="gemini_sim_info_editor_name">Uredi naziv SIM-a</string>
+  <string name="gemini_sim_info_editor_name_dup_msg">Kopirajte naziv SIM-a</string>
+  <string name="gemini_sim_info_editor_name_dup_title">Spremanje neuspješno</string>
+  <string name="gemini_sim_info_editor_number">Unesi broj telefona</string>
+  <string name="gemini_sim_info_title">SIM INFORMACIJE</string>
+  <string name="gemini_sim_management_title">Upravljanje SIM-a</string>
+  <string name="gemini_sim_mode_progress_activating_message">Aktiviranje…</string>
+  <string name="gemini_sim_mode_progress_deactivating_message">Deaktiviranje…</string>
+  <string name="sim_lock_settings_category">Postavite zaključavanje SIM kartice</string>
+</resources>

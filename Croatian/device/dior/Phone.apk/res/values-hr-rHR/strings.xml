@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="sim_manage_call_via">Poziv kroz</string>
+  <string name="sim_picker_settings">Odaberite SIM karticu za postavljanje</string>
+  <string name="sim_slot_alert_message_3g">Umetnite %s SIM karticu u prvi utor, koji podržava 3G mrežu.</string>
+  <string name="sim_slot_alert_message_disable">%s SIM kartica umetnuta u pogrešan utor, i ne može funkcionirati.</string>
+</resources>

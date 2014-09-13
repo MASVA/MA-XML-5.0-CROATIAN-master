@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tts_rate_entries">
+        <item>Jako polako</item>
+        <item>Polako</item>
+        <item>Normalno</item>
+        <item>Brzo</item>
+        <item>Brže</item>
+        <item>Jako brzo</item>
+        <item>Žustro</item>
+        <item>Jako žustro</item>
+        <item>Najbrže</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ništa</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Ništa</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+	<string-array name="power_mode_entries">
+        <item>Performanse</item>
+        <item>Balansirano (Zadano)</item>
+        <item>Štednja baterije</item>
+        </string-array>
+	<string-array name="power_dialog_cpu_state_items">
+        <item>Viskoke performanse</item>
+        <item>Balansirano (Zadano)</item>
+        <item>Štednja baterije</item>
+	</string-array>
+</resources>
