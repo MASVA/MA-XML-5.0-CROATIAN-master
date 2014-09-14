@@ -21,15 +21,5 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-    </string-array>
-	<string-array name="power_mode_entries">
-        <item>Performanse</item>
-        <item>Balansirano (Zadano)</item>
-        <item>Štednja baterije</item>
-        </string-array>
-	<string-array name="power_dialog_cpu_state_items">
-        <item>Viskoke performanse</item>
-        <item>Balansirano (Zadano)</item>
-        <item>Štednja baterije</item>
 	</string-array>
 </resources>
