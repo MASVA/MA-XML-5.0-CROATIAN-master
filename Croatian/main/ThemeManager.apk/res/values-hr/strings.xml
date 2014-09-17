@@ -67,6 +67,8 @@
   <string name="resource_buy">Kupi</string>
   <string name="resource_can_not_selected">%1$s ne može biti odabrano!</string>
   <string name="resource_category">Kategorija</string>
+  <string name="resource_clear_search_history">Izbriši povijest pretraživanja</string>
+  <string name="resource_clear_search_history_dialog">Izbrisati svu povijest pretraživanja?</string>
   <string name="resource_connect_network_message">Dopustiti aplikaciji povezivanje na internet?</string>
   <string name="resource_connect_network_settings">Upozori na povezivost s internetom</string>
   <string name="resource_comment_1_star">*</string>
@@ -89,13 +91,14 @@
   <string name="resource_comment_expand_full_text">Proširi tekst▼</string>
   <string name="resource_comment_footer">Prazni komentari nisu prikazani.</string>
   <string name="resource_comment_good_comments">Pozitivni komentari</string>
-  <string name="resource_comment_invalid">Dodirni zvijezdu da ocijeniš</string>
+  <string name="resource_comment_invalid">Dodirni zvijezdu da bi ocijenili</string>
   <string name="resource_comment_loading_list">Učitavam komentare…</string>
   <string name="resource_comment_name_default">Korisnik %1$s</string>
   <string name="resource_comment_no_average_score">0.0</string>
   <string name="resource_comment_no_comment">Nema komentara</string>
-  <string name="resource_comment_publish">Podnesi</string>
+  <string name="resource_comment_publish">Pošalji</string>
   <string name="resource_comment_rate">Ocjena:</string>
+  <string name="resource_comment_rating_star_tips">Dodirnite zvijezdu da bi ocijenili:</string>
   <string name="resource_comment_score_count">%1$s korisnika</string>
   <string name="resource_comment_sending">Šaljem komentar…</string>
   <string name="resource_comment_title">Komentara: %1$s</string>
@@ -124,7 +127,7 @@
   <string name="resource_detail_update_log_title">Ažuriranja</string>
   <string name="resource_detail_window_title">Detalji %1$s</string>
   <string name="resource_download">Preuzmi temu</string>
-  <string name="resource_download_trial">Besplatna proba</string>
+  <string name="resource_download_trial">Isprobajte besplatno</string>
   <string name="resource_downloaded_title">Preuzeti resursi</string>
   <string name="resource_downloading">Preuzimam temu</string>
   <string name="resource_exchange">Kupi temu</string>
@@ -146,10 +149,11 @@
   <string name="resource_exchange_wrong_format_by_local">Unešen pogrešan kod</string>
   <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Provjerite svoj kod i pokušajte ponovno.</string>
   <string name="resource_expand_full_text">Proširi</string>
+  <string name="resource_failed_to_load_list">Učitavanje liste nije uspjelo</string>
   <string name="resource_get_auth_checking">Provjeravam autorizaciju…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Tema se ne može pokrenuti na ovom uređaju. Došli ste do maksimalno 10 Xiaomi računa. Pokušajte s drugim računom.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Dosegnuto ograničenje autorizacije!</string>
-  <string name="resource_get_auth_missing">Tema nije preuzeta s trgovine, preuzmite temu s službene trgovine.</string>
+  <string name="resource_get_auth_missing">Teme iz izvora drugih proizvođača nisu podržane.</string>
   <string name="resource_get_auth_retrieving">Preuzimam autorizaciju…</string>
   <string name="resource_hint">Upozorenje</string>
   <string name="resource_import_failed">Neuspješan uvoz</string>
@@ -182,6 +186,7 @@
   <string name="resource_ringtone_playing_error">Pogreška reprodukcije</string>
   <string name="resource_ringtone_volume_mute">Vaša melodija zvona je utišana</string>
   <string name="resource_save_to_note">Spremi u Bilješke</string>
+  <string name="resource_search_list_empty">"Ne mogu ništa pronaći"</string>
   <string name="resource_see_more">Vidi više</string>
   <string name="resource_select">Odaberi</string>
   <string name="resource_selected">Istaknuto</string>
@@ -200,9 +205,11 @@
   <string name="resource_trial_end_purchase">Kupi</string>
   <string name="resource_trial_end_restore">Kraj probnog perioda</string>
   <string name="resource_trial_end_title">Probni period istekao</string>
-  <string name="resource_trial_time">（period od %1$d minuta）</string>
-  <string name="resource_unable_to_access">"Trenutno nedostupno u vašoj 
-  regiji/zemlji."</string>
+  <string name="resource_trial_fail_cancel">U redu</string>
+  <string name="resource_trial_fail_go_settings">Postavke</string>
+  <string name="resource_trial_fail_message">Provjerite je li sat vašeg sustava postavljen na točno vrijeme.</string>
+  <string name="resource_trial_fail_title">"Ne mogu postaviti probni period"</string>
+  <string name="resource_trial_time">(probni period: %1$d min.)</string>
   <string name="resource_unknow_error">Nepoznata mrežna pogreška.</string>
   <string name="resource_update">Ažuriraj</string>
   <string name="resource_user_know">U redu</string>

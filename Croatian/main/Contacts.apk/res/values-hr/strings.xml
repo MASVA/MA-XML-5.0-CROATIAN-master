@@ -815,6 +815,8 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_buy">Kupi</string>
   <string name="resource_can_not_selected">"%1$s ne može biti odabrano"</string>
   <string name="resource_category">Kategorija</string>
+  <string name="resource_clear_search_history">Izbriši povijest pretraživanja</string>
+  <string name="resource_clear_search_history_dialog">Izbrisati svu povijest pretraživanja?</string>
   <string name="resource_connect_network_message">Dopustiti aplikaciji povezivanje na internet?</string>
   <string name="resource_connect_network_settings">Upozori na povezanost s internetom</string>
   <string name="resource_comment_1_star">*</string>
@@ -842,6 +844,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_comment_no_comment">Nema komentara</string>
   <string name="resource_comment_publish">Podnijeti</string>
   <string name="resource_comment_rate">Ocjena:</string>
+  <string name="resource_comment_rating_star_tips">Dodirnite zvijezdu da bi ocijenili:</string>
   <string name="resource_comment_score_count">%1$s korisnika</string>
   <string name="resource_comment_sending">Dodajem komentar…</string>
   <string name="resource_comment_title">Komentara: %1$s</string>
@@ -869,7 +872,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_detail_update_log_title">Ažuriranja</string>
   <string name="resource_detail_window_title">%1$s detalji</string>
   <string name="resource_download">Preuzimanje</string>
-  <string name="resource_download_trial">Besplatna proba</string>
+  <string name="resource_download_trial">Isprobajte besplatno</string>
   <string name="resource_downloaded_title">Preuzimanje sredstava</string>
   <string name="resource_downloading">Preuzimanje…</string>
   <string name="resource_exchange">Otkupiti</string>
@@ -891,10 +894,11 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_exchange_wrong_format_by_local">Pogrešan kod</string>
   <string name="resource_exchange_wrong_format_by_server">"Poklon kod nije mogao biti potvrđen. Provjerite je li točno unesen."</string>
   <string name="resource_expand_full_text">Proširi</string>
+  <string name="resource_failed_to_load_list">Učitavanje liste nije uspjelo</string>
   <string name="resource_get_auth_checking">Provjera ovlaštenja…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Tema ne može raditi na trenutnom uređaju, dostigli ste limit 10 tema, molimo vas da koristite neki drugi uređaj</string>
   <string name="resource_get_auth_exceed_max_limit_title">Prekoračen limit ovlaštenja</string>
-  <string name="resource_get_auth_missing">Tema nije preuzeta iz službenog marketa, preuzmite slične onima iz službenog marketa.</string>
+  <string name="resource_get_auth_missing">Teme iz izvora drugih proizvođača nisu podržane.</string>
   <string name="resource_get_auth_retrieving">Preuzimam ovlaštenja…</string>
   <string name="resource_hint">Upozorenje</string>
   <string name="resource_import_failed">Uvoz nije uspio</string>
@@ -928,6 +932,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_ringtone_volume_mute">Vaše zvono je trenutno utišano</string>
   <string name="resource_remind_another_time">Nemoj upozoriti</string>
   <string name="resource_save_to_note">Spremljeno u Bilješke</string>
+  <string name="resource_search_list_empty">"Ne mogu ništa pronaći"</string>
   <string name="resource_see_more">Vidi više</string>
   <string name="resource_select">Odaberi</string>
   <string name="resource_selected">Istaknuto</string>
@@ -946,9 +951,11 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_trial_end_purchase">Kupiti</string>
   <string name="resource_trial_end_restore">Probni period zvršio</string>
   <string name="resource_trial_end_title">Probni period istekao</string>
-  <string name="resource_trial_time">（Probni period %1$d minuta）</string>
-  <string name="resource_unable_to_access">"Nažalost,
-Sadržaj koji tražite trenutno nije dostupan u vašoj regiji."</string>
+  <string name="resource_trial_fail_cancel">U redu</string>
+  <string name="resource_trial_fail_go_settings">Postavke</string>
+  <string name="resource_trial_fail_message">Provjerite je li sat vašeg sustava postavljen na točno vrijeme.</string>
+  <string name="resource_trial_fail_title">"Ne mogu postaviti probni period"</string>
+  <string name="resource_trial_time">(probni period: %1$d min.)</string>
   <string name="resource_unknow_error">Došlo je do nepoznate pogreške</string>
   <string name="resource_update">Ažuriraj</string>
   <string name="resource_user_know">U redu</string>
