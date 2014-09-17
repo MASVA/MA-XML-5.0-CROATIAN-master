@@ -541,8 +541,8 @@
   <string name="set_as_homepage">Postavi kao početnu stranicu</string>
   <string name="share_link">Dijeli vezu</string>
   <string name="share_page">Dijeli stranicu</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Ovaj URL web starnice će biti poslan na Xiaomi poslužitelj kako bi potvrdili njezinu sigurnost. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Sigurnosti URL-a</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Ovaj URL web stranice će biti poslan na Xiaomi poslužitelj kako bi provjerili njezinu sigurnost. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Sigurnost URL-a</string>
   <string name="sign_in_to" formatted="false">Prijavite se na %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Spremanje za izvanmrežno čitanje nije uspjelo."</string>
   <string name="snapshot_go_live">Idi uživo</string>
