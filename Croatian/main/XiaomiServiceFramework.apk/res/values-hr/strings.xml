@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">Weibo račun je istekao, povežite se ponovo</string>
   <string name="access_token_invalid_warning">Weibo račun je nevažeći.</string>
   <string name="account">Račun</string>
-  <string name="account_dspt">Uz Mi račun, možete koristiti usluge kao što su Mi Cloud, MIUI Teme, i MI Store, s bilo kojeg mjesta</string>
+  <string name="account_dspt">Koristiti svoj Mi račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi usluge, s bilo kojeg mjesta.</string>
   <string name="account_hint_text">E-pošta/Tel. broj</string>
   <string name="account_name">Račun: %1$s</string>
   <string name="activate">Aktiviraj</string>
@@ -264,8 +264,9 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="reg_failed">"Nije moguće postaviti račun"</string>
   <string name="reg_success">Račun napravljen</string>
   <string name="reg_success_summary">%1$s je povezan s vašim računom. Možete ga koristiti da se prijavite i povratite svoju zaporku.</string>
-  <string name="reg_type_email">Registracija putem e-pošte</string>
-  <string name="reg_type_phone">Registracija putem telefona(preporuka)</string>
+  <string name="reg_title">Napravite novi Mi Račun pomoću:</string>
+  <string name="reg_type_email">Moje adrese e-pošte</string>
+  <string name="reg_type_phone">Mog broja telefona</string>
   <string name="reging">Registracija, molim pričekajte…</string>
   <string name="relogin">Prijava</string>
   <string name="relogin_notice">Morate se ponovno prijaviti</string>
@@ -315,10 +316,12 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="user_agreement_p2">Uvjetima pružanja usluge</string>
   <string name="user_agreement_p3">" i "</string>
   <string name="user_agreement_p4">Pravila o privatnosti</string>
-  <string name="user_agreement_p5">"Izradom računa, slažete se s 
- "</string>
+  <string name="user_agreement_p5">"Vaša privatnost je vrlo važna za nas. Molimo pročitajte </string>
   <string name="user_agreement_p6">Vaše korištenje ove usluge je predmet </string>
   <string name="user_agreement_p7">"Mi Cloud Uvjeti pružanja usluge"</string>
+  <string name="user_agreement_p8">" da razumijete koje podatke prikupljamo, kako ih koristimo, i koji izbori su vam dostupni.
+
+Izradom računa, slažete se s uvjetima navedenim iznad."</string>
   <string name="vcode">Provjera koda</string>
   <string name="vcode_notification_title">Vaša prijava verifikacije nije potpuna</string>
   <string name="vcode_prompt_long">Molimo unesite kod generiran od strane sigurnosnog sustava Xiaomi</string>
