@@ -117,6 +117,8 @@ Možete tu značajku uključiti/isključiti bilo kada u Postavkama.
   <string name="enable_micloud">Omogući cloud uslugu</string>
   <string name="enable_sync">Omogući sinkronizaciju</string>
   <string name="enable_sync_dspt">Sinkronizacija je isključena</string>
+  <string name="error_data_in_transfer">Sinkronizacija će završiti za %s sati.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud nije dostupan.</string>
   <string name="error_device_id">Nije moguće učitati IMEI</string>
   <string name="error_dup_phone">Telefon je registriran</string>
   <string name="error_invalid_dev_id">Id uređaja je nevažeći</string>
