@@ -89,14 +89,4 @@
         <item>7 korisnika</item>
         <item>8 korisnika</item>
     </string-array>
-	<string-array name="power_mode_entries">
-        <item>Performanse</item>
-        <item>Balansirano (Zadano)</item>
-        <item>Štednja baterije</item>
-        </string-array>
-	<string-array name="power_dialog_cpu_state_items">
-        <item>Viskoke performanse</item>
-        <item>Balansirano (Zadano)</item>
-        <item>Štednja baterije</item>
-	</string-array>
 </resources>
