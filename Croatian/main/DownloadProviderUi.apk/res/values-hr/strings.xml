@@ -119,6 +119,8 @@
   <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
   <string name="turn_off_xunlei_tips">Xunlei ubrzanje preuzimanja je isključeno</string>
   <string name="turn_off_xunlei_title">Xunlei alat preuzimanja je onemogućen</string>
+  <string name="unbind_xunlei_2_success">Xunlei Račun promjenjen</string>
+  <string name="unbind_xunlei_success">Xunlei Račun isključen</string>
   <string name="xunlei_brand">"Powered by Xunlei"</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_member_annual_fee">Xunlei za 1 godinu članstva (platinum)</string>

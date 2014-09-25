@@ -109,7 +109,7 @@
   <string name="account_setup_failed_security">"Otvaranje veze s poslužiteljem nije bilo moguće zbog sigurnosne pogreške."</string>
   <string name="account_setup_failed_security_policies_unsupported">"Ovaj poslužitelj zahtijeva sigurnosne značajke koje vaš Android uređaj ne podržava, uključujući: %s"</string>
   <string name="account_setup_failed_tls_required">TLS je obavezan, ali ga poslužitelj ne podržava.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">Kad izbrišem iz Pristigle pošte</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">Kada izbrišem iz Smeća</string>
   <string name="account_setup_incoming_delete_policy_label">Izbriši e-poštu s poslužitelja</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nikad</string>
   <string name="account_setup_incoming_headline">Postavke dolaznog poslužitelja</string>
@@ -188,7 +188,7 @@
   <string name="address_display_format">%1$s  | %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s%2$s putem %3$s</string>
   <string name="all_folders_heading">Dodaj mape</string>
-  <string name="allread">Pročitano</string>
+  <string name="allread">Sve Pročitaj</string>
   <string name="always_bcc_myself">Uvijek šalji skrivenu kopiju sebi</string>
   <string name="always_show_images">Uvijek prikaži slike ovog pošiljatelja</string>
   <string name="always_show_images_toast">Slike ovog pošiljatelja automatski će se prikazati.</string>
@@ -504,7 +504,6 @@ Kopija: %4$s
   <string name="message_invite_accept">Da</string>
   <string name="message_invite_calendar_view">Prikaži u Kalendaru</string>
   <string name="message_invite_decline">Ne</string>
-  <string name="message_invite_label_attending">Dolazite?</string>
   <string name="message_invite_tentative">Možda</string>
   <string name="message_invite_title">Kalendarska pozivnica</string>
   <string name="message_saved">Poruka je spremljena kao skica.</string>
@@ -529,7 +528,9 @@ Kopija: %4$s
   <string name="new_version">Nova verzija:</string>
   <string name="next_action">Dalje</string>
   <string name="no">Ne</string>
+  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Nijedna aplikacija ne može otvoriti i prikazati ovaj privitak.</string>
+  <string name="no_contacts">Prazno</string>
   <string name="no_conversations">Nema poruka.</string>
   <string name="no_display_this_version">Ne prikazuj ovu verziju</string>
   <string name="no_enough_space">Nema dovoljno slobodnog prostora</string>
