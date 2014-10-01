@@ -68,6 +68,7 @@ Korištenje više od planiranog ograničenja podataka vašeg davatelja usluga mo
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="input_traffic_pkg">Unesite uporabu podataka</string>
   <string name="input_used_hint">Unesite uporabu podataka</string>
+  <string name="input_used_max_hint">Unesite uporabu podataka(menje od %s)</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="international_roaming_whitelist_count">%d aplikacije se mogu spojiti na podatkovne usluge u međunarodnom roamingu</string>
   <string name="list_empty_text">Prazno</string>

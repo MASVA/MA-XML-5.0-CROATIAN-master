@@ -7,6 +7,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Verzija koda</string>
   <string name="actor_colon">Uloge:</string>
+  <string name="ad_countdown">Preostalo sek. reklama: %s</string>
   <string name="ad_moredetail">Više detalja</string>
   <string name="add_more_addons">Dodaj još</string>
   <string name="add_review">Komentar</string>
@@ -30,7 +31,7 @@
   <string name="app_recommendation">Preporučeno</string>
   <string name="area_colon">"Zemlja: "</string>
   <string name="authenticated_failed">"Prijava nije uspjela"</string>
-  <string name="authenticating">&lt;CDATA&gt;Provjera &lt;/CDATA&gt;</string>
+  <string name="authenticating">Provjera</string>
   <string name="authenticating_manually">Provjera nije uspjela</string>
   <string name="auto_play">Automatska reprodukcija preko cijelog zaslona</string>
   <string name="auto_play_summary">Reproduciraj videozapis kad završi preuzimanje</string>
