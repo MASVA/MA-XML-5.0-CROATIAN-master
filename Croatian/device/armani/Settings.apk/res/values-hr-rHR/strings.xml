@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="battery_decrease_background_process_summary">Ne dopuštajući nekim aplikacijama pokretanje u pozadini, možete smanjiti vijek trajanja baterije i korištenje memorije. Ovo može spriječiti normalnu sinkronizaciju nekih aplikacija.</string>
+  <string name="battery_decrease_background_process_title">Ograniči pozadinske procese</string>
   <string name="ct_mobile_data_hints">Nije moguće uključiti podatkovne usluge za SIM u utoru 2, dok su omogućeni podaci za SIM u utoru 1</string>
   <string name="enable_sim">Omogući</string>
   <string name="gemini_data_connection">Veza podatkovne usluge</string>
