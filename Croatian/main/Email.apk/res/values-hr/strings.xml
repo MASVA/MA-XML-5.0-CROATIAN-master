@@ -421,10 +421,13 @@
   <string name="invalid_recipient">Adresa %s nije važeća.</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
+  <string name="load_from_remote">Nastavi pretraživanje na poslužitelju</string>
   <string name="load_more">Učitaj više</string>
   <string name="loading_conversation">Učitavanje…</string>
   <string name="loading_conversations">Učitavanje…</string>
+  <string name="loading_from_remote">Pretraživanje na poslužitelju…</string>
   <string name="local_search">Lokalno pretraživanje</string>
+  <string name="local_search_result">%s poruka e-pošte pronađeno iz svih lokalnih poruka</string>
   <string name="login">Prijava</string>
   <string name="login_failed_ticker">Prijava računa %s neuspješna.</string>
   <string name="login_failed_title">"Neuspjela prijava"</string>
@@ -574,6 +577,9 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="password_expired_dialog_content_fmt">Podaci za %s se brišu s vašeg uređaja. Možete IH vratiti promjenom PIN/zaporke za zaklj. zaslona. Želite li to sada promijeniti?</string>
   <string name="password_expired_dialog_title">Zaporka zaklj.zaslona istekla</string>
   <string name="password_expired_ticker">PIN ili Zaporka zaklj.zaslona istekla.</string>
+  <string name="perference_change_pw">Ažuriraj zaporku</string>
+  <string name="perference_change_pw_notnull_tips">Polje zaporke ne može biti prazno</string>
+  <string name="perference_change_pw_ok_tips">Uspješno ažuriranje zaporke</string>
   <string name="permission_access_provider_desc">Omogućuje aplikaciji pristup vašoj bazi podataka e-pošte, uključujući primljene poruke, poslane poruka, korisnička imena i zaporke.</string>
   <string name="permission_access_provider_label">Pristup KingSoft podacima usluge e-pošte</string>
   <string name="permission_read_attachment_desc">Omogućuje aplikaciji čitanje privitaka e-pošte.</string>
@@ -627,6 +633,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="preferences_signature_dialog_title">Potpis</string>
   <string name="preferences_signature_summary_not_set">Nije postavljeno</string>
   <string name="preferences_signature_title">Potpis</string>
+  <string name="prefetched_got_it">"Razumijem"</string>
   <string name="preview_attachment">Pregled</string>
   <string name="previous_action">Prethodno</string>
   <string name="prompt_title">Pitaj</string>
@@ -650,6 +657,8 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="refreshing">Osvježavanje…</string>
   <string name="release_to_refresh">Pustite za osvježavanje</string>
   <string name="remote_folders_heading">Mape poslužitelja</string>
+  <string name="remote_search">Sve poruke e-pošte na poslužitelju</string>
+  <string name="remote_search_result">%s poruka e-pošte pronađeno od svih poruka e-pošte na poslužitelju</string>
   <string name="remove_account">Ukloni račun</string>
   <string name="remove_account_confirm">Račun \"%1$s\" će biti uklonjen iz WPSMail.</string>
   <string name="remove_folder">Ukloni iz %1$s</string>
