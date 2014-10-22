@@ -583,8 +583,10 @@ Unesite PIN za uparivanje s \"%1$s"\. [Omogućena Visoka Sigurnost: Potreban klj
   <string name="build_number">Android međuverzija</string>
   <string name="builtin_keyboard_settings_summary">Postavke fizičke tipkovnice</string>
   <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
+  <string name="button_antivirus">U redu</string>
   <string name="button_disconnect_network">Odspojite se s mreže</string>
   <string name="button_light_timeout">Postavke svjetla tipki</string>
+  <string name="button_optimizer">U redu</string>
   <string name="button_start_optimize">Skeniraj</string>
   <string name="button_text_a_key_clean_up">Počistiti</string>
   <string name="button_text_a_key_optimize">Optimiziraj sada</string>
@@ -1316,13 +1318,15 @@ Neke aplikacije neće raditi dok ih ne ažuriraju njihovi razvojni programeri."<
   <string name="hdmi_color_calibration_srgb">Automatski poveži</string>
   <string name="header_account_settings">Postavke računa</string>
   <string name="header_add_an_account">Dodaj račun</string>
+  <string name="header_antivirus">"Korištenjem ove značajke, pristajete na Tencent "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Uvjeti pružanja usluge&lt;/a&gt;.</string>
   <string name="header_application_sync_settings">Postavke sinkronizacije aplikacija</string>
   <string name="header_category_accounts">Računi</string>
   <string name="header_category_device">UREĐAJ</string>
   <string name="header_category_personal">OSOBNO</string>
   <string name="header_category_system">SUSTAV</string>
   <string name="header_category_wireless_networks">BEŽIČNO POVEZIVANJE &amp; MREŽE</string>
-  <string name="header_data_and_synchronization">Podaci &amp; sinkronizacija</string>
+  <string name="header_data_and_synchronization">Podaci &amp; sinkron.</string>
+  <string name="header_optimizer">"Korištenjem ove značajke, pristajete na Clean Master "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Uvjeti pružanja usluge&lt;/a&gt;.</string>
   <string name="headset_calibrate">Dodijeli gumbe</string>
   <string name="headset_calibrate_apply">Koristi</string>
   <string name="headset_calibrate_confirm">Primijeni nove funkcije?</string>
@@ -2337,12 +2341,14 @@ Budite oprezni: Odobravanje ROOT dopuštenja za neke druge aplikacije mogu desta
   <string name="pref_summary_cleanup_white_list">Smeće liste dopuštenih će se ignorirati</string>
   <string name="pref_summary_expand_cache_group">Grupe u popisu memorije će ispuniti proširenje</string>
   <string name="pref_summary_garbage_cleanup_check_size">Obavijesti me kada Smeće dosegne određenu veličinu</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Pošaljite i usporedite nepoznate nazive datoteka s online definicijama</string>
   <string name="pref_title_auto_update_cleanup_db">Automatsko ažuriranje</string>
   <string name="pref_title_cleanup_white_list">Bacite u smeće očišćenu listu dopuštenih</string>
   <string name="pref_title_expand_cache_group">Proširi grupe memorije</string>
   <string name="pref_title_garbage_cleanup_check_size">Veličina alarma Smeća</string>
   <string name="pref_title_garbage_cleanup_check_time">Alarm Smeća</string>
   <string name="pref_title_manual_check_cleanup_db_update">Ažuriraj sad</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Koristite online Čistač</string>
   <string name="pref_volume_wake_summary">Pritiskanje tipki za glasnoću budi uređaj</string>
   <string name="pref_volume_wake_title">Probudi tipkama za glasnoću</string>
   <string name="preference_change_password_title">Promijeni zaporku</string>
@@ -2943,8 +2949,10 @@ Pouzdana vjerodajnica instalirana na uređaju to omogućuje."</string>
   <string name="subscription_02_summary">Postavljanje opcija za SUB2 mrežne postavke</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Odaberite mrežnog operatera</string>
+  <string name="summary_antivirus">Pošaljite i skenirajte nazive aplikacija koristeći online definicije virusa</string>
   <string name="summary_install_virus">Provjerite aplikacije za viruse prije instalacije</string>
   <string name="summary_mms">Filtriraj neželjene poruke (prodaja, oglasi, itd.)</string>
+  <string name="summary_optimizer">Pošaljite i usporedite nepoznate nazive datoteka s online definicijama</string>
   <string name="summary_permission">Zaštiti moju privatnost od drugih aplikacija</string>
   <string name="summary_usb">Izbjegavajte širenje virusa putem USB veze</string>
   <string name="summary_virus">Otkriveno %2$d virusa</string>
@@ -2993,8 +3001,11 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
   <string name="tether_settings_title_usb_bluetooth">Dijeljenje veze</string>
   <string name="tether_settings_title_wifi">Prijenosna pristupna točka</string>
   <string name="tethering_help_button_text">Pomoć</string>
+  <string name="text_antivirus">Koristite online definicije virusa</string>
+  <string name="text_optimizer">Koristite online Čistač</string>
   <string name="time_picker_title">Vrijeme</string>
   <string name="timezone_settings">Vremenska zona</string>
+  <string name="title_antivirus">Skeniranje virusa</string>
   <string name="title_app_update_no">%d aplikacija ima ažuriranja</string>
   <string name="title_app_update_yes">Sve aplikacije su ažurne</string>
   <string name="title_color_calibration">Način Korekcija boja</string>
@@ -3011,6 +3022,7 @@ Google pristup sinkronizaciji podataka za omogućavanje pristupa vašim kontakti
   <string name="title_miui_update_yes">MIUI je ažuriran</string>
   <string name="title_mms_no">Filter poruka isključen</string>
   <string name="title_mms_yes">Filter poruka uključen</string>
+  <string name="title_optimizer">Čistač</string>
   <string name="title_permission_no">Nadzor dopuštenja isključen</string>
   <string name="title_permission_yes">Nadzor dopuštenja uključen</string>
   <string name="title_show_notification_no">Prikaži u sjeni obavijesti isključeno</string>

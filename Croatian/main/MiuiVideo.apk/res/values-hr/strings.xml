@@ -54,6 +54,7 @@
   <string name="button_show">Prikaži</string>
   <string name="button_sport">Sport</string>
   <string name="cancel">Otkaži</string>
+  <string name="cancel_button">Otkaži</string>
   <string name="cancel_favorite">Odznači</string>
   <string name="cancel_hide">Prikaži</string>
   <string name="cancel_select_all">Poništiti sve</string>
@@ -92,7 +93,10 @@
   <string name="count_myfavorite">" favotita"</string>
   <string name="day">Dan</string>
   <string name="declaration">Uvjeti korištenja</string>
-  <string name="declaration_content">Dodirivanjem \"Slažem se\", slažete se sa Uvjetima korištenja navedenih od strane Sohu Video, iQiyi i ostalih pružatelja video sadržaja.</string>
+  <string name="declaration_content">1.Korištenjem ove usluge, pristajete na &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;&amp;#12298;Uvjeti korištenja&amp;#12299;&lt;/a&gt;"Sohu Video, iQiyi i ostalih pružatelja video sadržaja.
+2.Za poboljšanje iskustva reprodukcije, dio podataka opreme i reprodukcije će biti poslane
+3.Mi ćemo instalirati HD dodatak za vas
+4.Hoće li pristati na spajanje na internet prilikom korištenja videozapisa?"</string>
   <string name="declaration_content_short">Dodirivanjem \"Slažem se\", slažete se sa Uvjetima korištenja navedenih od strane Sohu Video, iQiyi i ostalih pružatelja video sadržaja.</string>
   <string name="delete">Izbriši</string>
   <string name="delete_addon">Izbriši</string>
@@ -356,8 +360,13 @@
   <string name="tudou">Tudou</string>
   <string name="unknown_source">Nepoznati izvor</string>
   <string name="update">Ažurirano</string>
+  <string name="update_apk_statusbar">Preuzimanje nove verzije aplikacije</string>
+  <string name="update_button">Ažuriraj</string>
+  <string name="update_size_prefix">&lt;CDATA&gt;Veličina:&lt;/CDATA&gt;</string>
+  <string name="update_title">update notes</string>
   <string name="update_to_count_ji">Ažurirano na Ep Ep. %d</string>
   <string name="update_to_count_qi">Ažurirano na Ep S. %s</string>
+  <string name="update_version_prefix">&lt;CDATA&gt;Preporučujemo da nadogradite na nove verzije:&lt;/CDATA&gt;</string>
   <string name="updatedalready">Ažurirano</string>
   <string name="upgrade">Nadogradi</string>
   <string name="use_cellular_network">Koristi mobilnu mrežu</string>

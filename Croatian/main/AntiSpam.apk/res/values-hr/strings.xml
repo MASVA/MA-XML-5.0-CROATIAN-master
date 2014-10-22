@@ -31,6 +31,7 @@
   <string name="SMS_KEYWORDS">Lista blokiranih ključnih riječi</string>
   <string name="SMS_MODENAME">Zadana lista blokiranih</string>
   <string name="SMS_PREFIX">Lista blokiranih predbrojeva</string>
+  <string name="SMS_SERVICE">Usluga liste blokiranih</string>
   <string name="SMSpass">Dopusti poruke</string>
   <string name="STRANGER_BLOCK">Lista blokiranih neznanaca</string>
   <string name="ad_block_hint">Blokirano: %d</string>
@@ -200,6 +201,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="st_antispam_title_contact_sms">Poruke kontakata</string>
   <string name="st_antispam_title_contactandanoy_group">Kontakti i Stranci</string>
   <string name="st_antispam_title_null_incoming">Privatni pozivi</string>
+  <string name="st_antispam_title_service_sms">Usluga obavijesti</string>
   <string name="st_antispam_title_whitelist">Iznimke</string>
   <string name="st_block_all">Blokiraj pozive i poruke</string>
   <string name="st_block_mute">Blokiraj pozive, utišaj poruke</string>

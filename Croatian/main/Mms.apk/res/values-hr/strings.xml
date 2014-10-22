@@ -146,6 +146,9 @@
   <string name="feedback_description_hint">Unesite povratnu informaciju ovdje</string>
   <string name="feedback_submit">Pošalji</string>
   <string name="festival">Brzi odgovori</string>
+  <string name="festival_continue">U redu</string>
+  <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom da funkcionira normalno.</string>
+  <string name="festival_never_remind">"Ne prikazuj ponovo."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Učitavanje…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -171,6 +174,7 @@
   <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
   <string name="hint_search_sms">%d SMS</string>
+  <string name="hms_add_image_progress_message">Obrada…</string>
   <string name="importing_progress_private_message">Uvoz poruka u privatni sandučić</string>
   <string name="in_sms">Poruka</string>
   <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>
@@ -317,6 +321,7 @@
   <string name="pref_title_allow_si_sl_push">Dopustiti WAP push</string>
   <string name="pref_title_card_format">Format dijeljenja kartice</string>
   <string name="pref_title_delivery_reports">Izvješća o isporuci</string>
+  <string name="pref_title_festival_networking">Obavijesti povezivanja</string>
   <string name="pref_title_fwd_sender_info">Proslijedi informaciju pošiljatelja</string>
   <string name="pref_title_hide_festival">Sakrij karticu preporučeno</string>
   <string name="pref_title_manage_sim_messages">Upravljanje porukama SIM kartice</string>
@@ -498,6 +503,7 @@ Provedeni pokušaj: %s."</string>
   <string name="unsupported_media_format">Nepodržani %1$s format</string>
   <string name="view">Prikaži</string>
   <string name="view_bookmark">Prikaži originalnu poruku</string>
+  <string name="view_hms_attachment_fail">"Ne mogu preuzeti sliku."</string>
   <string name="view_hms_details">Detalji</string>
   <string name="view_message_details">Prikaži pojedinosti</string>
   <string name="wap_push_title">"[WAP Push] "</string>
