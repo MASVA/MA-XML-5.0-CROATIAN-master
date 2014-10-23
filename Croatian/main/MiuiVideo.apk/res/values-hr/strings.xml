@@ -97,6 +97,7 @@
 2.Za poboljšanje iskustva reprodukcije, dio podataka opreme i reprodukcije će biti poslane
 3.Mi ćemo instalirati HD dodatak za vas
 4.Hoće li pristati na spajanje na internet prilikom korištenja videozapisa?"</string>
+   <string name="declaration_content_td_custom">Hoćete li pristati na spajanje na internet, prilikom korištenja Videa?</string>
   <string name="declaration_content_short">Dodirivanjem \"Slažem se\", slažete se sa Uvjetima korištenja navedenih od strane Sohu Video, iQiyi i ostalih pružatelja video sadržaja.</string>
   <string name="delete">Izbriši</string>
   <string name="delete_addon">Izbriši</string>
