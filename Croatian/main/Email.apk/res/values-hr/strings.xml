@@ -300,7 +300,7 @@
   <string name="date_message_received_today">Danas, %1$s</string>
   <string name="date_message_received_yesterday">Jučer, %1$s</string>
   <string name="default_setup">ZADANE POSTAVKE</string>
-  <string name="default_signature">Poslano s MIUI telefona</string>
+  <string name="default_signature">Poslano s Mi Telefona</string>
   <string name="delete">Obrisati</string>
   <string name="delete_conversation_hint_message">%1$d %2$s je izbrisan</string>
   <string name="deleted">Obrisano</string>

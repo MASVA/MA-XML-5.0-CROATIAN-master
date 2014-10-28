@@ -253,8 +253,8 @@
   <string name="mx_int_warning_notice">Međunarodni SMS će biti poslan za aktivaciju Cloud Poruka. Snosite redovite troškove svog davatelja usluga</string>
   <string name="mx_msg">Cloud Poruke</string>
   <string name="mx_offline">Bez mreže</string>
-  <string name="mx_on_sim_1">Cloud Poruke s SIM utora %s</string>
-  <string name="mx_on_sim_2">Cloud Poruke s SIM utora %s</string>
+  <string name="mx_on_sim_1">Cloud Poruke s SIM utora 1</string>
+  <string name="mx_on_sim_2">Cloud Poruke s SIM utora 2</string>
   <string name="mx_online">Mrežno</string>
   <string name="mx_reactivate">Ponovno aktivirajte Cloud Poruke</string>
   <string name="mx_recommend_msg">Dodirnite za omogućavanje Cloud Poruka</string>

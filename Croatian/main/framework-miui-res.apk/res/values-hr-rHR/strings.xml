@@ -182,7 +182,9 @@ Pokušajte ponovno za %d s."</string>
   <string name="perm_tigger_toggle_lab">Uključi prečace u statusnoj traci</string>
   <string name="perm_use_find_device">Pronađi uređaj</string>
   <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima.</string>
-  <string name="permlab_accessNote">Pristup vašim bilješkana</string>
+  <string name="permdesc_sendSmsNoConfirmation">Dopušta aplikaciji slanje SMS poruka. To može dovesti do neočekivanih troškova. Zlonamjerne aplikacije mogu vas napraviti dodatne troškove slanjem poruka bez vaše potvrde.</string>
+  <string name="permlab_accessNote">Pristup vašim bilješkama</string>
+  <string name="permlab_sendSmsNoConfirmation">Slanje SMS poruka bez potvrde</string>
   <string name="pin_operation_failed">PIN operacija neuspješna.</string>
   <string name="pincode_set_to_default_msg">PIN kod je 1234, unesite novi PIN.</string>
   <string name="private_num">Privatan broj</string>
