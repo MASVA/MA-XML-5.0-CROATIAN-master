@@ -81,6 +81,10 @@
   <string name="all_cloud_service_dspt">"Odaberite koje od Mi cloud usluga ispod bi željeli koristiti.
 Možete ih uključiti/isključiti u bilo koje vrijeme u Postavkama."</string>
   <string name="app_name">Xiaomi Service Framework</string>
+  <string name="apple_10gb">20GB</string>
+  <string name="apple_cloud">Apple Cloud Service</string>
+  <string name="apple_cloud_eng">iCloud</string>
+  <string name="apple_cloud_price">Oko 72 RMB godišnje</string>
   <string name="bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="bank_cards">Bankovna kartica</string>
   <string name="barcode_add_account_prompt">Da biste dodali račun, skenirajte QR kod ponovo nakon što se prijavite.</string>
@@ -88,6 +92,14 @@ Možete ih uključiti/isključiti u bilo koje vrijeme u Postavkama."</string>
   <string name="bind_weibo_description">"Pronađi kontakte telefona i prijatelje pomoću Wiebo</string>
   <string name="binded">Povezivanje</string>
   <string name="button_cancel">Odustani</string>
+  <string name="buy_space_expire">Kupljen prostor će isteći za %s</string>
+  <string name="buy_space_expire_concat">%1$s u %2$s</string>
+  <string name="buy_space_sulotion_auto_renew">Obnovi automatski</string>
+  <string name="buy_space_sulotion_message">Kupite %sGB dodatnog prostora za pohranu</string>
+  <string name="buy_space_sulotion_not_auto_renew">"Ne obnavljaj automatski"</string>
+  <string name="buy_space_sulotion_renew_message">Vrijedi za %s</string>
+  <string name="buy_space_sulotion_renew_title">Obnovi pretplatu</string>
+  <string name="buy_space_sulotion_title">Kupite prostor za pohranu</string>
   <string name="captcha">Captcha kôd</string>
   <string name="checking_account">Provjera računa…</string>
   <string name="checking_input">Provjera unosa…</string>
@@ -96,6 +108,9 @@ Možete ih uključiti/isključiti u bilo koje vrijeme u Postavkama."</string>
 Možete tu značajku uključiti/isključiti bilo kada u Postavkama.</string>
   <string name="cloud_messaging">Cloud Poruke</string>
   <string name="cloud_messaging_dspt">Omogući Cloud Poruke</string>
+  <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %sGB na vaš cloud</string>
+  <string name="cloud_space_upgrade_no_quota_info">Nije uspjelo učitavanje. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
   <string name="cmcc_data_sync_notice">Sinkronizacija poruka i kontakata između raznih uređaja.</string>
   <string name="cmcc_micloud_dspt">Koristite MiCloud za sinkronizaciju podataka, pronalazak svog telefona, i dijeljenje stvari s prijateljima.</string>
   <string name="completed">Završeno</string>
@@ -156,7 +171,15 @@ Možete tu značajku uključiti/isključiti bilo kada u Postavkama."</string>
   <string name="find_password_on_web_msg">Posjetite account.mi.com za vraćanje svoje zaporke</string>
   <string name="foreign_login">Država/Pozivni broj</string>
   <string name="forget_password">Zaboravljena zaporka?</string>
+  <string name="free_space_has_received">Već ste dodali slobodan prostor ovog mjeseca</string>
+  <string name="free_space_receive_fail">"Ne mogu nadograditi"</string>
   <string name="get_back_pwd">Oporavak zaporke računa</string>
+  <string name="get_first_month_gb">Dobijte %s besplatnog prostora</string>
+  <string name="get_this_month_gb">Dobijte %s besplatnog prostora ovog mjeseca</string>
+  <string name="google_100gb">100GB</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">Oko 143 RMB godišnje</string>
   <string name="header_data_and_synchronization">Podaci &amp; Sinkronizacija</string>
   <string name="i_know">U redu</string>
   <string name="input_captcha_hint">Unesite znakove</string>
@@ -164,6 +187,7 @@ Možete tu značajku uključiti/isključiti bilo kada u Postavkama."</string>
   <string name="input_vcode_hint">Unesite verifijacijski kôd</string>
   <string name="int_phone_user_notice">Ako se registrirate brojem izvan Kine, unesite broj formata: +385xxxxxxxxx</string>
   <string name="internet_comm">Poslužitelj poruka</string>
+  <string name="loading_hint">Učitavanje</string>
   <string name="login">Prijavite se</string>
   <string name="login_failed">Prijava nije uspjela</string>
   <string name="login_instead_reg">Prijavite se brojem telefona</string>
@@ -224,6 +248,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="micloud_intro_03_part_02">Lociranje na daljinu, zaključavanje ili brisanje sadržaja telefona na i.mi.com</string>
   <string name="micloud_more">Saznaj više</string>
   <string name="micloud_none">Ništa</string>
+  <string name="micloud_other_product_price">Usporedite cijene</string>
   <string name="micloud_password_confirm_hint">Potvrdite zaporku</string>
   <string name="micloud_password_error_inconsistent">Zaporka se ne podudara</string>
   <string name="micloud_password_req_notice">8~16 znakova, sadrži znamenke, slova abecede, velika i mala slova</string>
@@ -235,7 +260,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="micloud_title_dspt" formatted="false">"Ukupan prostor %s
  Iskorišteno %s | Preostalo %s"</string>
   <string name="micloud_title_full_dspt">Pohrana je puna!</string>
-  <string name="micloud_upgrade_space">Povećajte raspoloživi kapacitet</string>
+  <string name="micloud_upgrade_space">Kupite prostor za pohranu</string>
   <string name="micloud_use_existing">Postojeći račun</string>
   <string name="micloud_user_base_info">Korisničke informacije</string>
   <string name="micloud_user_email">E-pošta</string>
@@ -250,7 +275,11 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="micloud_web_discription_01">Prijavite se na http://i.mi.com</string>
   <string name="micloud_web_discription_02">za pohranu i pristup vašim datotekama s bilo kojeg mjesta</string>
   <string name="micloud_welcome_skip_login">Preskoči</string>
+  <string name="microsoft_cloud">Microsoft Cloud Service</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">Oko 80 RMB godišnje</string>
   <string name="mili_center">Mi Krediti</string>
+  <string name="more_activity_in_upgrade_space">Saznajte više na &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt_in_all_setting">Pošaljite SMS poruke drugim MIUI korisnicima besplatno</string>
   <string name="next">Dalje</string>
   <string name="noRemind">"Nemoj ponovo pokazati"</string>
@@ -294,6 +323,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="sub_alert_notif_dspt" formatted="false">"Imate %s kontakata, %s SMS poruka, %s fotografija, %s bilješki koji nisu sinkronizirani."</string> 
 
   <string name="sub_alert_notif_title">Nije sinkronizirano</string>
+  <string name="success_upgraded_space">%s dodano</string>
   <string name="sync_dspt">Omogući sinkronizaciju</string>
   <string name="sync_dspt_in_all_setting">Sinkronizirajte svoje fotografije, tekstualne poruke, bilješke, i još mnogo toga između svojih Mi uređaja</string>
   <string name="sync_off">Isključeno</string>
@@ -304,6 +334,7 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="sync_sub_2_intl_sms">Vaš operater može vam naplatiti 2 međunarodne SMS poruke korištene za aktiviranje %s</string>
   <string name="sync_sub_2_sms">Vaš operater može vam naplatiti 2 SMS poruke korištene za aktiviranje %s</string>
   <string name="title_reg">Registracija Xiaomi računa</string>
+  <string name="total_space_upgraded_to">Ukupno: %s</string>
   <string name="trust_device">Vjeruj tom uređaju</string>
   <string name="unactivated_user">Još sam malo…</string>
   <string name="unbind">Otkaži provjeru</string>
@@ -311,6 +342,12 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="update_contacts_description">Ažurirati vaše kontakte i ostale informacije</string>
   <string name="updated_contacts">Ažurirano %s kontakata</string>
   <string name="updated_nothing">Nema stavaka za sinkronizaciju</string>
+  <string name="upgrade_space">Dodaj prostor</string>
+  <string name="upgrade_space_gb">GB</string>
+  <string name="upgrade_space_mibipreyear">%s Mi Kredita godišnje</string>
+  <string name="upgrade_space_successful">Dodano %sGB</string>
+  <string name="upgrade_space_successful_total">%sGB dostupno</string>
+  <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement_p1">"Prijavom, slažete se s Xiaomi
   "</string>
   <string name="user_agreement_p2">Uvjetima pružanja usluge</string>
