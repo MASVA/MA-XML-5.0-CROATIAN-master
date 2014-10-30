@@ -15,6 +15,7 @@
   <string name="add_to_favorite">Dodaj u favorite</string>
   <string name="added_to_favorite">Dodano</string>
   <string name="agree">Slažem se</string>
+  <string name="allow">Dopusti</string>
   <string name="app_label">Direktorij</string>
   <string name="average_price">Prosjek %d RMB</string>
   <string name="back">Natrag</string>
@@ -263,6 +264,7 @@ Uskoro ćete dobiti obavijest."</string>
 Ukupan iznos: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">Potvrdi</string>
   <string name="refresh">Osvježi</string>
+  <string name="remember_preference">Zapamti prednosti</string>
   <string name="remind_another_time">"Ne podsjećaj"</string>
   <string name="remind_user_confirm">U redu</string>
   <string name="remind_user_suspect_number_message">"Kriminalci mogu ukrasti tuđe identitete za prijevaru, ako ste u nedoumici,
@@ -301,6 +303,7 @@ molimo vas nazovite kako bi potvrdili pozivatelja. Banke, e-commerce tvrtke i ku
   <string name="user_notice_yp_detail_summary_format">"Neke od vaših oznaka kataloga informacija su zastarjele. Želite li ga ažurirati? Klikom na \"Slažem se\" prihvaćate na Xiaomi %1$s i %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Neke od vaših informacija oznaka direktorija su zastarjele. Želite li ih ažurirati? Dodirivanjem \"Slažem se\" pristajete na Xiaomi %1$s and %2$s."</string>
   <string name="voicemail">Govorna pošta</string>
+  <string name="web_permission_message">%1$s treba pogledati vaš %2$s da pravilno funkcionira.</string>
   <string name="yellow_page_detail_title">Detalji aplikacije</string>
   <string name="yellow_page_website">Službena stranica</string>
 </resources>
