@@ -256,6 +256,10 @@ Za rješiti to, možete obrisati neke stare podatke ili kupiti dodatni prostor z
   <string name="micloud_reg_new">Napravi Mi račun</string>
   <string name="micloud_resend_active_email">Ponovno pošalji aktivacijsku e-poštu</string>
   <string name="micloud_space_full_influence">Što će se dogoditi ako ponestane prostora?</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Morate obnoviti svoju pretplatu.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Morate obnoviti svoju pretplatu.</string>
+  <string name="micloud_storage_expires_soon_title">Mi Cloud prostor za pohranu uskoro istječe</string>
+  <string name="micloud_storage_expires_very_soon_title">Mi Cloud prostor za pohranu uskoro istječe</string>
   <string name="micloud_storage_space">Xiaomi prostor za pohranu</string>
   <string name="micloud_title_dspt" formatted="false">"Ukupan prostor %s
  Iskorišteno %s | Preostalo %s"</string>
