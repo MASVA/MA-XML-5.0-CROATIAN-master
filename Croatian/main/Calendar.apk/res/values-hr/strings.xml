@@ -141,10 +141,8 @@
   <string name="hint_description">Opis</string>
   <string name="hint_what">Sadržaj podsjetnika događaja</string>
   <string name="hint_where">Lokacija</string>
-  <string name="holiday_label">Praznik</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
-  <string name="huangli_label">Huang Li</string>
   <string name="jump_date">Preskoči</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">Nedavni događaji</string>
@@ -254,6 +252,7 @@ e-pošte gostima</string>
   <string name="select_synced_calendars_button">Kalendari za sinkronizaciju</string>
   <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
   <string name="select_visible_calendars_title">Kalendari za prikaz</string>
+  <string name="setting_wifi_mode">仅WLAN下同步大图</string>
   <string name="show_all_lunar">Pokaži lunarno</string>
   <string name="show_almanac">Pokaži almanah</string>
   <string name="show_controls">Pokaži kontrole</string>
