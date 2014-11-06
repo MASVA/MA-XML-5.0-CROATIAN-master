@@ -29,6 +29,7 @@
   <string name="permlab_downloadManagerAdvanced">Napredne funkcije Upravitelja preuzimanja.</string>
   <string name="permlab_downloadWithoutNotification">preuzimanje datoteka bez obavijesti</string>
   <string name="permlab_seeAllExternal">Pogledaj sva preuzimanja na SD kartici</string>
+  <string name="size_unknown">Nepoznato</string>
   <string name="task_already_exist">Zadatak već postoji</string>
   <string name="wifi_recommended_body" formatted="false">"O preuzimanju putem mreže davatelja usluge：
 

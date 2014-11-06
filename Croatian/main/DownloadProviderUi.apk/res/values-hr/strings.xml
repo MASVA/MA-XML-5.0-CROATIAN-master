@@ -23,6 +23,9 @@
   <string name="deselect_all">Odznači sve</string>
   <string name="determine">U redu</string>
   <string name="dialog_cannot_resume">Preuzimanje prekinuto i ne može biti nastavljeno.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Izbriši lokalne datoteke</string>
+  <string name="dialog_confirm_delete_downloads_message">Izbrisati %d zadatke?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Ovi zadaci će biti izbrisani.</string>
   <string name="dialog_failed_body">Želite li ponovno pokušati preuzeti datoteku kasnije ili izbrisati s reda čekanja?</string>
   <string name="dialog_file_already_exists">Ne može se skinuti, odredišna datoteka već postoji.</string>
   <string name="dialog_file_missing_body">Preuzetu datoteku nije moguće pronaći</string>
@@ -116,6 +119,7 @@
   <string name="select_all">Odaberi sve</string>
   <string name="select_operation_items">Odaberite stavke</string>
   <string name="selected_count">Odabrano: %1$d od %2$d</string>
+  <string name="size_unknown">Nepoznato</string>
   <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
   <string name="turn_off_xunlei_tips">Xunlei ubrzanje preuzimanja je isključeno</string>
   <string name="turn_off_xunlei_title">Xunlei alat preuzimanja je onemogućen</string>
