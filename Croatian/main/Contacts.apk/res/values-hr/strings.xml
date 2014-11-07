@@ -138,6 +138,7 @@ Podaci kontakta spremljeni na MiCloud računu biti će također izbrisani."</str
   <string name="chat_qq">QQ</string>
   <string name="chat_skype">Skype</string>
   <string name="chat_yahoo">Yahoo</string>
+  <string name="check_unsynchronized_accounts">Podsjeti me na sink. računa</string>
   <string name="checkhint">Provjeri drugi telefon</string>
   <string name="clearCallLogConfirmation">Svi vaši snimljeni razgovori biti će izbrisani.</string>
   <string name="clearCallLogConfirmation_title">Obrisati sve popise poziva?</string>
