@@ -1282,8 +1282,8 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="status_bar_device_locked">Uređaj zaključan.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_external_usb">Vanjska USB memorija</string>
-  <string name="storage_internal">Interna pohrana</string>
-  <string name="storage_phone">Interna pohrana</string>
+  <string name="storage_internal">Unutarnja pohrana</string>
+  <string name="storage_phone">Unutarnja pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>
   <string name="submit">Pošalji</string>

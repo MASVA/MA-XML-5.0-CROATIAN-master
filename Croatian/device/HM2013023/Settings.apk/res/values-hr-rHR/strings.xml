@@ -243,6 +243,7 @@ Ova postavka utječe na sve korisnike ovog uređaja."</string>
   <string name="epo_warning_dialog_message">Preuzimanje EPO podataka u roamingu stanje može izazvati dodatne troškove. Jeste li sigurni za nastavak?</string>
   <string name="epo_warning_dialog_title">Upozorenje</string>
   <string name="evdo_signal_strength_info">Evdo</string>
+  <string name="external_data_size_label">SD kartica</string>
   <string name="force_msaa">Forsiraj 4x MSAA</string>
   <string name="force_msaa_summary">Omogući 4x MSAA u OpenGL ES 2.0</string>
   <string name="gadget_bluetooth">Bluetooth</string>
