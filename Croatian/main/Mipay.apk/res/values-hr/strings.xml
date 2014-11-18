@@ -69,8 +69,8 @@ Provjerite vaš lokalni datum i pokušajte ponovno."</string>
    <string name="mipay_pay_sms_captcha_summary">Kod za provjeru je poslan na %1$s</string>
    <string name="mipay_pay_cvv2_error">Provjerite vaš CVV2</string>
    <string name="mipay_query_wait">Plaćanje</string>
-   <string name="mipay_query_success">Plaćanje nije uspjelo</string>
-   <string name="mipay_query_failed">Plaćanje završeno</string>
+   <string name="mipay_query_success">Plaćanje završeno</string>
+   <string name="mipay_query_failed">Plaćanje nije uspjelo</string>
    <string name="mipay_query_timeout">Isteklo vrijeme plaćanja</string>
    <string name="mipay_query_timeout_contact">Kontaktirajte našu službu za korisnike</string>
    <string name="mipay_button_count_down">Raspitajte se nakon %1$s sek.</string>
