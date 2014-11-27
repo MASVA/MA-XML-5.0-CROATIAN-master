@@ -414,8 +414,8 @@
   <string name="empty_alert">%s je potreban, ne može ostati prazno</string>
   <string name="empty_networks_list">Nema pronađenih mreža.</string>
   <string name="enable">Omogući</string>
-  <string name="enable_antispam_strange_summary">Utišaj prvi poziv s nepoznatog broja</string>
-  <string name="enable_antispam_strange_title">Protučudan poziv</string>
+  <string name="enable_antispam_strange_summary">Utišaj prvo zvono za pozive s nepoznatog broja</string>
+  <string name="enable_antispam_strange_title">Utišaj prvo zvono</string>
   <string name="enable_disable_administrative">Administrativno</string>
   <string name="enable_disable_advertisements">Oglašavanja</string>
   <string name="enable_disable_atr">Obavijesti o prometu</string>

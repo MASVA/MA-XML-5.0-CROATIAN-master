@@ -27,8 +27,8 @@
   <string name="alert_tips">Stranica koje ste posjetili može predstavljati potencijalnu opasnost za sigurnost, budite oprezni!</string>
   <string name="allow">Dopusti</string>
   <string name="already_in_top_level">Oznaka je već na najvišoj razini</string>
-  <string name="app_new_version">Već imate preuzetu najnoviju verziju</string>
-  <string name="app_update_install">Nova verzija preuzeta i spremna za ugradnju</string>
+  <string name="app_new_version">Najnovija verzija aplikacije je već instalirana</string>
+  <string name="app_update_install">Ažuriranje spremno za instaliranje</string>
   <string name="application_name">Preglednik</string>
   <string name="autofill_profile_editor_address_line_1">1. red adrese:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Ulica, poštanski pretinac, na ruke</string>

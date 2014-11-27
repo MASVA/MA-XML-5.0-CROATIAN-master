@@ -2158,10 +2158,10 @@ Budite oprezni: Odobravanje ROOT dopuštenja za neke druge aplikacije mogu desta
   <string name="power_autorun_control_desc">"Povećanje broja autopokretanih programa može povećati potrošnju energije vašeg uređaja"</string>
   <string name="power_autorun_control_title">Autopokretanje</string>
   <string name="power_autorun_empty">Nijedna od vaših aplikacija ne može se dodati</string>
-  <string name="power_battery_history_days">%1$ddana %2$dsati %3$dmin</string>
-  <string name="power_battery_history_hours">%1$dsati %2$dmin</string>
-  <string name="power_battery_history_minutes">%1$d min</string>
-  <string name="power_battery_history_zero_minutes">0 min</string>
+  <string name="power_battery_history_days">%1$dd %2$ds %3$dmin</string>
+  <string name="power_battery_history_hours">%1$ds %2$dm</string>
+  <string name="power_battery_history_minutes">%1$dm</string>
+  <string name="power_battery_history_zero_minutes">0m</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Izbriši</string>
   <string name="power_cell">Mobilni signal</string>

@@ -44,7 +44,7 @@
   <string name="ad_update_time">Zadnje ažuriranje: %s</string>
   <string name="ad_update_time_unKnown">Zadnje ažuriranje: nepoznato</string>
   <string name="ad_update_title">Automatski ažuriraj</string>
-  <string name="address_choose_hint">%1$s、%2$s i %3$d lokacije</string>
+  <string name="address_choose_hint">%1$s, %2$s, and %3$d ostale lokacije</string>
   <string name="addwhitelist">Dodaj u iznimke</string>
   <string name="all_address_choose_hint">Sve lokacije</string>
   <string name="app_name">Lista zabranjenih</string>
@@ -95,7 +95,7 @@
   <string name="dlg_remove_address_whitelist">Ukloniti ovu lokaciju iz iznimaka?</string>
   <string name="dlg_remove_blacklist">Odblokirati ovaj broj?</string>
   <string name="dlg_remove_blacklist_ing">Uklanjanje s liste blokiranih…</string>
-  <string name="dlg_remove_blacklist_ok">Odblokiraj</string>
+  <string name="dlg_remove_blacklist_ok">Ukloni</string>
   <string name="dlg_remove_whitelist">Ukloniti ove brojeve iz iznimaka?</string>
   <string name="dlg_remove_whitelist_ing">Uklanjanje s liste dopuštenih…</string>
   <string name="dlg_retore">Vratiti SMS aplikaciji?</string>
@@ -158,7 +158,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="note_list_none">Nema liste za uređivanje</string>
   <string name="note_preference_delete">Način rada je u uporabi, ne može se izbrisati</string>
   <string name="note_sms_none">Nema poruka za uređivanje</string>
-  <string name="one_address_choose_hint">%s1 lokacija</string>
+  <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Uključeno</string>
   <string name="read_all_sms">Pročitaj sve</string>
   <string name="report">Prijava</string>
@@ -279,7 +279,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="toast_keyword_blank">Unesite ključnu riječ</string>
   <string name="toast_keyword_exist">Ključna riječ spremljena</string>
   <string name="toast_keyword_invalid">Pogrešna ključna riječ</string>
-  <string name="two_address_choose_hint">%1$s, %2$s2 lokacije</string>
+  <string name="two_address_choose_hint">%1$s i %2$s</string>
   <string name="user_define_title">Prilagođeno</string>
   <string name="whitelist_prefix_add_hint">Dodati sve brojeve s predbrojem u iznimke</string>
   <string name="wl_no_whitelist">Nema dozvoljenih brojeva</string>

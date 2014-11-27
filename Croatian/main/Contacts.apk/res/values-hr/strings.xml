@@ -26,8 +26,8 @@
   <string name="add_organization">Dodaj organizaciju</string>
   <string name="add_to_my_contacts">Dodaj u Moje kontakte</string>
   <string name="add_wait">Pričekaj</string>
-  <string name="add_xiaomi_account_dialog_btn">Koristi Xiaomi račun</string>
-  <string name="add_xiaomi_account_dialog_msg">Za najbolje iskustvo, molimo vas da razmislite o korištenju svog ​​Xiaomi računa za sinkronizaciju i sigurnosnu kopiju kontakata i njihovo upravljanje s računala.</string>
+  <string name="add_xiaomi_account_dialog_btn">Upotrijebi Mi Račun</string>
+  <string name="add_xiaomi_account_dialog_msg">Izradite sig. kopiju vaših kontakata na vaš Mi Račun da im možete pristupiti od bilo kuda!</string>
   <string name="add_xiaomi_account_dialog_title">Odaberite račun sinkronizacije</string>
   <string name="aggregation_suggestion_edit_dialog_message">Prebaciti se na uređivanje odabranog kontakta? Informacije koje ste unijeli dosad kopirat će se.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Isti naziv</string>
@@ -445,13 +445,12 @@ Razlog: \"%s\""</string>
   <string name="import_to_xiaomi_account_confirm">Uvezi</string>
   <string name="import_to_xiaomi_account_progress_finish">Uvoz uspješan!</string>
   <string name="import_to_xiaomi_account_progress_message">Uvozim…</string>
-  <string name="import_to_xiaomi_account_progress_title">Uvezi kontakte na Xiaomi Račun</string>
-  <string name="import_to_xiaomi_account_title">Želite li uvesti sljedeće kontakte u svoj Xiaomi račun?</string>
-  <string name="import_vcard_description">"Uvoz kontakata iz interne memorije telefona"</string>
+  <string name="import_to_xiaomi_account_progress_title">Uvezi kontakte na Mi Račun</string>
+  <string name="import_to_xiaomi_account_title">Želite li uvesti sljedeće kontakte u svoj Mi Račun?</string>
   <string name="import_weibo_dialog_title">Uvezi Weibo kontakte</string>
   <string name="import_weibo_error_no_matched_contacts">Nema odgovarajućih kontakata.</string>
   <string name="import_weibo_error_no_network">Greška mreže.</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Nema pohranjenih telefonskih brojeva u vašem Xiaomi računu.</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Nema pohranjenih telefonskih brojeva u vašem Mi Računu.</string>
   <string name="import_weibo_error_unknown">Nepoznata greška.</string>
   <string name="import_weibo_error_user_cancel">Otkazano</string>
   <string name="import_weibo_fetch_followers">Dohvaćam kontakte…</string>
@@ -584,8 +583,8 @@ Razlog: \"%s\""</string>
   <string name="nickname_picker_name_column">Ime kontakta</string>
   <string name="nickname_picker_nickname_column">Titula</string>
   <string name="noAccounts">Za kreiranje skupine potreban vam je račun.</string>
-  <string name="noContactHelpTextAccountsInfo">Sinkroniziraj Xiaomi, Google, Exchange kontakte.</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Vrati sigurnosnu kopiju pohranjenu na Xiaomi računu i MiTalk-u</string>
+  <string name="noContactHelpTextAccountsInfo">Sinkroniziraj Mi Račun, Google i Exchange kontakte.</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Vrati sigurnosnu kopiju pohranjenu na Mi Računu</string>
   <string name="noContacts">Nema kontakata.</string>
   <string name="noContactsHelpText">"Nemate kontakata za prikaz.
 Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
@@ -721,9 +720,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_key_rebuild_t9_index_title">Obnovi indeks podataka</string>
   <string name="pref_key_sim_manage">Upravljanje SIM-om</string>
   <string name="pref_key_sim_manage2">Upravljanje SIM-om 2</string>
-  <string name="pref_summary_import_from_account">Prijenos kontakata iz Google i Exchange računa na moj Xiaomi račun</string>
+  <string name="pref_summary_import_from_account">Prijenos kontakata iz Google i Exchange računa na moj Mi Račun</string>
   <string name="pref_title_account_import">Uvezi iz računa</string>
-  <string name="pref_title_import_from_account">Uvezi iz Xiaomi računa</string>
+  <string name="pref_title_import_from_account">Uvezi iz Mi Računa</string>
   <string name="preference_auto_ip_summary_disable">Onemogućeno</string>
   <string name="preference_auto_ip_summary_on">IP prefiks davatelja usluga: %s</string>
   <string name="preference_auto_ip_title">Automatski IP prefiks</string>
@@ -895,7 +894,7 @@ Dodirnite ikonu "Spoji" na dnu za početak."</string>
   <string name="resource_exchange_wrong_format_by_local">Pogrešan kod</string>
   <string name="resource_exchange_wrong_format_by_server">"Poklon kod nije mogao biti potvrđen. Provjerite je li točno unesen."</string>
   <string name="resource_expand_full_text">Proširi</string>
-  <string name="resource_failed_to_load_list">Učitavanje liste nije uspjelo</string>
+  <string name="resource_failed_to_load_list">"Ne mogu učitati popis"</string>
   <string name="resource_get_auth_checking">Provjera ovlaštenja…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Tema ne može raditi na trenutnom uređaju, dostigli ste limit 10 tema, molimo vas da koristite neki drugi uređaj</string>
   <string name="resource_get_auth_exceed_max_limit_title">Prekoračen limit ovlaštenja</string>

@@ -149,7 +149,7 @@
   <string name="resource_exchange_wrong_format_by_local">Unešen pogrešan kod</string>
   <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Provjerite svoj kod i pokušajte ponovno.</string>
   <string name="resource_expand_full_text">Proširi</string>
-  <string name="resource_failed_to_load_list">Učitavanje liste nije uspjelo</string>
+  <string name="resource_failed_to_load_list">"Ne mogu učitati popis"</string>
   <string name="resource_get_auth_checking">Provjeravam autorizaciju…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Tema se ne može pokrenuti na ovom uređaju. Došli ste do maksimalno 10 Xiaomi računa. Pokušajte s drugim računom.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Dosegnuto ograničenje autorizacije!</string>
@@ -171,11 +171,11 @@
   <string name="resource_pack_confirm">Već ste kupili  %1$d stavke, ali trenutna cijena je još uvijek bolja nego pojedinačna kupnja stavaka, želite nastaviti?</string>
   <string name="resource_pack_discount_info">Uštedite %1$s!</string>
   <string name="resource_pack_price_info">Originalna cijena %1$s</string>
-  <string name="resource_pack_warning">Upozorenje! već ste platili za %1$d stavke,trenutna cijena je više ne vrijedi za preostale stavke, molimo kupite ih pojedinačno.</string>
+  <string name="resource_pack_warning">Upozorenje! već ste platili za %1$d stavke, trenutna cijena je više ne vrijedi za preostale stavke, molimo kupite ih pojedinačno.</string>
   <string name="resource_present">Poklon</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Besplatno</string>
-  <string name="resource_price_unit">MI Kredita</string>
+  <string name="resource_price_unit">Mi Kredita</string>
   <string name="resource_purchase_getting_order">Preuzimam narudžbu…</string>
   <string name="resource_purchase_verifying_payment">Provjeravam plaćanje…</string>
   <string name="resource_purchase_waiting_payment">Čekam info o plaćanju…</string>
