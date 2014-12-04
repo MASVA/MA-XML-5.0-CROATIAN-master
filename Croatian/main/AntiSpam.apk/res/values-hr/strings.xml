@@ -40,15 +40,17 @@
   <string name="ad_permission_hint">Korištenje Blokatora reklama može može utjecati na izvedbu vaših aplikacija ili ih spriječiti da rade normalno.</string>
   <string name="ad_relative_setting">Postavke</string>
   <string name="ad_single_block_hint">Blokirano</string>
+  <string name="ad_update_check_text">Ažuriraj automatski</string>
   <string name="ad_update_setting">Ažuriraj postavke blokatora reklama</string>
   <string name="ad_update_time">Zadnje ažuriranje: %s</string>
-  <string name="ad_update_time_unKnown">Zadnje ažuriranje: nepoznato</string>
-  <string name="ad_update_title">Automatski ažuriraj</string>
+  <string name="ad_update_time_unKnown">Zadnje ažuriranje nepoznato</string>
+  <string name="ad_update_title">Ažuriraj automatski</string>
+  <string name="ad_update_warn_info">"Verzija informacija Blokatora reklama će biti učitane na Xiaomi poslužitelje za ažuriranje definicija reklama"</string>
   <string name="address_choose_hint">%1$s, %2$s, and %3$d ostale lokacije</string>
   <string name="addwhitelist">Dodaj u iznimke</string>
   <string name="all_address_choose_hint">Sve lokacije</string>
   <string name="app_name">Lista zabranjenih</string>
-  <string name="backsound_set_hint">Postaviti zvuk na %s?</string>
+  <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
   <string name="baidu_thanks">Powered By Baidu</string>
   <string name="bl_block_info" formatted="false">Blokirano: Poziva %d| SMS-a: %d</string>
   <string name="bl_no_blacklist">Nema blokiranih brojeva</string>
@@ -118,17 +120,17 @@
   <string name="label_callwait">Poziv na čekanju</string>
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Prodavač</string>
-  <string name="mark_agent_block">Označen kao prodavač</string>
+  <string name="mark_agent_block">Prijavljen kao prodavač</string>
   <string name="mark_express">Dostavljač</string>
-  <string name="mark_express_block">Označen kao dostavljač</string>
+  <string name="mark_express_block">Prijavljen kao dostavljač</string>
   <string name="mark_fraud">Prevarant</string>
-  <string name="mark_fraud_block">Označen kao prevatant</string>
+  <string name="mark_fraud_block">Prijavljen kao prevatant</string>
   <string name="mark_meal">Dostava hrane</string>
-  <string name="mark_meal_block">Označen kao dostava hrane</string>
+  <string name="mark_meal_block">Prijavljen kao dostava hrane</string>
   <string name="mark_number_info">"
 Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potrazi za stanom). Blokirajte samo one brojeve iz kojih nikada ne želite primati pozive."</string>
   <string name="mark_sell">Telemarketer</string>
-  <string name="mark_sell_block">Označen kao telemarketer</string>
+  <string name="mark_sell_block">Prijavljen kao telemarketer</string>
   <string name="marked_by_others">"%d ostali korisnici su je označili kao "</string>
   <string name="marked_by_user">" ste je označili kao "</string>
   <string name="menu_add">Dodaj</string>
@@ -263,7 +265,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="st_title_man_editwhitelist">Izaberite kod lokacije za dodavanje u iznimke</string>
   <string name="st_title_man_head_addblacklist">Dodati predbroj broja telefona na listu blokiranih</string>
   <string name="st_title_man_head_addwhitelist">Dodati predbroj broja telefona u iznimke</string>
-  <string name="st_title_markednumber_group">Označen broj liste blokiranih</string>
+  <string name="st_title_markednumber_group">Blokiraj prijavljene brojeve</string>
   <string name="st_title_mode_choose_group">Odaberi način rada</string>
   <string name="st_title_open_antispam">Lista blokiranih</string>
   <string name="st_title_settings_other_group">Dodatne postavke</string>
@@ -281,6 +283,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="toast_keyword_invalid">Pogrešna ključna riječ</string>
   <string name="two_address_choose_hint">%1$s i %2$s</string>
   <string name="user_define_title">Prilagođeno</string>
+  <string name="warning">Pažnja</string>
   <string name="whitelist_prefix_add_hint">Dodati sve brojeve s predbrojem u iznimke</string>
   <string name="wl_no_whitelist">Nema dozvoljenih brojeva</string>
 </resources>

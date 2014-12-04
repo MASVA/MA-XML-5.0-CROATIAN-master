@@ -200,6 +200,7 @@ Možete pregledati i urediti svoj
   <string name="error_invalid_link">Veza nije valjana ili je zastarjela, zamolite vlasnika albuma da napravi novu vezu.</string>
   <string name="error_not_acceptable">Pogreška poslužitelja: Sinkr. onemogućena.</string>
   <string name="error_repeat_apply">Već ste podijelili ovaj album</string>
+  <string name="error_share_not_support">"Ova značajka još nije podržana"</string>
   <string name="error_share_with_creator">Već ste u ovom albumu</string>
   <string name="error_should_not_select_image">Upozorenje: nemojte odabrati slikovnu datoteku.</string>
   <string name="error_should_not_select_video">Upozorenje: nemojte odabrati videozapis.</string>
