@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Početna stranica</string>
   <string name="accessibility_button_clear">Obriši unos</string>
@@ -148,6 +148,9 @@
   <string name="copy_link">Kopiraj vezu</string>
   <string name="copy_to_clipboard_failure_message">Kopiranje u međuspremnik nije uspjelo</string>
   <string name="create_shortcut_bookmark">Dodaj prečac početnoj stranici</string>
+  <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš davatelj usluga vam može naplatiti dodatne naknade.</string>
+  <string name="data_traffic_prompt_message">Korištenje vaše mobilne podatkovne veze za pregledavanje interneta će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš davatelj usluga vam može naplatiti dodatne naknade.</string>
+  <string name="data_traffic_prompt_title">Upozorenje uporabe podataka</string>
   <string name="date_picker_dialog_clear">Očistiti</string>
   <string name="date_picker_dialog_other_button_label">Ostalo</string>
   <string name="date_picker_dialog_set">Postavljanje</string>
@@ -599,6 +602,9 @@
   <string name="user_defined_webpage">Dodaj na početnu stranicu</string>
   <string name="user_defined_webpage_title">Dodaj na početnu stranicu</string>
   <string name="username">Ime</string>
+  <string name="video_project_button">Stop</string>
+  <string name="video_project_msg">Videozapis se projicira na %s</string>
+  <string name="video_project_title">Projekcija videozapisa</string>
   <string name="view_certificate">Prikaži certifikat</string>
   <string name="warning">Upozorenje</string>
   <string name="webapp_add_to_desktop">Dodaj na radnu površinu</string>

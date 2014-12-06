@@ -168,6 +168,8 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="report_only">Odaberite barem 1 SMS poruku</string>
   <string name="report_sms">Prijavi SMS</string>
   <string name="report_success">Prijavljeno</string>
+  <string name="report_warning">"Prijaviti %1$s SMS Xiaomi-u? Te poruke i telefonski brojevi koji su bili poslani će biti učitani na Xiaomi poslužitelje za pregled. Bilo koje osobne informacije povezane s tim porukama ostati će uvijek anonimne."</string>
+  <string name="report_warning_title">Prijavi SMS</string>
   <string name="sms_delete_hint">Ukloniti sve blokirane poruke s odabranog broja?</string>
   <string name="st_advanced_setting_group">Napredno</string>
   <string name="st_antispam_black_adress_add">Odaberi područje</string>
