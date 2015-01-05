@@ -244,8 +244,9 @@
   <string name="change_account_type">Promijenite vrstu računa</string>
   <string name="change_folders_selection_dialog_title">Promjena mapa</string>
   <string name="change_sync_settings">Promjena postavki sinkronizacije</string>
-  <string name="chat_type_name">chat</string>
+  <string name="chat_type_name">Razgovori</string>
   <string name="check_setup_data">Provjeravanje postavki poslužitelja…</string>
+  <string name="chat_view_title">Prikaži razgovore</string>
   <string name="checking_for_mail">Provjeravanje pošte</string>
   <string name="checking_message">Provjera ažuriranja…</string>
   <string name="choosertitle_sharevia">Dijeli putem</string>
@@ -301,9 +302,9 @@
   <string name="date_message_received_yesterday">Jučer, %1$s</string>
   <string name="default_setup">ZADANE POSTAVKE</string>
   <string name="default_signature">Poslano s Mi Telefona</string>
-  <string name="delete">Obrisati</string>
-  <string name="delete_conversation_hint_message">%1$d %2$s je izbrisan</string>
-  <string name="deleted">Obrisano</string>
+  <string name="delete">Izbriši</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s izbrisano</string>
+  <string name="deleted">Izbrisano</string>
   <string name="device_activity_btn_str">Natrag na aktivaciju</string>
   <string name="device_activity_lint_str">Omogućite kompletno ažuriranje usluge E-pošte i aktivirajte sigurnosnu opremu</string>
   <string name="device_admin_description">Omogućuje sigurnosna pravila određena poslužiteljem</string>
@@ -361,7 +362,7 @@
   <string name="failed">"Nije moguće učitati sliku"</string>
   <string name="feedback">Pošaljite povratne informacije</string>
   <string name="feedback_body">Detalji povratne informacije</string>
-  <string name="feedback_sent">"Zahvaljujemo na povratnim informacijama. Nastaviti ćemo se usavršavati za vas"</string>
+  <string name="feedback_sent">"Zahvaljujemo na povratnim informacijama."</string>
   <string name="fetching_attachment">Dohvaćanje privitka</string>
   <string name="file_deleted_success">Datoteka je uspješno obrisana!</string>
   <string name="file_not_found">Datoteka ne postoji na poslužitelju e-pošte!</string>
@@ -487,9 +488,9 @@
   <string name="menu_search">Pretraživanje</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_show_original">Vrati izvornu verziju</string>
-  <string name="message_body_auto_download_complete">Automatski preuzeta e-pošta pomoću WLAN-a</string>
+  <string name="message_body_auto_download_complete">Preuzimanje pošte automatski koristeći WLAN mrežu</string>
   <string name="message_body_auto_download_tip">"Trenutno koristite WLAN. E-pošta će se automatski preuzeti."</string>
-  <string name="message_body_download_failed">Istek vremena prilikom preuzimanja e-pošte</string>
+  <string name="message_body_download_failed">"Ne mogu preuzeti poštu. Veza je prekinuta."</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Izvorna poruka --------
@@ -521,7 +522,7 @@ Kopija: %4$s
   <string name="mute">Isključi zvuk</string>
   <string name="name_or_number_is_error">Pogreška Korisničkog imena ili zaporke</string>
   <string name="network_error">Nema veze</string>
-  <string name="network_not_available">Mreža isključena ili abnormalna, molimo provjerite</string>
+  <string name="network_not_available">"Nije moguće povezati se na mrežu"</string>
   <string name="new_down_desc1">Savjeti:</string>
   <string name="new_down_desc2">Promjene:</string>
   <string name="new_down_desc3">Preporuka je korištenje WLAN-a</string>
@@ -753,7 +754,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo. Ograničenje je %1$s.</string>
   <string name="too_large_to_attach_single">"Nije moguće priložiti datoteku veću od %1$s."</string>
   <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
-  <string name="tryrefreshing">Pokušajte osvježiti…</string>
+  <string name="tryrefreshing">Osvježavam…</string>
   <string name="turn_auto_sync_on_dialog_body">Promjene koje unesete na svim aplikacijama i računima, a ne samo na Gmailu, sinkronizirat će se na webu, vašim ostalim uređajima i vašem uređaju %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>
   <string name="turn_auto_sync_on_dialog_title">Želite li uključiti automatsku sinkronizaciju?</string>

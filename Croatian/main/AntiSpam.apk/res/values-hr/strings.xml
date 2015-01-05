@@ -285,7 +285,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="toast_keyword_invalid">Pogrešna ključna riječ</string>
   <string name="two_address_choose_hint">%1$s i %2$s</string>
   <string name="user_define_title">Prilagođeno</string>
-  <string name="warning">Pažnja</string>
+  <string name="warning">Upozorenje</string>
   <string name="whitelist_prefix_add_hint">Dodati sve brojeve s predbrojem u iznimke</string>
   <string name="wl_no_whitelist">Nema dozvoljenih brojeva</string>
 </resources>

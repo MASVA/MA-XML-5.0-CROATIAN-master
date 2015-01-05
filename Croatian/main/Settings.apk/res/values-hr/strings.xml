@@ -1824,6 +1824,8 @@ pokušajte odspojiti telefon s USB-a i ponovno spojite ili ponovno instalirajte.
   <string name="musicfx_title">Glazbeni efekti</string>
   <string name="mvno_match_data">MVNO vrijednost</string>
   <string name="mvno_type">MVNO vrsta</string>
+  <string name="name_antivirus">"Tencent Pravila o Privatnosti"</string>
+  <string name="name_optimizer">"Cheetah Mobile Pravila o Privatnosti"</string>
   <string name="nearby_wifi">Dostupne mreže</string>
   <string name="need_check">Neke stavke mogu biti optimizirane…</string>
   <string name="network_assistant">Podaci</string>

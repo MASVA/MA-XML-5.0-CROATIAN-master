@@ -25,11 +25,11 @@
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Fotoaparat</string>
   <string name="err_type_nonsystemapp">Ostale aplikacije</string>
-  <string name="err_type_power_consuming">Korištenje baterije</string>
-  <string name="err_type_reboot">Slučajna ponovna pokretanja</string>
-  <string name="err_type_signal">Problemi s mrežom</string>
+  <string name="err_type_power_consuming">Baterija</string>
+  <string name="err_type_reboot">Restart</string>
+  <string name="err_type_signal">Mreža</string>
   <string name="err_type_suggestion">Prijedlozi</string>
-  <string name="err_type_systemapp">MIUI aplikacije</string>
+  <string name="err_type_systemapp">MIUI Aplik.</string>
   <string name="err_type_wifi">WLAN</string>
   <string name="hot_problem">Prikaži uobičajene greške</string>
   <string name="hot_problem_empty">Prazno</string>
@@ -59,6 +59,9 @@
   <string name="section_screenshot">Snimka zaslona</string>
   <string name="signal_problem1">Nema signala</string>
   <string name="signal_problem2">Slabi signal</string>
+  <string name="submit_dialog_confirm">Pošalji</string>
+  <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima pogrešaka i priloženim slikama, biti će poslani na Xiaomi poslužitelje."</string>
+  <string name="submit_dialog_title">Pošalji izvješće Xiaomi-u</string>
   <string name="status_msg_collecting_log">Prikupljanje zapisa…</string>
   <string name="status_msg_pending_upload">%d čeka slanje…</string>
   <string name="suggestion_description">"Nadam se da će te napisati nešto, jer…"</string>

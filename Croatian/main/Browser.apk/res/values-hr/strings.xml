@@ -247,7 +247,7 @@
   <string name="location">Adresa</string>
   <string name="low_memory_error">Nije moguće dovršiti postupak zbog nedostatka memorije</string>
   <string name="max_tabs_warning">Nema dostupnih kartica</string>
-  <string name="maximum_input_alert">Maksimalno ulaz 2048 znakova</string>
+  <string name="maximum_input_alert">Maksimalno 2048 znakova</string>
   <string name="media_player_error_button">U redu</string>
   <string name="media_player_error_text_invalid_progressive_playback">Ovaj videozapis nije valjan za streaming na ovom uređaju.</string>
   <string name="media_player_error_text_unknown">Videozapis se ne može reproducirati.</string>
@@ -602,7 +602,7 @@
   <string name="user_defined_webpage">Dodaj na početnu stranicu</string>
   <string name="user_defined_webpage_title">Dodaj na početnu stranicu</string>
   <string name="username">Ime</string>
-  <string name="video_project_button">Stop</string>
+  <string name="video_project_button">Zaustavi</string>
   <string name="video_project_msg">Videozapis se projicira na %s</string>
   <string name="video_project_title">Projekcija videozapisa</string>
   <string name="view_certificate">Prikaži certifikat</string>

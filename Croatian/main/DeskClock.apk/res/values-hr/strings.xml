@@ -117,6 +117,7 @@
   <string name="timer_message_with_hour">Proteklo vrijeme: %1$d sati i %2$d min.</string>
   <string name="timer_message_with_seconds">Proteklo vrijeme: %1$d sek.</string>
   <string name="timer_minute">M</string>
+  <string name="timer_notify_text">Odgodi ili odbaci Kronometar.</string>
   <string name="timer_start_alarm">Vrijeme isteklo!</string>
   <string name="timer_title">Kronometar</string>
   <string name="timer_tutorial">Isključiti podešeno</string>
