@@ -761,7 +761,7 @@ Ograničite svoju pristiglu poštu"</string>
   <string name="undo">Poništi</string>
   <string name="unread_string">razgovor nije pročitan</string>
   <string name="unsent_messages_in_outbox">%1$s neposlanih u %2$s</string>
-  <string name="updated_at">Zadnje ažurirano%1$s</string>
+  <string name="updated_at">Zadnje ažurirano %1$s</string>
   <string name="updated_just_now">Upravo ažurirano</string>
   <string name="upgrade_check">Provjera</string>
   <string name="upgrade_network_error">Greška mreže</string>
